@@ -6,7 +6,7 @@
 
 ### 1. Beginner Data Science (20 topics)
 1. Introduction to data science concepts [01-01-01.ipynb](1-DS\01-01-01.ipynb)
-2. Setting up a data science environment
+2. Setting up a data science environment [01-01-02.ipynb](1-DS\01-01-02.ipynb)
 3. Introduction to NumPy arrays
 4. Pandas DataFrame basics
 5. Loading data from various sources (CSV, Excel, JSON)
