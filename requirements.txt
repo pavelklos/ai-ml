@@ -10,3 +10,4 @@ openpyxl
 sqlalchemy
 pyarrow
 fastparquet
+xlrd
