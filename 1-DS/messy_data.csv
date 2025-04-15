@@ -1,0 +1,7 @@
+This is a header line we want to skip
+This is another line we want to skip
+id,name,age,city
+1,John Smith,34,New York
+2,Jane Doe,28,San Francisco
+3,Bob Johnson,45,Chicago
+4,Alice Brown,32,Boston
