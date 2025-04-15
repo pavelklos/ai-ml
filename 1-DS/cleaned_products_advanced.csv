@@ -1,0 +1,7 @@
+product_id;product_name;category;price;stock;rating;release_date
+1001.00;Laptop;Computers;1200.50;45;4.60;2023-01-15
+1002.00;Smartphone;Phones;899.99;120;4.50;2022-09-22
+1002.00;Smartphone;Phones;899.99;120;4.50;2022-09-22
+1003.00;Tablet;Computers;;35;4.20;2023-03-10
+9999.00;Unknown Product;Unknown;159.99;0;;2023-01-01
+1005.00;Headphones;Audio;;90;4.70;2023-02-28

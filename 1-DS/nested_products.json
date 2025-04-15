@@ -1,0 +1,132 @@
+[
+  {
+    "product_id": 1001,
+    "product_name": "Laptop",
+    "details": {
+      "category": "Computers",
+      "price": 1200.5,
+      "stock": 45
+    },
+    "meta": {
+      "rating": 4.6,
+      "release_date": "2023-01-15"
+    }
+  },
+  {
+    "product_id": 1002,
+    "product_name": "Smartphone",
+    "details": {
+      "category": "Phones",
+      "price": 899.99,
+      "stock": 120
+    },
+    "meta": {
+      "rating": 4.5,
+      "release_date": "2022-09-20"
+    }
+  },
+  {
+    "product_id": 1003,
+    "product_name": "Tablet",
+    "details": {
+      "category": "Computers",
+      "price": 399.95,
+      "stock": 35
+    },
+    "meta": {
+      "rating": 4.2,
+      "release_date": "2023-03-10"
+    }
+  },
+  {
+    "product_id": 1004,
+    "product_name": "Smartwatch",
+    "details": {
+      "category": "Wearables",
+      "price": 249.5,
+      "stock": 78
+    },
+    "meta": {
+      "rating": 3.9,
+      "release_date": "2022-11-05"
+    }
+  },
+  {
+    "product_id": 1005,
+    "product_name": "Headphones",
+    "details": {
+      "category": "Audio",
+      "price": 159.99,
+      "stock": 90
+    },
+    "meta": {
+      "rating": 4.7,
+      "release_date": "2023-02-28"
+    }
+  },
+  {
+    "product_id": 1006,
+    "product_name": "Gaming Console",
+    "details": {
+      "category": "Gaming",
+      "price": 499.95,
+      "stock": 25
+    },
+    "meta": {
+      "rating": 4.8,
+      "release_date": "2022-07-12"
+    }
+  },
+  {
+    "product_id": 1007,
+    "product_name": "TV",
+    "details": {
+      "category": "Home Entertainment",
+      "price": 899.99,
+      "stock": 15
+    },
+    "meta": {
+      "rating": 4.3,
+      "release_date": "2023-04-18"
+    }
+  },
+  {
+    "product_id": 1008,
+    "product_name": "Camera",
+    "details": {
+      "category": "Photography",
+      "price": 649.95,
+      "stock": 28
+    },
+    "meta": {
+      "rating": 4.1,
+      "release_date": "2022-12-30"
+    }
+  },
+  {
+    "product_id": 1009,
+    "product_name": "Bluetooth Speaker",
+    "details": {
+      "category": "Audio",
+      "price": 79.99,
+      "stock": 60
+    },
+    "meta": {
+      "rating": 4.0,
+      "release_date": "2023-05-22"
+    }
+  },
+  {
+    "product_id": 1010,
+    "product_name": "E-reader",
+    "details": {
+      "category": "Reading",
+      "price": 129.95,
+      "stock": 55
+    },
+    "meta": {
+      "rating": 4.4,
+      "release_date": "2022-08-08"
+    }
+  }
+]

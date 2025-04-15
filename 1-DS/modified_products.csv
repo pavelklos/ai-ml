@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock,rating,release_date
+1001,Laptop,Computers,1200.5,45,4.6,2023-01-15
+1002,Smartphone,Phones,899.99,120,4.5,2022-09-20
+1003,Tablet,Computers,,35,4.2,2023-03-10
+1004,Smartwatch,Wearables,249.5,78,3.9,2022-11-05
+1005,Headphones,Audio,159.99,90,4.7,2023-02-28
+1006,Gaming Console,Gaming,499.95,25,,2022-07-12
+1007,TV,Home Entertainment,899.99,15,4.3,2023-04-18
+1008,Camera,Photography,649.95,28,4.1,2022-12-30
+1009,Bluetooth Speaker,Audio,79.99,60,4.0,2023-05-22
+1010,E-reader,Reading,129.95,55,4.4,2022-08-08
