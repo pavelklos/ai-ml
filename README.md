@@ -9,7 +9,7 @@
 2. Setting up a data science environment [01-01-02.ipynb](1-DS/01-01-02.ipynb)
 3. Introduction to NumPy arrays [01-01-03a.ipynb](1-DS/01-01-03a.ipynb), [01-01-03b.ipynb](1-DS/01-01-03b.ipynb)
 4. Pandas DataFrame basics [01-01-04.ipynb](1-DS/01-01-04.ipynb) + data ([json](1-DS/sample_data.json), [csv](1-DS/sample_data.csv), [xlsx](1-DS/sample_data.xlsx))
-5. Loading data from various sources (CSV, Excel, JSON) [01-01-05a.ipynb](1-DS/01-01-05a.ipynb) + data (13 files) [01-01-05b.ipynb](1-DS/01-01-05b.ipynb) + data (17 files)
+5. Loading data from various sources (CSV, Excel, JSON) [01-01-05a.ipynb](1-DS/01-01-05a.ipynb) + data (13 files) [01-01-05b.ipynb](1-DS/01-01-05b.ipynb) + data (17 files) [01-01-05c.ipynb](1-DS/01-01-05c.ipynb)
 6. Basic data cleaning techniques
 7. Descriptive statistics
 8. Data filtering and selection
