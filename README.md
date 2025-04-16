@@ -17,7 +17,7 @@
 5. Loading data from various sources (CSV, Excel, JSON) [01-01-05a.ipynb](1-DS/01-01-05a.ipynb) + data (13 files) [01-01-05b.ipynb](1-DS/01-01-05b.ipynb) + data (17 files) [01-01-05c.ipynb](1-DS/01-01-05c.ipynb) + data (13 files) [01-01-05d.ipynb](1-DS/01-01-05d.ipynb) + data (1 file)
 6. Basic data cleaning techniques [01-01-06a.ipynb](1-DS/01-01-06a.ipynb) ⚠️ADVANCED (*2x temp*)
 7. Descriptive statistics [01-01-07.ipynb](1-DS/01-01-07.ipynb)
-8. Data filtering and selection ⚠️(*1x temp*)
+8. Data filtering and selection [01-01-08.ipynb](1-DS/01-01-08.ipynb)
 9. Handling missing values ⚠️(*1x temp*)
 10. Data aggregation and grouping ⚠️(*1x temp*)
 11. Basic visualization with matplotlib
