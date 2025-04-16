@@ -2,6 +2,11 @@
 
 *Generated Topics (5 main Categories)*
 
+## 0. SAMPLES
+
+- Titanic Dataset Analysis
+  - [titanic-1.ipynb](0-SAMPLES/titanic-1.ipynb) ([titanic-dataset.csv](0-SAMPLES/titanic-dataset.csv), [processed-titanic-dataset.csv](0-SAMPLES/processed-titanic-dataset.csv)) ⚠️ pip install pandas numpy matplotlib urllib3
+
 ## 1. Data Science (DS)
 
 ### 1. Beginner Data Science (20 topics)
