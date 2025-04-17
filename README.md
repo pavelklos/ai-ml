@@ -33,6 +33,7 @@
 12. Introduction to Jupyter notebooks
     - [01-01-12a.ipynb](1-DS/01-01-12a.ipynb)
     - [01-01-12b.ipynb](1-DS/01-01-12b.ipynb) + data (2 files)
+      - Example 2: Interactive Data Exploration ⚠️Could not render content for 'application/vnd.jupyter.widget-view+json'
 13. Working with categorical data ⚠️(*1x temp*)
 14. Simple data transformation ⚠️(*1x temp*)
 15. Understanding data distributions ⚠️(*1x temp*)
