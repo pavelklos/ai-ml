@@ -32,7 +32,7 @@
 11. Basic visualization with matplotlib [01-01-11.ipynb](1-DS/01-01-11.ipynb) + data (8 files)
 12. Introduction to Jupyter notebooks
     - [01-01-12a.ipynb](1-DS/01-01-12a.ipynb)
-    - [01-01-12b.ipynb](1-DS/01-01-12b.ipynb)
+    - [01-01-12b.ipynb](1-DS/01-01-12b.ipynb) + data (2 files)
 13. Working with categorical data ⚠️(*1x temp*)
 14. Simple data transformation ⚠️(*1x temp*)
 15. Understanding data distributions ⚠️(*1x temp*)
