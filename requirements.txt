@@ -12,3 +12,4 @@ pyarrow
 fastparquet
 xlrd
 missingno
+ipywidgets

@@ -34,6 +34,7 @@ idna==3.10
 ipykernel==6.29.5
 ipython==9.1.0
 ipython_pygments_lexers==1.1.1
+ipywidgets==8.1.6
 isoduration==20.11.0
 jedi==0.19.2
 Jinja2==3.1.6
@@ -51,6 +52,7 @@ jupyter_server_terminals==0.5.3
 jupyterlab==4.4.0
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
+jupyterlab_widgets==3.0.14
 kiwisolver==1.4.8
 MarkupSafe==3.0.2
 matplotlib==3.10.1
@@ -117,4 +119,5 @@ wcwidth==0.2.13
 webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
+widgetsnbextension==4.0.14
 xlrd==2.0.1
