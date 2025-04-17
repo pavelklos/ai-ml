@@ -28,7 +28,7 @@
 7. Descriptive statistics [01-01-07.ipynb](1-DS/01-01-07.ipynb)
 8. Data filtering and selection [01-01-08.ipynb](1-DS/01-01-08.ipynb)
 9. Handling missing values [01-01-09.ipynb](1-DS/01-01-09.ipynb)
-10. Data aggregation and grouping ⚠️(*1x temp*)
+10. Data aggregation and grouping [01-01-10.ipynb](1-DS/01-01-10.ipynb)
 11. Basic visualization with matplotlib ⚠️(*1x temp*)
 12. Introduction to Jupyter notebooks ⚠️(*2x temp*)
 13. Working with categorical data ⚠️(*1x temp*)
