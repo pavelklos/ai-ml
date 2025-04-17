@@ -37,11 +37,11 @@
 13. Working with categorical data ⚠️(*1x temp*)
 14. Simple data transformation ⚠️(*1x temp*)
 15. Understanding data distributions ⚠️(*1x temp*)
-16. Introduction to probability concepts
-17. Data types and conversions
-18. Basic exploratory data analysis (EDA)
-19. Summary statistics and reporting
-20. Introduction to data ethics and privacy
+16. Introduction to probability concepts ⚠️(*1x temp*)
+17. Data types and conversions ⚠️(*1x temp*)
+18. Basic exploratory data analysis (EDA) ⚠️(*1x temp*)
+19. Summary statistics and reporting ⚠️(*1x temp*)
+20. Introduction to data ethics and privacy ⚠️(*1x temp*)
 
 ### 2. Intermediate Data Science (15 topics)
 1. Advanced pandas data manipulation
