@@ -27,7 +27,7 @@
    - ⚠️ADVANCED (*2x temp*)
 7. Descriptive statistics [01-01-07.ipynb](1-DS/01-01-07.ipynb)
 8. Data filtering and selection [01-01-08.ipynb](1-DS/01-01-08.ipynb)
-9. Handling missing values ⚠️(*1x temp*)
+9. Handling missing values [01-01-09.ipynb](1-DS/01-01-09.ipynb)
 10. Data aggregation and grouping ⚠️(*1x temp*)
 11. Basic visualization with matplotlib ⚠️(*1x temp*)
 12. Introduction to Jupyter notebooks ⚠️(*2x temp*)
