@@ -37,7 +37,7 @@
       - Example 2: Interactive Data Exploration ⚠️Could not render content for 'application/vnd.jupyter.widget-view+json'
 13. Working with categorical data [01-01-13.ipynb](1-DS/01-01-13.ipynb)
 14. Simple data transformation [01-01-14.ipynb](1-DS/01-01-14.ipynb)
-15. Understanding data distributions ⚠️(*1x temp*)
+15. Understanding data distributions [01-01-15.ipynb](1-DS/01-01-15.ipynb)
 16. Introduction to probability concepts ⚠️(*1x temp*)
 17. Data types and conversions ⚠️(*1x temp*)
 18. Basic exploratory data analysis (EDA) ⚠️(*1x temp*)
