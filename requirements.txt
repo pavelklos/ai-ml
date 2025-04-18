@@ -13,3 +13,4 @@ fastparquet
 xlrd
 missingno
 ipywidgets
+plotly
