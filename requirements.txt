@@ -14,3 +14,4 @@ xlrd
 missingno
 ipywidgets
 plotly
+colorspacious

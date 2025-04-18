@@ -12,6 +12,7 @@ certifi==2025.1.31
 cffi==1.17.1
 charset-normalizer==3.4.1
 colorama==0.4.6
+colorspacious==1.1.2
 comm==0.2.2
 contourpy==1.3.1
 cramjam==2.10.0
