@@ -43,7 +43,7 @@
 13. Working with categorical data [01-01-13.ipynb](1-DS/01-01-13.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-13.md](1-DS/01-01-13.md)
 14. Simple data transformation [01-01-14.ipynb](1-DS/01-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-14.md](1-DS/01-01-14.md)
 15. Understanding data distributions [01-01-15.ipynb](1-DS/01-01-15.ipynb) ✅NICE GRAPHS <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-15.md](1-DS/01-01-15.md)
-16. Introduction to probability concepts ⚠️(*1x temp*)
+16. Introduction to probability concepts [01-01-16.ipynb](1-DS/01-01-16.ipynb)
 17. Data types and conversions ⚠️(*1x temp*)
 18. Basic exploratory data analysis (EDA) ⚠️(*1x temp*)
 19. Summary statistics and reporting ⚠️(*1x temp*)
