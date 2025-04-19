@@ -44,7 +44,7 @@
 14. Simple data transformation [01-01-14.ipynb](1-DS/01-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-14.md](1-DS/01-01-14.md)
 15. Understanding data distributions [01-01-15.ipynb](1-DS/01-01-15.ipynb) ✅NICE GRAPHS <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-15.md](1-DS/01-01-15.md)
 16. Introduction to probability concepts [01-01-16.ipynb](1-DS/01-01-16.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-16.md](1-DS/01-01-16.md)
-17. Data types and conversions [01-01-17.ipynb](1-DS/01-01-17.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-17.md](1-DS/01-01-17.md), [01-01-17-short.md](1-DS/01-01-17-short.md) ⚠️RUN CELLS [01-01-17-cz.ipynb](1-DS/01-01-17-cz.ipynb) ✅NICE EXPLANATION
+17. Data types and conversions [01-01-17.ipynb](1-DS/01-01-17.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-17.md](1-DS/01-01-17.md), [01-01-17-short.md](1-DS/01-01-17-short.md), [01-01-17-cz.ipynb](1-DS/01-01-17-cz.ipynb) ✅NICE EXPLANATION
 18. Basic exploratory data analysis (EDA) [01-01-18.ipynb](1-DS/01-01-18.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-18.md](1-DS/01-01-18.md) ⚠️RUN CELLS [01-01-18-cz.ipynb](1-DS/01-01-18-cz.ipynb)
 19. Summary statistics and reporting ⚠️(*1x temp*)
 20. Introduction to data ethics and privacy ⚠️(*1x temp*)
@@ -96,11 +96,11 @@
 8. Decision trees introduction ⚠️(*1x temp*)
 9. Simple logistic regression ⚠️(*1x temp*)
 10. Model evaluation basics (accuracy, confusion matrix) ⚠️(*1x temp*)
-11. Overfitting and underfitting
-12. Feature scaling and normalization
-13. Introduction to cross-validation
-14. Basic clustering with K-means
-15. Bias-variance tradeoff
+11. Overfitting and underfitting ⚠️(*1x temp*)
+12. Feature scaling and normalization ⚠️(*1x temp*)
+13. Introduction to cross-validation ⚠️(*1x temp*)
+14. Basic clustering with K-means ⚠️(*1x temp*)
+15. Bias-variance tradeoff ⚠️(*1x temp*)
 16. Basic feature selection
 17. Introduction to neural networks
 18. Saving and loading models
@@ -202,7 +202,7 @@
 ## 4. Deep Learning (DL)
 
 ### 1. Beginner Deep Learning (20 topics)
-1. Introduction to deep learning concepts and terminology
+1. Introduction to deep learning concepts and terminology ⚠️(*1x temp*)
 2. Neural network fundamentals (neurons, activation functions)
 3. Setting up deep learning environments (TensorFlow, PyTorch)
 4. Understanding the training process (forward/backward propagation)
