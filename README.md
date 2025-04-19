@@ -44,7 +44,7 @@
 14. Simple data transformation [01-01-14.ipynb](1-DS/01-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-14.md](1-DS/01-01-14.md)
 15. Understanding data distributions [01-01-15.ipynb](1-DS/01-01-15.ipynb) ✅NICE GRAPHS <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-15.md](1-DS/01-01-15.md)
 16. Introduction to probability concepts [01-01-16.ipynb](1-DS/01-01-16.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-16.md](1-DS/01-01-16.md)
-17. Data types and conversions [01-01-17.ipynb](1-DS/01-01-17.ipynb)
+17. Data types and conversions [01-01-17.ipynb](1-DS/01-01-17.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-17.md](1-DS/01-01-17.md) ⚠️RUN CELLS [01-01-17-cz.ipynb](1-DS/01-01-17-cz.ipynb) ✅NICE EXPLANATION
 18. Basic exploratory data analysis (EDA) ⚠️(*1x temp*)
 19. Summary statistics and reporting ⚠️(*1x temp*)
 20. Introduction to data ethics and privacy ⚠️(*1x temp*)
