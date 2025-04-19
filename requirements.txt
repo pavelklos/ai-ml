@@ -16,3 +16,4 @@ ipywidgets
 plotly
 colorspacious
 category_encoders
+matplotlib-venn
