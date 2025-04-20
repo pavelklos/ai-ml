@@ -91,7 +91,7 @@
 2. Supervised vs unsupervised learning [02-01-02.ipynb](2-ML/02-01-02.ipynb)
 3. Training and test data splits [02-01-03.ipynb](2-ML/02-01-03.ipynb)
 4. Linear regression fundamentals [02-01-04.ipynb](2-ML/02-01-04.ipynb)
-5. Classification basics ⚠️(*1x temp*)
+5. Classification basics [02-01-05.ipynb](2-ML/02-01-05.ipynb)
 6. Introduction to scikit-learn ⚠️(*1x temp*)
 7. K-nearest neighbors algorithm ⚠️(*1x temp*)
 8. Decision trees introduction ⚠️(*1x temp*)
