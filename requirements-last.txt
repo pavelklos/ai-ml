@@ -37,6 +37,7 @@ httpcore==1.0.8
 httpx==0.28.1
 hyperframe==6.1.0
 idna==3.10
+importlib_resources==6.5.2
 ipykernel==6.29.5
 ipython==9.1.0
 ipython_pygments_lexers==1.1.1
@@ -116,10 +117,12 @@ soupsieve==2.6
 SQLAlchemy==2.0.40
 stack-data==0.6.3
 statsmodels==0.14.4
+sweetviz==2.3.1
 terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
 tornado==6.4.2
+tqdm==4.67.1
 traitlets==5.14.3
 types-python-dateutil==2.9.0.20241206
 typing_extensions==4.13.2
