@@ -21,3 +21,6 @@ googletrans
 pandas-profiling[notebook]
 ydata-profiling[notebook]
 sweetviz
+dtale
+lux-api
+lux-widget
