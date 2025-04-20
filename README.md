@@ -87,7 +87,7 @@
 ## 2. Machine Learning (ML)
 
 ### 1. Beginner Machine Learning (20 topics)
-1. Introduction to machine learning concepts ⚠️(*1x temp*)
+1. Introduction to machine learning concepts [02-01-01.ipynb](2-ML/02-01-01.ipynb)
 2. Supervised vs unsupervised learning ⚠️(*1x temp*)
 3. Training and test data splits ⚠️(*1x temp*)
 4. Linear regression fundamentals ⚠️(*1x temp*)
