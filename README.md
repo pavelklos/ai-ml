@@ -89,7 +89,7 @@
 ### 1. Beginner Machine Learning (20 topics)
 1. Introduction to machine learning concepts [02-01-01.ipynb](2-ML/02-01-01.ipynb)
 2. Supervised vs unsupervised learning [02-01-02.ipynb](2-ML/02-01-02.ipynb)
-3. Training and test data splits ⚠️(*1x temp*)
+3. Training and test data splits [02-01-03.ipynb](2-ML/02-01-03.ipynb)
 4. Linear regression fundamentals ⚠️(*1x temp*)
 5. Classification basics ⚠️(*1x temp*)
 6. Introduction to scikit-learn ⚠️(*1x temp*)
