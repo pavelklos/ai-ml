@@ -48,7 +48,7 @@
 17. Data types and conversions [01-01-17.ipynb](1-DS/01-01-17.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-17.md](1-DS/01-01-17.md), [01-01-17-short.md](1-DS/01-01-17-short.md), [01-01-17-cz.ipynb](1-DS/01-01-17-cz.ipynb) ✅NICE EXPLANATION
 18. Basic exploratory data analysis (EDA) [01-01-18.ipynb](1-DS/01-01-18.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-18.md](1-DS/01-01-18.md) ⚠️CHECK TRANSLATION PROCESSING [01-01-18-cz.ipynb](1-DS/01-01-18-cz.ipynb) + data (1 file)
 19. Summary statistics and reporting [01-01-19.ipynb](1-DS/01-01-19.ipynb) + data (7 files) ⚠️PACKAGE ERRORS `pandas-profiling[notebook]`, `ydata-profiling[notebook]`, `sweetviz` ⚠️TRY PACKAGES `dtale`, ` lux-api`, `lux-widget`
-20. Introduction to data ethics and privacy ⚠️(*1x temp*)
+20. Introduction to data ethics and privacy [01-01-20.ipynb](1-DS/01-01-20.ipynb)
 
 ### 2. Intermediate Data Science (15 topics)
 1. Advanced pandas data manipulation
