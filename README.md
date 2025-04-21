@@ -18,7 +18,7 @@
 ## 1. Data Science (DS)
 
 ### 1. Beginner Data Science (20 topics)
-1. Introduction to data science concepts [01-01-01.ipynb](1-DS/01-01-01.ipynb)
+1. Introduction to data science concepts [01-01-01.ipynb](1-DS/01-01-01.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-01.md](1-DS/01-01-01.md)
 2. Setting up a data science environment [01-01-02.ipynb](1-DS/01-01-02.ipynb)
 3. Introduction to NumPy arrays
    - [01-01-03a.ipynb](1-DS/01-01-03a.ipynb)
