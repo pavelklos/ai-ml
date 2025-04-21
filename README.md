@@ -92,7 +92,7 @@
 3. Training and test data splits [02-01-03.ipynb](2-ML/02-01-03.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-03.md](2-ML/02-01-03.md)
 4. Linear regression fundamentals [02-01-04.ipynb](2-ML/02-01-04.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-04.md](2-ML/02-01-04.md)
 5. Classification basics [02-01-05.ipynb](2-ML/02-01-05.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-05.md](2-ML/02-01-05.md)
-6. Introduction to scikit-learn ⚠️(*1x temp*)
+6. Introduction to scikit-learn [02-01-06.ipynb](2-ML/02-01-06.ipynb)
 7. K-nearest neighbors algorithm ⚠️(*1x temp*)
 8. Decision trees introduction ⚠️(*1x temp*)
 9. Simple logistic regression ⚠️(*1x temp*)
