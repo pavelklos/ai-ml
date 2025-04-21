@@ -145,13 +145,13 @@
 ## 3. Data Visualization (DV)
 
 ### 1. Beginner Data Visualization (20 topics)
-1. Introduction to data visualization principles
-2. Basic plots with matplotlib (line, bar, scatter)
-3. Creating histograms and distribution plots
-4. Pie charts and when to use them
-5. Plot customization (titles, labels, legends)
-6. Introduction to Seaborn
-7. Color selection for visualizations
+1. Introduction to data visualization principles ⚠️(*4x temp*)
+2. Basic plots with matplotlib (line, bar, scatter) ⚠️(*1x temp*)
+3. Creating histograms and distribution plots ⚠️(*1x temp*)
+4. Pie charts and when to use them ⚠️(*1x temp*)
+5. Plot customization (titles, labels, legends) ⚠️(*1x temp*)
+6. Introduction to Seaborn ⚠️(*1x temp*)
+7. Color selection for visualizations ⚠️(*1x temp*)
 8. Multiple plots and subplots
 9. Visualizing categorical data
 10. Visualizing numerical data
