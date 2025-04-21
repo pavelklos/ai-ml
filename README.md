@@ -34,7 +34,7 @@
    - ⚠️ADVANCED (*2x temp*)
 7. Descriptive statistics [01-01-07.ipynb](1-DS/01-01-07.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-07.md](1-DS/01-01-07.md)
 8. Data filtering and selection [01-01-08.ipynb](1-DS/01-01-08.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-08.md](1-DS/01-01-08.md)
-9. Handling missing values [01-01-09.ipynb](1-DS/01-01-09.ipynb)
+9. Handling missing values [01-01-09.ipynb](1-DS/01-01-09.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-09.md](1-DS/01-01-09.md)
 10. Data aggregation and grouping [01-01-10.ipynb](1-DS/01-01-10.ipynb)
 11. Basic visualization with matplotlib [01-01-11.ipynb](1-DS/01-01-11.ipynb) + data (8 files)
 12. Introduction to Jupyter notebooks
