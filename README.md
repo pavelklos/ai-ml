@@ -38,7 +38,7 @@
 10. Data aggregation and grouping [01-01-10.ipynb](1-DS/01-01-10.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-10.md](1-DS/01-01-10.md)
 11. Basic visualization with matplotlib [01-01-11.ipynb](1-DS/01-01-11.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-11.md](1-DS/01-01-11.md) + data (8 files)
 12. Introduction to Jupyter notebooks
-    - [01-01-12a.ipynb](1-DS/01-01-12a.ipynb)
+    - [01-01-12a.ipynb](1-DS/01-01-12a.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-12a.md](1-DS/01-01-12a.md)
     - [01-01-12b.ipynb](1-DS/01-01-12b.ipynb) + data (2 files)
       - Example 2: Interactive Data Exploration ⚠️Could not render content for 'application/vnd.jupyter.widget-view+json'
 13. Working with categorical data [01-01-13.ipynb](1-DS/01-01-13.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-13.md](1-DS/01-01-13.md)
