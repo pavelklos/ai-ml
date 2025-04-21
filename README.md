@@ -25,7 +25,7 @@
    - [01-01-03b.ipynb](1-DS/01-01-03b.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-03b.md](1-DS/01-01-03b.md)
 4. Pandas DataFrame basics [01-01-04.ipynb](1-DS/01-01-04.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-04.md](1-DS/01-01-04.md) + data ([json](1-DS/sample_data.json), [csv](1-DS/sample_data.csv), [xlsx](1-DS/sample_data.xlsx))
 5. Loading data from various sources (CSV, Excel, JSON)
-   - [01-01-05a.ipynb](1-DS/01-01-05a.ipynb) + data (13 files)
+   - [01-01-05a.ipynb](1-DS/01-01-05a.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-05a.md](1-DS/01-01-05a.md) + data (13 files)
    - [01-01-05b.ipynb](1-DS/01-01-05b.ipynb) + data (17 files)
    - [01-01-05c.ipynb](1-DS/01-01-05c.ipynb) + data (13 files)
    - [01-01-05d.ipynb](1-DS/01-01-05d.ipynb) + data (4 files)
