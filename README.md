@@ -95,7 +95,7 @@
 6. Introduction to scikit-learn [02-01-06.ipynb](2-ML/02-01-06.ipynb)
 7. K-nearest neighbors algorithm [02-01-07.ipynb](2-ML/02-01-07.ipynb)
 8. Decision trees introduction [02-01-08.ipynb](2-ML/02-01-08.ipynb)
-9. Simple logistic regression ⚠️(*1x temp*)
+9. Simple logistic regression [02-01-09.ipynb](2-ML/02-01-09.ipynb)
 10. Model evaluation basics (accuracy, confusion matrix) ⚠️(*1x temp*)
 11. Overfitting and underfitting ⚠️(*1x temp*)
 12. Feature scaling and normalization ⚠️(*1x temp*)
