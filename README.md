@@ -28,7 +28,7 @@
    - [01-01-05a.ipynb](1-DS/01-01-05a.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-05a.md](1-DS/01-01-05a.md) + data (13 files)
    - [01-01-05b.ipynb](1-DS/01-01-05b.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-05b.md](1-DS/01-01-05b.md) + data (17 files)
    - [01-01-05c.ipynb](1-DS/01-01-05c.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-05c.md](1-DS/01-01-05c.md) + data (13 files)
-   - [01-01-05d.ipynb](1-DS/01-01-05d.ipynb) + data (4 files)
+   - [01-01-05d.ipynb](1-DS/01-01-05d.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-05d.md](1-DS/01-01-05d.md) + data (4 files)
 6. Basic data cleaning techniques
    - [01-01-06a.ipynb](1-DS/01-01-06a.ipynb)
    - ⚠️ADVANCED (*2x temp*)
