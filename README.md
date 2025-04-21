@@ -94,7 +94,7 @@
 5. Classification basics [02-01-05.ipynb](2-ML/02-01-05.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-05.md](2-ML/02-01-05.md)
 6. Introduction to scikit-learn [02-01-06.ipynb](2-ML/02-01-06.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-06.md](2-ML/02-01-06.md)
 7. K-nearest neighbors algorithm [02-01-07.ipynb](2-ML/02-01-07.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-07.md](2-ML/02-01-07.md)
-8. Decision trees introduction [02-01-08.ipynb](2-ML/02-01-08.ipynb)
+8. Decision trees introduction [02-01-08.ipynb](2-ML/02-01-08.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-08.md](2-ML/02-01-08.md)
 9. Simple logistic regression [02-01-09.ipynb](2-ML/02-01-09.ipynb)
 10. Model evaluation basics (accuracy, confusion matrix) [02-01-10.ipynb](2-ML/02-01-10.ipynb)
 11. Overfitting and underfitting [02-01-11.ipynb](2-ML/02-01-11.ipynb)
