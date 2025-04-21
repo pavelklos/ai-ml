@@ -104,9 +104,9 @@
 15. Bias-variance tradeoff [02-01-15.ipynb](2-ML/02-01-15.ipynb)
 16. Basic feature selection ⚠️(*1x temp*)
 17. Introduction to neural networks ⚠️(*1x temp*)
-18. Saving and loading models
-19. Simple end-to-end ML projects
-20. Ethical considerations in ML
+18. Saving and loading models ⚠️(*1x temp*)
+19. Simple end-to-end ML projects ⚠️(*1x temp*)
+20. Ethical considerations in ML ⚠️(*1x temp*)
 
 ### 2. Intermediate Machine Learning (15 topics)
 1. Support vector machines (SVM)
