@@ -21,7 +21,7 @@
 1. Introduction to data science concepts [01-01-01.ipynb](1-DS/01-01-01.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-01.md](1-DS/01-01-01.md)
 2. Setting up a data science environment [01-01-02.ipynb](1-DS/01-01-02.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-02.md](1-DS/01-01-02.md)
 3. Introduction to NumPy arrays
-   - [01-01-03a.ipynb](1-DS/01-01-03a.ipynb)
+   - [01-01-03a.ipynb](1-DS/01-01-03a.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-03a.md](1-DS/01-01-03a.md)
    - [01-01-03b.ipynb](1-DS/01-01-03b.ipynb)
 4. Pandas DataFrame basics [01-01-04.ipynb](1-DS/01-01-04.ipynb) + data ([json](1-DS/sample_data.json), [csv](1-DS/sample_data.csv), [xlsx](1-DS/sample_data.xlsx))
 5. Loading data from various sources (CSV, Excel, JSON)
