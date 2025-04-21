@@ -25,3 +25,4 @@ dtale
 lux-api
 lux-widget
 imbalanced-learn
+graphviz
