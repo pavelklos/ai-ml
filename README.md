@@ -101,7 +101,7 @@
 12. Feature scaling and normalization [02-01-12.ipynb](2-ML/02-01-12.ipynb) ⚠️(RUN ON MAC: 2x cells)
 13. Introduction to cross-validation [02-01-13.ipynb](2-ML/02-01-13.ipynb) ⚠️(RUN ON MAC: 1x cell)
 14. Basic clustering with K-means [02-01-14.ipynb](2-ML/02-01-14.ipynb)
-15. Bias-variance tradeoff ⚠️(*1x temp*)
+15. Bias-variance tradeoff [02-01-15.ipynb](2-ML/02-01-15.ipynb)
 16. Basic feature selection
 17. Introduction to neural networks
 18. Saving and loading models
