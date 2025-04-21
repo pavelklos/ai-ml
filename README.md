@@ -98,7 +98,7 @@
 9. Simple logistic regression [02-01-09.ipynb](2-ML/02-01-09.ipynb)
 10. Model evaluation basics (accuracy, confusion matrix) [02-01-10.ipynb](2-ML/02-01-10.ipynb)
 11. Overfitting and underfitting [02-01-11.ipynb](2-ML/02-01-11.ipynb)
-12. Feature scaling and normalization ⚠️(*1x temp*)
+12. Feature scaling and normalization [02-01-12.ipynb](2-ML/02-01-12.ipynb)
 13. Introduction to cross-validation ⚠️(*1x temp*)
 14. Basic clustering with K-means ⚠️(*1x temp*)
 15. Bias-variance tradeoff ⚠️(*1x temp*)
