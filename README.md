@@ -97,7 +97,7 @@
 8. Decision trees introduction [02-01-08.ipynb](2-ML/02-01-08.ipynb)
 9. Simple logistic regression [02-01-09.ipynb](2-ML/02-01-09.ipynb)
 10. Model evaluation basics (accuracy, confusion matrix) [02-01-10.ipynb](2-ML/02-01-10.ipynb)
-11. Overfitting and underfitting ⚠️(*1x temp*)
+11. Overfitting and underfitting [02-01-11.ipynb](2-ML/02-01-11.ipynb)
 12. Feature scaling and normalization ⚠️(*1x temp*)
 13. Introduction to cross-validation ⚠️(*1x temp*)
 14. Basic clustering with K-means ⚠️(*1x temp*)
