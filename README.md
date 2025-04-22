@@ -152,19 +152,19 @@
 5. Plot customization (titles, labels, legends) ⚠️(*1x temp*)
 6. Introduction to Seaborn ⚠️(*1x temp*)
 7. Color selection for visualizations ⚠️(*1x temp*)
-8. Multiple plots and subplots
-9. Visualizing categorical data
-10. Visualizing numerical data
-11. Saving visualizations to files
-12. Choosing the right chart type
-13. Basic time series visualization
-14. Correlation visualization (scatter plots, heatmaps)
-15. Adding annotations to plots
-16. Figure size and resolution
-17. Introduction to visualization ethics
-18. Basic boxplots and violin plots
-19. Creating simple dashboards
-20. Designing effective visualizations for your audience
+8. Multiple plots and subplots ⚠️(*1x temp*)
+9. Visualizing categorical data ⚠️(*1x temp*)
+10. Visualizing numerical data ⚠️(*1x temp*)
+11. Saving visualizations to files ⚠️(*1x temp*)
+12. Choosing the right chart type ⚠️(*1x temp*)
+13. Basic time series visualization ⚠️(*1x temp*)
+14. Correlation visualization (scatter plots, heatmaps) ⚠️(*1x temp*)
+15. Adding annotations to plots ⚠️(*1x temp*)
+16. Figure size and resolution ⚠️(*1x temp*)
+17. Introduction to visualization ethics ⚠️(*1x temp*)
+18. Basic boxplots and violin plots ⚠️(*1x temp*)
+19. Creating simple dashboards ⚠️(*1x temp*)
+20. Designing effective visualizations for your audience ⚠️(*1x temp*)
 
 ### 2. Intermediate Data Visualization (15 topics)
 1. Customizing matplotlib plots
