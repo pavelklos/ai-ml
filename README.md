@@ -204,10 +204,10 @@
 
 ### 1. Beginner Deep Learning (20 topics)
 1. Introduction to deep learning concepts and terminology ⚠️(*1x temp*)
-2. Neural network fundamentals (neurons, activation functions)
-3. Setting up deep learning environments (TensorFlow, PyTorch)
-4. Understanding the training process (forward/backward propagation)
-5. Loss functions and their applications
+2. Neural network fundamentals (neurons, activation functions) ⚠️(*1x temp*)
+3. Setting up deep learning environments (TensorFlow, PyTorch) ⚠️(*1x temp*)
+4. Understanding the training process (forward/backward propagation) ⚠️(*1x temp*)
+5. Loss functions and their applications ⚠️(*1x temp*)
 6. Gradient descent optimization
 7. Building your first neural network
 8. Introduction to TensorFlow/Keras API
