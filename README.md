@@ -208,16 +208,16 @@
 3. Setting up deep learning environments (TensorFlow, PyTorch) ⚠️(*1x temp*)
 4. Understanding the training process (forward/backward propagation) ⚠️(*1x temp*)
 5. Loss functions and their applications ⚠️(*1x temp*)
-6. Gradient descent optimization
-7. Building your first neural network
-8. Introduction to TensorFlow/Keras API
-9. Introduction to PyTorch basics
-10. Working with datasets and data loaders
-11. Image classification with neural networks
-12. Text classification with neural networks
-13. Implementing simple feedforward networks
-14. Understanding hyperparameters
-15. Batch normalization basics
+6. Gradient descent optimization ⚠️(*1x temp*)
+7. Building your first neural network ⚠️(*1x temp*)
+8. Introduction to TensorFlow/Keras API ⚠️(*1x temp*)
+9. Introduction to PyTorch basics ⚠️(*1x temp*)
+10. Working with datasets and data loaders ⚠️(*1x temp*)
+11. Image classification with neural networks ⚠️(*1x temp*)
+12. Text classification with neural networks ⚠️(*1x temp*)
+13. Implementing simple feedforward networks ⚠️(*1x temp*)
+14. Understanding hyperparameters ⚠️(*1x temp*)
+15. Batch normalization basics ⚠️(*1x temp*)
 16. Regularization techniques (dropout, L1/L2)
 17. Transfer learning introduction
 18. Model evaluation for deep learning
