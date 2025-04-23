@@ -150,7 +150,7 @@
 ### 1. Beginner Data Visualization (20 topics)
 1. Introduction to data visualization principles [03-01-01.ipynb](3-DV/03-01-01.ipynb)
 2. Basic plots with matplotlib (line, bar, scatter) [03-01-02.ipynb](3-DV/03-01-02.ipynb) + data (7 files)
-3. Creating histograms and distribution plots ⚠️(*1x temp*)
+3. Creating histograms and distribution plots [03-01-03.ipynb](3-DV/03-01-03.ipynb)
 4. Pie charts and when to use them ⚠️(*1x temp*)
 5. Plot customization (titles, labels, legends) ⚠️(*1x temp*)
 6. Introduction to Seaborn ⚠️(*1x temp*)
