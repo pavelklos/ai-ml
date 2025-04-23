@@ -102,7 +102,7 @@
 13. Introduction to cross-validation [02-01-13.ipynb](2-ML/02-01-13.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-13.md](2-ML/02-01-13.md) ⚠️(RUN ON MAC: 1x cell)
 14. Basic clustering with K-means [02-01-14.ipynb](2-ML/02-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-14.md](2-ML/02-01-14.md)
 15. Bias-variance tradeoff [02-01-15.ipynb](2-ML/02-01-15.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-15.md](2-ML/02-01-15.md)
-16. Basic feature selection ⚠️(*1x temp*)
+16. Basic feature selection [02-01-16.ipynb](2-ML/02-01-16.ipynb)
 17. Introduction to neural networks ⚠️(*1x temp*)
 18. Saving and loading models ⚠️(*1x temp*)
 19. Simple end-to-end ML projects ⚠️(*1x temp*)
