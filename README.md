@@ -104,6 +104,9 @@
 15. Bias-variance tradeoff [02-01-15.ipynb](2-ML/02-01-15.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-15.md](2-ML/02-01-15.md)
 16. Basic feature selection [02-01-16.ipynb](2-ML/02-01-16.ipynb)
 17. Introduction to neural networks [02-01-17.ipynb](2-ML/02-01-17.ipynb)
+    - pip install tensorflow ⚠️(RESOLVE TENSORFLOW)
+      - ERROR: Could not find a version that satisfies the requirement tensorflow (from versions: none)
+      - ERROR: No matching distribution found for tensorflow
 18. Saving and loading models ⚠️(*1x temp*)
 19. Simple end-to-end ML projects ⚠️(*1x temp*)
 20. Ethical considerations in ML ⚠️(*1x temp*)
