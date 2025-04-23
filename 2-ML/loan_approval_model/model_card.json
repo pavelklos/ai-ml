@@ -1,0 +1,61 @@
+{
+  "model_name": "Loan Approval Model",
+  "version": "2851593f",
+  "created_at": "2025-04-23T11:06:11.871557",
+  "created_by": "Ethics in ML Demo",
+  "model_type": "RandomForestClassifier",
+  "data_hash": "635777f7",
+  "data_dimensions": {
+    "rows": 1000,
+    "columns": 4
+  },
+  "performance": {
+    "cross_validation_accuracy": 0.737,
+    "demographic_accuracy": {
+      "Gender_0": 1.0,
+      "Gender_1": 1.0
+    }
+  },
+  "features": {
+    "features": [
+      "Age",
+      "Income",
+      "YearsExperience",
+      "Education"
+    ],
+    "feature_importance": {
+      "Age": 0.23255761586695,
+      "Income": 0.45772999558602584,
+      "YearsExperience": 0.23435492821301698,
+      "Education": 0.07535746033400732
+    }
+  },
+  "hyperparameters": {
+    "bootstrap": true,
+    "ccp_alpha": 0.0,
+    "class_weight": null,
+    "criterion": "gini",
+    "max_depth": null,
+    "max_features": "sqrt",
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 1,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 100,
+    "n_jobs": null,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "intended_use": "Educational demonstration of ethical ML principles",
+  "limitations": "This is a demo model not meant for production use",
+  "ethical_considerations": [
+    "Model shows different approval rates between demographic groups",
+    "No differential privacy was applied to training data",
+    "Application in real-world lending requires additional fairness assessment"
+  ]
+}
