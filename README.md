@@ -103,7 +103,7 @@
 14. Basic clustering with K-means [02-01-14.ipynb](2-ML/02-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-14.md](2-ML/02-01-14.md)
 15. Bias-variance tradeoff [02-01-15.ipynb](2-ML/02-01-15.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-15.md](2-ML/02-01-15.md)
 16. Basic feature selection [02-01-16.ipynb](2-ML/02-01-16.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-16.md](2-ML/02-01-16.md)
-17. Introduction to neural networks [02-01-17.ipynb](2-ML/02-01-17.ipynb)
+17. Introduction to neural networks [02-01-17.ipynb](2-ML/02-01-17.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-17.md](2-ML/02-01-17.md)
     - pip install tensorflow ⚠️(RESOLVE TENSORFLOW)
 18. Saving and loading models [02-01-18.ipynb](2-ML/02-01-18.ipynb) + data (8 files)
     - pip install skl2onnx onnxruntime ⚠️(RESOLVE ONNX)
