@@ -109,7 +109,7 @@
     - pip install skl2onnx onnxruntime ⚠️(RESOLVE ONNX)
     - pip install tensorflow ⚠️(RESOLVE TENSORFLOW)
 19. Simple end-to-end ML projects [02-01-19.ipynb](2-ML/02-01-19.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-19.md](2-ML/02-01-19.md) ⚠️(RUN ON MAC: 5x cells)
-20. Ethical considerations in ML [02-01-20.ipynb](2-ML/02-01-20.ipynb) + data (1 file)
+20. Ethical considerations in ML [02-01-20.ipynb](2-ML/02-01-20.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-20.md](2-ML/02-01-20.md) + data (1 file)
 
 ### 2. Intermediate Machine Learning (15 topics)
 1. Support vector machines (SVM)
