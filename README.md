@@ -107,7 +107,7 @@
     - pip install tensorflow ⚠️(RESOLVE TENSORFLOW)
       - ERROR: Could not find a version that satisfies the requirement tensorflow (from versions: none)
       - ERROR: No matching distribution found for tensorflow
-18. Saving and loading models ⚠️(*1x temp*)
+18. Saving and loading models [02-01-18.ipynb](2-ML/02-01-18.ipynb)
 19. Simple end-to-end ML projects ⚠️(*1x temp*)
 20. Ethical considerations in ML ⚠️(*1x temp*)
 
