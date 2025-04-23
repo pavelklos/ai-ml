@@ -105,9 +105,9 @@
 16. Basic feature selection [02-01-16.ipynb](2-ML/02-01-16.ipynb)
 17. Introduction to neural networks [02-01-17.ipynb](2-ML/02-01-17.ipynb)
     - pip install tensorflow ⚠️(RESOLVE TENSORFLOW)
-      - ERROR: Could not find a version that satisfies the requirement tensorflow (from versions: none)
-      - ERROR: No matching distribution found for tensorflow
-18. Saving and loading models [02-01-18.ipynb](2-ML/02-01-18.ipynb)
+18. Saving and loading models [02-01-18.ipynb](2-ML/02-01-18.ipynb) + data (8 files)
+    - pip install skl2onnx onnxruntime ⚠️(RESOLVE ONNX)
+    - pip install tensorflow ⚠️(RESOLVE TENSORFLOW)
 19. Simple end-to-end ML projects ⚠️(*1x temp*)
 20. Ethical considerations in ML ⚠️(*1x temp*)
 
