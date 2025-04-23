@@ -108,7 +108,7 @@
 18. Saving and loading models [02-01-18.ipynb](2-ML/02-01-18.ipynb) + data (8 files)
     - pip install skl2onnx onnxruntime ⚠️(RESOLVE ONNX)
     - pip install tensorflow ⚠️(RESOLVE TENSORFLOW)
-19. Simple end-to-end ML projects [02-01-19.ipynb](2-ML/02-01-19.ipynb)
+19. Simple end-to-end ML projects [02-01-19.ipynb](2-ML/02-01-19.ipynb) ⚠️(RUN ON MAC: 5x cells)
 20. Ethical considerations in ML ⚠️(*1x temp*)
 
 ### 2. Intermediate Machine Learning (15 topics)
