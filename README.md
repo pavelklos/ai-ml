@@ -169,7 +169,7 @@
 19. Creating simple dashboards ⚠️(*1x temp*)
 20. Designing effective visualizations for your audience ⚠️(*1x temp*)
 ---
-21. Python Data Visualization Guide (plots) [03-01-21.ipynb](3-DV/03-01-21.ipynb)
+21. Python Data Visualization Guide (plots) [03-01-21.ipynb](3-DV/03-01-21.ipynb) ✅PLOTS
 
 ### 2. Intermediate Data Visualization (15 topics)
 1. Customizing matplotlib plots
