@@ -31,3 +31,4 @@ aif360
 shap
 folium
 wordcloud
+colorcet
