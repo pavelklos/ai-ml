@@ -175,3 +175,5 @@ cython_debug/
 
 # temp folders
 temp/
+# temp files
+3-DV/03-01-07-result.ipynb
