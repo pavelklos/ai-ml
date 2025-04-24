@@ -153,7 +153,7 @@
 3. Creating histograms and distribution plots [03-01-03.ipynb](3-DV/03-01-03.ipynb)
 4. Pie charts and when to use them [03-01-04.ipynb](3-DV/03-01-04.ipynb)
 5. Plot customization (titles, labels, legends) [03-01-05.ipynb](3-DV/03-01-05.ipynb) + data (6 files)
-6. Introduction to Seaborn ⚠️(*1x temp*)
+6. Introduction to Seaborn [03-01-06.ipynb](3-DV/03-01-06.ipynb)
 7. Color selection for visualizations ⚠️(*1x temp*)
 8. Multiple plots and subplots ⚠️(*1x temp*)
 9. Visualizing categorical data ⚠️(*1x temp*)
