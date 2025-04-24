@@ -29,3 +29,5 @@ graphviz
 fairlearn
 aif360
 shap
+folium
+wordcloud
