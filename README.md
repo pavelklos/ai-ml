@@ -223,11 +223,11 @@
 13. Implementing simple feedforward networks ⚠️(*1x temp*)
 14. Understanding hyperparameters ⚠️(*1x temp*)
 15. Batch normalization basics ⚠️(*1x temp*)
-16. Regularization techniques (dropout, L1/L2)
-17. Transfer learning introduction
-18. Model evaluation for deep learning
-19. Visualizing neural networks
-20. Ethics and limitations of deep learning
+16. Regularization techniques (dropout, L1/L2) ⚠️(*1x temp*)
+17. Transfer learning introduction ⚠️(*2x temp*)
+18. Model evaluation for deep learning ⚠️(*1x temp*)
+19. Visualizing neural networks ⚠️(*1x temp*)
+20. Ethics and limitations of deep learning ⚠️(*1x temp*)
 
 ### 2. Intermediate Deep Learning (15 topics)
 1. Convolutional Neural Networks (CNNs) architecture
