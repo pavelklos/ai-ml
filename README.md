@@ -266,29 +266,29 @@
 ## 5. Python Programming (PY)
 
 ### 1. Beginner Python (20 topics)
-1. Installing Python and setting up the environment
-2. Variables, data types, and basic operations
-3. Strings and string manipulation
-4. Control flow (if, elif, else statements)
-5. Loops (for and while)
-6. Lists and list operations
-7. Dictionaries and sets
-8. Tuples and their uses
-9. Functions and parameters
-10. Basic file I/O operations
-11. Error handling with try/except
-12. Introduction to modules and imports
-13. Basic OOP concepts (classes and objects)
-14. Using pip and package management
-15. Virtual environments setup
-16. Working with dates and times
-17. Basic debugging techniques
-18. Python coding style (PEP 8)
-19. Command line arguments and input
-20. Simple project organization
+1. Installing Python and setting up the environment ⚠️(1x temp)
+2. Variables, data types, and basic operations ⚠️(1x temp)
+3. Strings and string manipulation ⚠️(1x temp)
+4. Control flow (if, elif, else statements) ⚠️(1x temp)
+5. Loops (for and while) ⚠️(1x temp)
+6. Lists and list operations ⚠️(1x temp)
+7. Dictionaries and sets ⚠️(1x temp)
+8. Tuples and their uses ⚠️(1x temp)
+9. Functions and parameters ⚠️(1x temp)
+10. Basic file I/O operations ⚠️(1x temp)
+11. Error handling with try/except ⚠️(1x temp)
+12. Introduction to modules and imports ⚠️(1x temp)
+13. Basic OOP concepts (classes and objects) ⚠️(1x temp)
+14. Using pip and package management ⚠️(1x temp)
+15. Virtual environments setup ⚠️(1x temp)
+16. Working with dates and times ⚠️(1x temp)
+17. Basic debugging techniques ⚠️(1x temp)
+18. Python coding style (PEP 8) ⚠️(1x temp)
+19. Command line arguments and input ⚠️(1x temp)
+20. Simple project organization ⚠️(1x temp)
 
 ### 2. Intermediate Python (15 topics)
-1. List comprehensions and generator expressions
+1. List comprehensions and generator expressions ⚠️(1x temp)
 2. Decorators and function wrappers
 3. Context managers and the `with` statement
 4. Advanced exception handling and custom exceptions
