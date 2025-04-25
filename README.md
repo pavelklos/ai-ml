@@ -167,7 +167,7 @@
 17. Introduction to visualization ethics [03-01-17.ipynb](3-DV/03-01-17.ipynb)
 18. Basic boxplots and violin plots [03-01-18.ipynb](3-DV/03-01-18.ipynb)
 19. Creating simple dashboards [03-01-19.ipynb](3-DV/03-01-19.ipynb) ⚠️(TRY DASHBOARDS) ✅ipywidgets
-20. Designing effective visualizations for your audience ⚠️(*1x temp*)
+20. Designing effective visualizations for your audience [03-01-20.ipynb](3-DV/03-01-20.ipynb)
 ---
 21. Python Data Visualization Guide (plots) [03-01-21.ipynb](3-DV/03-01-21.ipynb) ✅PLOTS
 
