@@ -156,7 +156,7 @@
 6. Introduction to Seaborn [03-01-06.ipynb](3-DV/03-01-06.ipynb)
 7. Color selection for visualizations [03-01-07.ipynb](3-DV/03-01-07.ipynb) ⚠️(RESULT LOCALLY 141 MB) [03-01-07-result.ipynb](3-DV/03-01-07-result.ipynb)
 8. Multiple plots and subplots [03-01-08.ipynb](3-DV/03-01-08.ipynb)
-9. Visualizing categorical data ⚠️(*1x temp*)
+9. Visualizing categorical data [03-01-09.ipynb](3-DV/03-01-09.ipynb)
 10. Visualizing numerical data ⚠️(*1x temp*)
 11. Saving visualizations to files ⚠️(*1x temp*)
 12. Choosing the right chart type ⚠️(*1x temp*)
