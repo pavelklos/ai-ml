@@ -159,7 +159,7 @@
 9. Visualizing categorical data [03-01-09.ipynb](3-DV/03-01-09.ipynb)
 10. Visualizing numerical data [03-01-10.ipynb](3-DV/03-01-10.ipynb)
 11. Saving visualizations to files [03-01-11.ipynb](3-DV/03-01-11.ipynb) + data (61 files)
-12. Choosing the right chart type ⚠️(*1x temp*)
+12. Choosing the right chart type [03-01-12.ipynb](3-DV/03-01-12.ipynb)
 13. Basic time series visualization ⚠️(*1x temp*)
 14. Correlation visualization (scatter plots, heatmaps) ⚠️(*1x temp*)
 15. Adding annotations to plots ⚠️(*1x temp*)
