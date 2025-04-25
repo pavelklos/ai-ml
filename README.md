@@ -289,13 +289,13 @@
 
 ### 2. Intermediate Python (15 topics)
 1. List comprehensions and generator expressions ⚠️(1x temp)
-2. Decorators and function wrappers
-3. Context managers and the `with` statement
-4. Advanced exception handling and custom exceptions
-5. Regular expressions with the `re` module
-6. Lambda functions and functional programming basics
-7. Object-oriented programming (inheritance, polymorphism)
-8. Working with `*args` and `**kwargs`
+2. Decorators and function wrappers ⚠️(1x temp)
+3. Context managers and the `with` statement ⚠️(1x temp)
+4. Advanced exception handling and custom exceptions ⚠️(1x temp)
+5. Regular expressions with the `re` module ⚠️(2x temp) ⚠️ADVANCED (1x temp)
+6. Lambda functions and functional programming basics ⚠️(1x temp)
+7. Object-oriented programming (inheritance, polymorphism) ⚠️(1x temp)
+8. Working with `*args` and `**kwargs` ⚠️(1x temp)
 9. Modules and packages management
 10. Iterators and generators
 11. File handling (CSV, JSON, Pickle)
