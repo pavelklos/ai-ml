@@ -162,7 +162,7 @@
 12. Choosing the right chart type [03-01-12.ipynb](3-DV/03-01-12.ipynb) ✅CHART TYPE COMPARISON (by dropdown)
 13. Basic time series visualization [03-01-13.ipynb](3-DV/03-01-13.ipynb)
 14. Correlation visualization (scatter plots, heatmaps) [03-01-14.ipynb](3-DV/03-01-14.ipynb)
-15. Adding annotations to plots ⚠️(*1x temp*)
+15. Adding annotations to plots [03-01-15.ipynb](3-DV/03-01-15.ipynb)
 16. Figure size and resolution ⚠️(*1x temp*)
 17. Introduction to visualization ethics ⚠️(*1x temp*)
 18. Basic boxplots and violin plots ⚠️(*1x temp*)
