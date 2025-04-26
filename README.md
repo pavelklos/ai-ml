@@ -296,13 +296,13 @@
 6. Lambda functions and functional programming basics ⚠️(1x temp)
 7. Object-oriented programming (inheritance, polymorphism) ⚠️(1x temp)
 8. Working with `*args` and `**kwargs` ⚠️(1x temp)
-9. Modules and packages management
-10. Iterators and generators
-11. File handling (CSV, JSON, Pickle)
-12. Working with collections module (defaultdict, Counter, namedtuple)
-13. Unit testing with unittest and pytest
-14. Logging and debugging techniques
-15. Closures and scopes
+9. Modules and packages management ⚠️(1x temp)
+10. Iterators and generators ⚠️(1x temp)
+11. File handling (CSV, JSON, Pickle) ⚠️(1x temp)
+12. Working with collections module (defaultdict, Counter, namedtuple) ⚠️(1x temp)
+13. Unit testing with unittest and pytest ⚠️(2x temp) + ⚠️(1x CLAUDE)
+14. Logging and debugging techniques ⚠️(1x temp) + ⚠️(1x CLAUDE)
+15. Closures and scopes ⚠️(1x temp) + ⚠️(1x CLAUDE)
 
 ### 3. Advanced Python (15 topics)
 1. Metaclasses and dynamic class creation
