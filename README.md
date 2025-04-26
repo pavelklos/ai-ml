@@ -157,7 +157,7 @@
 7. Color selection for visualizations [03-01-07.ipynb](3-DV/03-01-07.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-07.md](3-DV/03-01-07.md) ⚠️(RESULT LOCALLY 141 MB) [03-01-07-result.ipynb](3-DV/03-01-07-result.ipynb)
 8. Multiple plots and subplots [03-01-08.ipynb](3-DV/03-01-08.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-08.md](3-DV/03-01-08.md)
 9. Visualizing categorical data [03-01-09.ipynb](3-DV/03-01-09.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-09.md](3-DV/03-01-09.md)
-10. Visualizing numerical data [03-01-10.ipynb](3-DV/03-01-10.ipynb)
+10. Visualizing numerical data [03-01-10.ipynb](3-DV/03-01-10.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-10.md](3-DV/03-01-10.md)
 11. Saving visualizations to files [03-01-11.ipynb](3-DV/03-01-11.ipynb) + data (61 files)
 12. Choosing the right chart type [03-01-12.ipynb](3-DV/03-01-12.ipynb) ✅CHART TYPE COMPARISON (by dropdown)
 13. Basic time series visualization [03-01-13.ipynb](3-DV/03-01-13.ipynb)
