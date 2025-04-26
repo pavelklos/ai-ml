@@ -117,7 +117,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 patsy==1.0.1
 pillow==11.2.1
-pip==25.0.1
+pip==25.1
 platformdirs==4.3.7
 plotly==6.0.1
 POT==0.9.5
