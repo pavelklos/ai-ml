@@ -305,9 +305,9 @@
 15. Closures and scopes ⚠️(1x temp) + ⚠️(1x CLAUDE)
 
 ### 3. Advanced Python (15 topics)
-1. Metaclasses and dynamic class creation
-2. Concurrency with threading and multiprocessing
-3. Asynchronous programming with asyncio
+1. Metaclasses and dynamic class creation ⚠️(1x CLAUDE)
+2. Concurrency with threading and multiprocessing ⚠️(1x CLAUDE)
+3. Asynchronous programming with asyncio ⚠️(1x CLAUDE)
 4. Memory management and optimization
 5. Design patterns in Python
 6. Type hinting and static type checking
