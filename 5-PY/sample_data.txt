@@ -1,0 +1,4 @@
+This is line 1
+This is line 2 with a number: 42
+Another line with multiple numbers: 10, 20, 30
+This is the final line
