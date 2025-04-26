@@ -32,3 +32,4 @@ shap
 folium
 wordcloud
 colorcet
+pip-tools

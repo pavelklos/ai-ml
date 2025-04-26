@@ -13,6 +13,7 @@ bleach==6.2.0
 blinker==1.9.0
 branca==0.8.1
 Brotli==1.1.0
+build==1.2.2.post1
 category_encoders==2.8.1
 certifi==2025.1.31
 cffi==1.17.1
@@ -118,6 +119,7 @@ parso==0.8.4
 patsy==1.0.1
 pillow==11.2.1
 pip==25.1
+pip-tools==7.4.1
 platformdirs==4.3.7
 plotly==6.0.1
 POT==0.9.5
@@ -130,6 +132,7 @@ pycodestyle==2.13.0
 pycparser==2.22
 Pygments==2.19.1
 pyparsing==3.2.3
+pyproject_hooks==1.2.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 python-json-logger==3.3.0
@@ -182,6 +185,7 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==3.0.6
+wheel==0.45.1
 widgetsnbextension==4.0.14
 wordcloud==1.9.4
 xarray==2025.3.1
