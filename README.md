@@ -161,7 +161,7 @@
 11. Saving visualizations to files [03-01-11.ipynb](3-DV/03-01-11.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-11.md](3-DV/03-01-11.md) + data (61 files)
 12. Choosing the right chart type [03-01-12.ipynb](3-DV/03-01-12.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-12.md](3-DV/03-01-12.md) ✅CHART TYPE COMPARISON (by dropdown)
 13. Basic time series visualization [03-01-13.ipynb](3-DV/03-01-13.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-13.md](3-DV/03-01-13.md)
-14. Correlation visualization (scatter plots, heatmaps) [03-01-14.ipynb](3-DV/03-01-14.ipynb)
+14. Correlation visualization (scatter plots, heatmaps) [03-01-14.ipynb](3-DV/03-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-14.md](3-DV/03-01-14.md)
 15. Adding annotations to plots [03-01-15.ipynb](3-DV/03-01-15.ipynb)
 16. Figure size and resolution [03-01-16.ipynb](3-DV/03-01-16.ipynb) + data (22 files)
 17. Introduction to visualization ethics [03-01-17.ipynb](3-DV/03-01-17.ipynb)
