@@ -152,7 +152,7 @@
 2. Basic plots with matplotlib (line, bar, scatter) [03-01-02.ipynb](3-DV/03-01-02.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-02.md](3-DV/03-01-02.md) + data (7 files)
 3. Creating histograms and distribution plots [03-01-03.ipynb](3-DV/03-01-03.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-03.md](3-DV/03-01-03.md)
 4. Pie charts and when to use them [03-01-04.ipynb](3-DV/03-01-04.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-04.md](3-DV/03-01-04.md)
-5. Plot customization (titles, labels, legends) [03-01-05.ipynb](3-DV/03-01-05.ipynb) + data (6 files)
+5. Plot customization (titles, labels, legends) [03-01-05.ipynb](3-DV/03-01-05.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-05.md](3-DV/03-01-05.md) + data (6 files)
 6. Introduction to Seaborn [03-01-06.ipynb](3-DV/03-01-06.ipynb)
 7. Color selection for visualizations [03-01-07.ipynb](3-DV/03-01-07.ipynb) ⚠️(RESULT LOCALLY 141 MB) [03-01-07-result.ipynb](3-DV/03-01-07-result.ipynb)
 8. Multiple plots and subplots [03-01-08.ipynb](3-DV/03-01-08.ipynb)
