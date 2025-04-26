@@ -270,7 +270,7 @@
 2. Variables, data types, and basic operations [05-01-02.ipynb](5-PY/05-01-02.ipynb)
 3. Strings and string manipulation [05-01-03.ipynb](5-PY/05-01-03.ipynb)
 4. Control flow (if, elif, else statements) [05-01-04.ipynb](5-PY/05-01-04.ipynb)
-5. Loops (for and while) ⚠️(1x temp)
+5. Loops (for and while) [05-01-05.ipynb](5-PY/05-01-05.ipynb)
 6. Lists and list operations ⚠️(1x temp)
 7. Dictionaries and sets ⚠️(1x temp)
 8. Tuples and their uses ⚠️(1x temp)
