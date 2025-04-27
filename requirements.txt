@@ -36,3 +36,5 @@ pip-tools
 pycodestyle
 flake8
 black
+click
+pytest-shutil

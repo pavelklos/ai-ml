@@ -39,6 +39,7 @@ decorator==5.2.1
 defusedxml==0.7.1
 dtale==3.17.0
 et_xmlfile==2.0.0
+execnet==2.1.1
 executing==2.2.0
 fairlearn==0.12.0
 fastjsonschema==2.21.1
@@ -65,6 +66,7 @@ idna==3.10
 imbalanced-learn==0.13.0
 importlib_metadata==8.6.1
 importlib_resources==6.5.2
+iniconfig==2.1.0
 ipykernel==6.29.5
 ipython==9.1.0
 ipython_pygments_lexers==1.1.1
@@ -127,6 +129,7 @@ pip==25.1
 pip-tools==7.4.1
 platformdirs==4.3.7
 plotly==6.0.1
+pluggy==1.5.0
 POT==0.9.5
 prometheus_client==0.21.1
 prompt_toolkit==3.0.50
@@ -139,6 +142,8 @@ pyflakes==3.3.2
 Pygments==2.19.1
 pyparsing==3.2.3
 pyproject_hooks==1.2.0
+pytest==8.3.5
+pytest-shutil==1.8.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 python-json-logger==3.3.0
@@ -174,6 +179,7 @@ strsimpy==0.2.1
 sweetviz==2.3.1
 sympy==1.13.1
 tabulate==0.9.0
+termcolor==3.0.1
 terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
