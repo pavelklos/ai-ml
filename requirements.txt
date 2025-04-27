@@ -33,3 +33,6 @@ folium
 wordcloud
 colorcet
 pip-tools
+pycodestyle
+flake8
+black
