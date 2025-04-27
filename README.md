@@ -275,7 +275,7 @@
 7. Dictionaries and sets [05-01-07.ipynb](5-PY/05-01-07.ipynb)
 8. Tuples and their uses [05-01-08.ipynb](5-PY/05-01-08.ipynb)
 9. Functions and parameters [05-01-09.ipynb](5-PY/05-01-09.ipynb)
-10. Basic file I/O operations ⚠️(1x temp)
+10. Basic file I/O operations [05-01-10.ipynb](5-PY/05-01-10.ipynb)
 11. Error handling with try/except ⚠️(1x temp)
 12. Introduction to modules and imports ⚠️(1x temp)
 13. Basic OOP concepts (classes and objects) ⚠️(1x temp)
