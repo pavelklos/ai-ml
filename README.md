@@ -273,7 +273,7 @@
 5. Loops (for and while) [05-01-05.ipynb](5-PY/05-01-05.ipynb) + data (1 file)
 6. Lists and list operations [05-01-06.ipynb](5-PY/05-01-06.ipynb)
 7. Dictionaries and sets [05-01-07.ipynb](5-PY/05-01-07.ipynb)
-8. Tuples and their uses ⚠️(1x temp)
+8. Tuples and their uses [05-01-08.ipynb](5-PY/05-01-08.ipynb)
 9. Functions and parameters ⚠️(1x temp)
 10. Basic file I/O operations ⚠️(1x temp)
 11. Error handling with try/except ⚠️(1x temp)
