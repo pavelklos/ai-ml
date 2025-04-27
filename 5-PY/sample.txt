@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains multiple lines.
+We will use it for demonstration.
+
+This line is added using r+ mode.
