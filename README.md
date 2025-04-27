@@ -282,7 +282,7 @@
 14. Using pip and package management [05-01-14.ipynb](5-PY/05-01-14.ipynb)
 15. Virtual environments setup [05-01-15.ipynb](5-PY/05-01-15.ipynb)
 16. Working with dates and times [05-01-16.ipynb](5-PY/05-01-16.ipynb)
-17. Basic debugging techniques ⚠️(1x temp)
+17. Basic debugging techniques [05-01-17.ipynb](5-PY/05-01-17.ipynb)
 18. Python coding style (PEP 8) ⚠️(1x temp)
 19. Command line arguments and input ⚠️(1x temp)
 20. Simple project organization ⚠️(1x temp)
