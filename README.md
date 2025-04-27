@@ -277,7 +277,7 @@
 9. Functions and parameters [05-01-09.ipynb](5-PY/05-01-09.ipynb)
 10. Basic file I/O operations [05-01-10.ipynb](5-PY/05-01-10.ipynb) + data (11 files)
 11. Error handling with try/except [05-01-11.ipynb](5-PY/05-01-11.ipynb) + data (7 files)
-12. Introduction to modules and imports [05-01-12.ipynb](5-PY/05-01-12.ipynb)
+12. Introduction to modules and imports [05-01-12.ipynb](5-PY/05-01-12.ipynb) + data (10 files)
 13. Basic OOP concepts (classes and objects) [05-01-13.ipynb](5-PY/05-01-13.ipynb)
 14. Using pip and package management [05-01-14.ipynb](5-PY/05-01-14.ipynb)
 15. Virtual environments setup [05-01-15.ipynb](5-PY/05-01-15.ipynb)
