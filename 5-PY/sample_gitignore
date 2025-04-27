@@ -1,0 +1,26 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Conda environments
+.conda/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.env
+.idea/
+.vscode/
+*.swp
+*.swo

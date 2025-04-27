@@ -280,7 +280,7 @@
 12. Introduction to modules and imports [05-01-12.ipynb](5-PY/05-01-12.ipynb) + data (10 files)
 13. Basic OOP concepts (classes and objects) [05-01-13.ipynb](5-PY/05-01-13.ipynb)
 14. Using pip and package management [05-01-14.ipynb](5-PY/05-01-14.ipynb) + data (4 files)
-15. Virtual environments setup [05-01-15.ipynb](5-PY/05-01-15.ipynb)
+15. Virtual environments setup [05-01-15.ipynb](5-PY/05-01-15.ipynb) + data (2 files)
 16. Working with dates and times [05-01-16.ipynb](5-PY/05-01-16.ipynb)
 17. Basic debugging techniques [05-01-17.ipynb](5-PY/05-01-17.ipynb)
 18. Python coding style (PEP 8) [05-01-18.ipynb](5-PY/05-01-18.ipynb)
