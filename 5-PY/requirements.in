@@ -1,0 +1,4 @@
+# High-level dependencies (without version constraints)
+numpy
+pandas
+matplotlib
