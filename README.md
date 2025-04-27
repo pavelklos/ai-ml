@@ -278,7 +278,7 @@
 10. Basic file I/O operations [05-01-10.ipynb](5-PY/05-01-10.ipynb)
 11. Error handling with try/except [05-01-11.ipynb](5-PY/05-01-11.ipynb)
 12. Introduction to modules and imports [05-01-12.ipynb](5-PY/05-01-12.ipynb)
-13. Basic OOP concepts (classes and objects) ⚠️(1x temp)
+13. Basic OOP concepts (classes and objects) [05-01-13.ipynb](5-PY/05-01-13.ipynb)
 14. Using pip and package management ⚠️(1x temp)
 15. Virtual environments setup ⚠️(1x temp)
 16. Working with dates and times ⚠️(1x temp)
