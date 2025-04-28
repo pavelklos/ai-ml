@@ -214,7 +214,7 @@
 4. Understanding the training process (forward/backward propagation) [04-01-04.ipynb](4-DL/04-01-04.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-04.md](4-DL/04-01-04.md) 📗 [04-01-04-en.md](4-DL/04-01-04-en.md) 📗 [04-01-04-cz.md](4-DL/04-01-04-cz.md)
 5. Loss functions and their applications [04-01-05.ipynb](4-DL/04-01-05.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-05.md](4-DL/04-01-05.md) 📗 [04-01-05-en.md](4-DL/04-01-05-en.md) 📗 [04-01-05-cz.md](4-DL/04-01-05-cz.md)
 6. Gradient descent optimization [04-01-06.ipynb](4-DL/04-01-06.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-06.md](4-DL/04-01-06.md) 📗 [04-01-06-en.md](4-DL/04-01-06-en.md) 📗 [04-01-06-cz.md](4-DL/04-01-06-cz.md)
-7. Building your first neural network ⚠️(*1x temp*)
+7. Building your first neural network [04-01-07.ipynb](4-DL/04-01-07.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-07.md](4-DL/04-01-07.md) 📗 [04-01-07-en.md](4-DL/04-01-07-en.md) 📗 [04-01-07-cz.md](4-DL/04-01-07-cz.md)
 8. Introduction to TensorFlow/Keras API ⚠️(*1x temp*)
 9. Introduction to PyTorch basics ⚠️(*1x temp*)
 10. Working with datasets and data loaders ⚠️(*1x temp*)
