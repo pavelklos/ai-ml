@@ -226,7 +226,7 @@
 16. Regularization techniques (dropout, L1/L2) [04-01-16.ipynb](4-DL/04-01-16.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-16.md](4-DL/04-01-16.md) 📗 [04-01-16-en.md](4-DL/04-01-16-en.md) 📗 [04-01-16-cz.md](4-DL/04-01-16-cz.md)
 17. Transfer learning introduction [04-01-17a.ipynb](4-DL/04-01-17a.ipynb), [04-01-17b.ipynb](4-DL/04-01-17b.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-17a.md](4-DL/04-01-17a.md), [04-01-17b.md](4-DL/04-01-17b.md) 📗 [04-01-17-en.md](4-DL/04-01-17-en.md) 📗 [04-01-17-cz.md](4-DL/04-01-17-cz.md)
 18. Model evaluation for deep learning [04-01-18.ipynb](4-DL/04-01-18.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-18.md](4-DL/04-01-18.md) 📗 [04-01-18-en.md](4-DL/04-01-18-en.md) 📗 [04-01-18-cz.md](4-DL/04-01-18-cz.md)
-19. Visualizing neural networks ⚠️(*1x temp*)
+19. Visualizing neural networks [04-01-19.ipynb](4-DL/04-01-19.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-19.md](4-DL/04-01-19.md) 📗 [04-01-19-en.md](4-DL/04-01-19-en.md) 📗 [04-01-19-cz.md](4-DL/04-01-19-cz.md)
 20. Ethics and limitations of deep learning ⚠️(*1x temp*)
 
 ### 2. Intermediate Deep Learning (15 topics)
