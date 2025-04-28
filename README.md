@@ -222,7 +222,7 @@
 12. Text classification with neural networks [04-01-12.ipynb](4-DL/04-01-12.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-12.md](4-DL/04-01-12.md) 📗 [04-01-12-en.md](4-DL/04-01-12-en.md) 📗 [04-01-12-cz.md](4-DL/04-01-12-cz.md)
 13. Implementing simple feedforward networks [04-01-13.ipynb](4-DL/04-01-13.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-13.md](4-DL/04-01-13.md) 📗 [04-01-13-en.md](4-DL/04-01-13-en.md) 📗 [04-01-13-cz.md](4-DL/04-01-13-cz.md)
 14. Understanding hyperparameters [04-01-14.ipynb](4-DL/04-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-14.md](4-DL/04-01-14.md) 📗 [04-01-14-en.md](4-DL/04-01-14-en.md) 📗 [04-01-14-cz.md](4-DL/04-01-14-cz.md)
-15. Batch normalization basics ⚠️(*1x temp*)
+15. Batch normalization basics [04-01-15.ipynb](4-DL/04-01-15.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-15.md](4-DL/04-01-15.md) 📗 [04-01-15-en.md](4-DL/04-01-15-en.md) 📗 [04-01-15-cz.md](4-DL/04-01-15-cz.md)
 16. Regularization techniques (dropout, L1/L2) ⚠️(*1x temp*)
 17. Transfer learning introduction ⚠️(*2x temp*)
 18. Model evaluation for deep learning ⚠️(*1x temp*)
