@@ -181,7 +181,7 @@
 7. Visualization for machine learning models 📗 [03-02-07-en.md](3-DV/03-02-07-en.md) 📗 [03-02-07-cz.md](3-DV/03-02-07-cz.md)
 8. Heatmaps and correlation matrices 📗 [03-02-08-en.md](3-DV/03-02-08-en.md) 📗 [03-02-08-cz.md](3-DV/03-02-08-cz.md)
 9. Multi-dimensional data visualization 📗 [03-02-09-en.md](3-DV/03-02-09-en.md) 📗 [03-02-09-cz.md](3-DV/03-02-09-cz.md)
-10. Data storytelling principles
+10. Data storytelling principles 📗 [03-02-10-en.md](3-DV/03-02-10-en.md) 📗 [03-02-10-cz.md](3-DV/03-02-10-cz.md)
 11. Custom color maps and themes
 12. Animated visualizations
 13. Network and graph visualization
