@@ -205,10 +205,10 @@
 14. Custom visualization libraries
 15. Perceptual color theory for data viz
 
-## 4. Deep Learning (DL)
+## 4. Deep Learning (DL) ⚠️ (RUN ON GPU)
 
 ### 1. Beginner Deep Learning (20 topics)
-1. Introduction to deep learning concepts and terminology ⚠️(*1x temp*)
+1. Introduction to deep learning concepts and terminology [04-01-01.ipynb](4-DL/04-01-01.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-01.md](4-DL/04-01-01.md) 📗 [04-01-01-en.md](4-DL/04-01-01-en.md) 📗 [04-01-01-cz.md](4-DL/04-01-01-cz.md)
 2. Neural network fundamentals (neurons, activation functions) ⚠️(*1x temp*)
 3. Setting up deep learning environments (TensorFlow, PyTorch) ⚠️(*1x temp*)
 4. Understanding the training process (forward/backward propagation) ⚠️(*1x temp*)
