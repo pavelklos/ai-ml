@@ -211,7 +211,7 @@
 1. Introduction to deep learning concepts and terminology [04-01-01.ipynb](4-DL/04-01-01.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-01.md](4-DL/04-01-01.md) 📗 [04-01-01-en.md](4-DL/04-01-01-en.md) 📗 [04-01-01-cz.md](4-DL/04-01-01-cz.md)
 2. Neural network fundamentals (neurons, activation functions) [04-01-02.ipynb](4-DL/04-01-02.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-02.md](4-DL/04-01-02.md) 📗 [04-01-02-en.md](4-DL/04-01-02-en.md) 📗 [04-01-02-cz.md](4-DL/04-01-02-cz.md)
 3. Setting up deep learning environments (TensorFlow, PyTorch) [04-01-03.ipynb](4-DL/04-01-03.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-03.md](4-DL/04-01-03.md) 📗 [04-01-03-en.md](4-DL/04-01-03-en.md) 📗 [04-01-03-cz.md](4-DL/04-01-03-cz.md)
-4. Understanding the training process (forward/backward propagation) ⚠️(*1x temp*)
+4. Understanding the training process (forward/backward propagation) [04-01-04.ipynb](4-DL/04-01-04.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-04.md](4-DL/04-01-04.md) 📗 [04-01-04-en.md](4-DL/04-01-04-en.md) 📗 [04-01-04-cz.md](4-DL/04-01-04-cz.md)
 5. Loss functions and their applications ⚠️(*1x temp*)
 6. Gradient descent optimization ⚠️(*1x temp*)
 7. Building your first neural network ⚠️(*1x temp*)
