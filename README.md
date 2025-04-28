@@ -224,7 +224,7 @@
 14. Understanding hyperparameters [04-01-14.ipynb](4-DL/04-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-14.md](4-DL/04-01-14.md) 📗 [04-01-14-en.md](4-DL/04-01-14-en.md) 📗 [04-01-14-cz.md](4-DL/04-01-14-cz.md)
 15. Batch normalization basics [04-01-15.ipynb](4-DL/04-01-15.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-15.md](4-DL/04-01-15.md) 📗 [04-01-15-en.md](4-DL/04-01-15-en.md) 📗 [04-01-15-cz.md](4-DL/04-01-15-cz.md)
 16. Regularization techniques (dropout, L1/L2) [04-01-16.ipynb](4-DL/04-01-16.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-16.md](4-DL/04-01-16.md) 📗 [04-01-16-en.md](4-DL/04-01-16-en.md) 📗 [04-01-16-cz.md](4-DL/04-01-16-cz.md)
-17. Transfer learning introduction ⚠️(*2x temp*)
+17. Transfer learning introduction [04-01-17a.ipynb](4-DL/04-01-17a.ipynb), [04-01-17b.ipynb](4-DL/04-01-17b.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-17a.md](4-DL/04-01-17a.md), [04-01-17b.md](4-DL/04-01-17b.md) 📗 [04-01-17-en.md](4-DL/04-01-17-en.md) 📗 [04-01-17-cz.md](4-DL/04-01-17-cz.md)
 18. Model evaluation for deep learning ⚠️(*1x temp*)
 19. Visualizing neural networks ⚠️(*1x temp*)
 20. Ethics and limitations of deep learning ⚠️(*1x temp*)
