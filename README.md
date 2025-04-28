@@ -227,7 +227,7 @@
 17. Transfer learning introduction [04-01-17a.ipynb](4-DL/04-01-17a.ipynb), [04-01-17b.ipynb](4-DL/04-01-17b.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-17a.md](4-DL/04-01-17a.md), [04-01-17b.md](4-DL/04-01-17b.md) 📗 [04-01-17-en.md](4-DL/04-01-17-en.md) 📗 [04-01-17-cz.md](4-DL/04-01-17-cz.md)
 18. Model evaluation for deep learning [04-01-18.ipynb](4-DL/04-01-18.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-18.md](4-DL/04-01-18.md) 📗 [04-01-18-en.md](4-DL/04-01-18-en.md) 📗 [04-01-18-cz.md](4-DL/04-01-18-cz.md)
 19. Visualizing neural networks [04-01-19.ipynb](4-DL/04-01-19.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-19.md](4-DL/04-01-19.md) 📗 [04-01-19-en.md](4-DL/04-01-19-en.md) 📗 [04-01-19-cz.md](4-DL/04-01-19-cz.md)
-20. Ethics and limitations of deep learning ⚠️(*1x temp*)
+20. Ethics and limitations of deep learning [04-01-20.ipynb](4-DL/04-01-20.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-20.md](4-DL/04-01-20.md) 📗 [04-01-20-en.md](4-DL/04-01-20-en.md) 📗 [04-01-20-cz.md](4-DL/04-01-20-cz.md)
 
 ### 2. Intermediate Deep Learning (15 topics)
 1. Convolutional Neural Networks (CNNs) architecture
