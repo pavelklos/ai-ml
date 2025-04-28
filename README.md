@@ -183,7 +183,7 @@
 9. Multi-dimensional data visualization 📗 [03-02-09-en.md](3-DV/03-02-09-en.md) 📗 [03-02-09-cz.md](3-DV/03-02-09-cz.md)
 10. Data storytelling principles 📗 [03-02-10-en.md](3-DV/03-02-10-en.md) 📗 [03-02-10-cz.md](3-DV/03-02-10-cz.md)
 11. Custom color maps and themes 📗 [03-02-11-en.md](3-DV/03-02-11-en.md) 📗 [03-02-11-cz.md](3-DV/03-02-11-cz.md)
-12. Animated visualizations
+12. Animated visualizations 📗 [03-02-12-en.md](3-DV/03-02-12-en.md) 📗 [03-02-12-cz.md](3-DV/03-02-12-cz.md)
 13. Network and graph visualization
 14. Interactive widgets with ipywidgets
 15. Tree maps and sunburst charts
