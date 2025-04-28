@@ -172,7 +172,7 @@
 21. Python Data Visualization Guide (plots) [03-01-21.ipynb](3-DV/03-01-21.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-21.md](3-DV/03-01-21.md) ✅PLOTS
 
 ### 2. Intermediate Data Visualization (15 topics)
-1. Customizing matplotlib plots
+1. Customizing matplotlib plots 📗 [03-02-01-en.md](3-DV/03-02-01-en.md) 📗 [03-02-01-cz.md](3-DV/03-02-01-cz.md)
 2. Interactive visualizations with Plotly
 3. Seaborn for statistical visualization
 4. Geographic visualizations with Folium
