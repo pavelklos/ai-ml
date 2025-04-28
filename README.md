@@ -219,7 +219,7 @@
 9. Introduction to PyTorch basics [04-01-09.ipynb](4-DL/04-01-09.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-09.md](4-DL/04-01-09.md) 📗 [04-01-09-en.md](4-DL/04-01-09-en.md) 📗 [04-01-09-cz.md](4-DL/04-01-09-cz.md)
 10. Working with datasets and data loaders [04-01-10.ipynb](4-DL/04-01-10.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-10a.md](4-DL/04-01-10a.md), [04-01-10b.md](4-DL/04-01-10b.md), [04-01-10c.md](4-DL/04-01-10c.md) 📗 [04-01-10-en.md](4-DL/04-01-10-en.md) 📗 [04-01-10-cz.md](4-DL/04-01-10-cz.md)
 11. Image classification with neural networks [04-01-11.ipynb](4-DL/04-01-11.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-11.md](4-DL/04-01-11.md) 📗 [04-01-11-en.md](4-DL/04-01-11-en.md) 📗 [04-01-11-cz.md](4-DL/04-01-11-cz.md)
-12. Text classification with neural networks ⚠️(*1x temp*)
+12. Text classification with neural networks [04-01-12.ipynb](4-DL/04-01-12.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-12.md](4-DL/04-01-12.md) 📗 [04-01-12-en.md](4-DL/04-01-12-en.md) 📗 [04-01-12-cz.md](4-DL/04-01-12-cz.md)
 13. Implementing simple feedforward networks ⚠️(*1x temp*)
 14. Understanding hyperparameters ⚠️(*1x temp*)
 15. Batch normalization basics ⚠️(*1x temp*)
