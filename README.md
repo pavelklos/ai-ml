@@ -174,7 +174,7 @@
 ### 2. Intermediate Data Visualization (15 topics)
 1. Customizing matplotlib plots 📗 [03-02-01-en.md](3-DV/03-02-01-en.md) 📗 [03-02-01-cz.md](3-DV/03-02-01-cz.md)
 2. Interactive visualizations with Plotly 📗 [03-02-02-en.md](3-DV/03-02-02-en.md) 📗 [03-02-02-cz.md](3-DV/03-02-02-cz.md)
-3. Seaborn for statistical visualization
+3. Seaborn for statistical visualization 📗 [03-02-03-en.md](3-DV/03-02-03-en.md) 📗 [03-02-03-cz.md](3-DV/03-02-03-cz.md)
 4. Geographic visualizations with Folium
 5. Time series visualization techniques
 6. Dashboards with Dash or Panel
