@@ -177,7 +177,7 @@
 3. Seaborn for statistical visualization 📗 [03-02-03-en.md](3-DV/03-02-03-en.md) 📗 [03-02-03-cz.md](3-DV/03-02-03-cz.md)
 4. Geographic visualizations with Folium 📗 [03-02-04-en.md](3-DV/03-02-04-en.md) 📗 [03-02-04-cz.md](3-DV/03-02-04-cz.md)
 5. Time series visualization techniques 📗 [03-02-05-en.md](3-DV/03-02-05-en.md) 📗 [03-02-05-cz.md](3-DV/03-02-05-cz.md)
-6. Dashboards with Dash or Panel
+6. Dashboards with Dash or Panel 📗 [03-02-06-en.md](3-DV/03-02-06-en.md) 📗 [03-02-06-cz.md](3-DV/03-02-06-cz.md)
 7. Visualization for machine learning models
 8. Heatmaps and correlation matrices
 9. Multi-dimensional data visualization
