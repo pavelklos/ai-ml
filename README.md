@@ -70,7 +70,7 @@
 ### 3. Advanced Data Science (15 topics)
 1. Big data processing with PySpark 📗 [01-03-01-en.md](1-DS/01-03-01-en.md) 📗 [01-03-01-cz.md](1-DS/01-03-01-cz.md)
 2. Advanced pandas (memory optimization, custom accessors) 📗 [01-03-02-en.md](1-DS/01-03-02-en.md) 📗 [01-03-02-cz.md](1-DS/01-03-02-cz.md)
-3. Natural language processing fundamentals
+3. Natural language processing fundamentals 📗 [01-03-03-en.md](1-DS/01-03-03-en.md) 📗 [01-03-03-cz.md](1-DS/01-03-03-cz.md)
 4. Recommendation systems
 5. Bayesian statistics and probabilistic programming
 6. Dimensionality reduction techniques (PCA, t-SNE, UMAP)
