@@ -68,7 +68,7 @@
 15. Merging, joining, and concatenating DataFrames 📗 [01-02-15-en.md](1-DS/01-02-15-en.md) 📗 [01-02-15-cz.md](1-DS/01-02-15-cz.md)
 
 ### 3. Advanced Data Science (15 topics)
-1. Big data processing with PySpark
+1. Big data processing with PySpark 📗 [01-03-01-en.md](1-DS/01-03-01-en.md) 📗 [01-03-01-cz.md](1-DS/01-03-01-cz.md)
 2. Advanced pandas (memory optimization, custom accessors)
 3. Natural language processing fundamentals
 4. Recommendation systems
