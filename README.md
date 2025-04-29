@@ -59,7 +59,7 @@
 6. Statistical analysis with scipy.stats 📗 [01-02-06-en.md](1-DS/01-02-06-en.md) 📗 [01-02-06-cz.md](1-DS/01-02-06-cz.md)
 7. Handling imbalanced datasets 📗 [01-02-07-en.md](1-DS/01-02-07-en.md) 📗 [01-02-07-cz.md](1-DS/01-02-07-cz.md)
 8. SQL integration with pandas 📗 [01-02-08-en.md](1-DS/01-02-08-en.md) 📗 [01-02-08-cz.md](1-DS/01-02-08-cz.md)
-9. Web scraping for data collection
+9. Web scraping for data collection 📗 [01-02-09-en.md](1-DS/01-02-09-en.md) 📗 [01-02-09-cz.md](1-DS/01-02-09-cz.md)
 10. Exploratory data analysis techniques
 11. A/B testing
 12. Data validation techniques
