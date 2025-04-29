@@ -73,7 +73,7 @@
 3. Natural language processing fundamentals 📗 [01-03-03-en.md](1-DS/01-03-03-en.md) 📗 [01-03-03-cz.md](1-DS/01-03-03-cz.md)
 4. Recommendation systems 📗 [01-03-04-en.md](1-DS/01-03-04-en.md) 📗 [01-03-04-cz.md](1-DS/01-03-04-cz.md)
 5. Bayesian statistics and probabilistic programming 📗 [01-03-05-en.md](1-DS/01-03-05-en.md) 📗 [01-03-05-cz.md](1-DS/01-03-05-cz.md)
-6. Dimensionality reduction techniques (PCA, t-SNE, UMAP)
+6. Dimensionality reduction techniques (PCA, t-SNE, UMAP) 📗 [01-03-06-en.md](1-DS/01-03-06-en.md) 📗 [01-03-06-cz.md](1-DS/01-03-06-cz.md)
 7. Advanced time series forecasting
 8. Large-scale data processing frameworks
 9. Graph analysis (NetworkX, Neo4j)
