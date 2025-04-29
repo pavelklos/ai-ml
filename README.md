@@ -77,7 +77,7 @@
 7. Advanced time series forecasting 📗 [01-03-07-en.md](1-DS/01-03-07-en.md) 📗 [01-03-07-cz.md](1-DS/01-03-07-cz.md)
 8. Large-scale data processing frameworks 📗 [01-03-08-en.md](1-DS/01-03-08-en.md) 📗 [01-03-08-cz.md](1-DS/01-03-08-cz.md)
 9. Graph analysis (NetworkX, Neo4j) 📗 [01-03-09-en.md](1-DS/01-03-09-en.md) 📗 [01-03-09-cz.md](1-DS/01-03-09-cz.md)
-10. Geospatial data analysis
+10. Geospatial data analysis 📗 [01-03-10-en.md](1-DS/01-03-10-en.md) 📗 [01-03-10-cz.md](1-DS/01-03-10-cz.md)
 11. Data pipelines (Luigi, Airflow)
 12. Advanced SQL for data science
 13. Causal inference methods
