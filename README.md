@@ -81,7 +81,7 @@
 11. Data pipelines (Luigi, Airflow) 📗 [01-03-11-en.md](1-DS/01-03-11-en.md) 📗 [01-03-11-cz.md](1-DS/01-03-11-cz.md)
 12. Advanced SQL for data science 📗 [01-03-12-en.md](1-DS/01-03-12-en.md) 📗 [01-03-12-cz.md](1-DS/01-03-12-cz.md)
 13. Causal inference methods 📗 [01-03-13-en.md](1-DS/01-03-13-en.md) 📗 [01-03-13-cz.md](1-DS/01-03-13-cz.md)
-14. Feature selection (recursive feature elimination)
+14. Feature selection (recursive feature elimination) 📗 [01-03-14-en.md](1-DS/01-03-14-en.md) 📗 [01-03-14-cz.md](1-DS/01-03-14-cz.md)
 15. Data versioning and reproducibility
 
 ## 2. Machine Learning (ML)
