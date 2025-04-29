@@ -61,7 +61,7 @@
 8. SQL integration with pandas 📗 [01-02-08-en.md](1-DS/01-02-08-en.md) 📗 [01-02-08-cz.md](1-DS/01-02-08-cz.md)
 9. Web scraping for data collection 📗 [01-02-09-en.md](1-DS/01-02-09-en.md) 📗 [01-02-09-cz.md](1-DS/01-02-09-cz.md)
 10. Exploratory data analysis techniques 📗 [01-02-10-en.md](1-DS/01-02-10-en.md) 📗 [01-02-10-cz.md](1-DS/01-02-10-cz.md)
-11. A/B testing
+11. A/B testing 📗 [01-02-11-en.md](1-DS/01-02-11-en.md) 📗 [01-02-11-cz.md](1-DS/01-02-11-cz.md)
 12. Data validation techniques
 13. Data wrangling and transformation
 14. Working with text data (regex, NLP basics)
