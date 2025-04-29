@@ -52,7 +52,7 @@
 
 ### 2. Intermediate Data Science (15 topics)
 1. Advanced pandas data manipulation 📗 [01-02-01-en.md](1-DS/01-02-01-en.md) 📗 [01-02-01-cz.md](1-DS/01-02-01-cz.md)
-2. Pandas advanced indexing (MultiIndex, loc vs iloc)
+2. Pandas advanced indexing (MultiIndex, loc vs iloc) 📗 [01-02-02-en.md](1-DS/01-02-02-en.md) 📗 [01-02-02-cz.md](1-DS/01-02-02-cz.md)
 3. Data preprocessing and cleaning pipelines
 4. Feature engineering techniques
 5. Time series analysis fundamentals
