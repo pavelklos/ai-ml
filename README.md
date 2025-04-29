@@ -65,7 +65,7 @@
 12. Data validation techniques 📗 [01-02-12-en.md](1-DS/01-02-12-en.md) 📗 [01-02-12-cz.md](1-DS/01-02-12-cz.md)
 13. Data wrangling and transformation 📗 [01-02-13-en.md](1-DS/01-02-13-en.md) 📗 [01-02-13-cz.md](1-DS/01-02-13-cz.md)
 14. Working with text data (regex, NLP basics) 📗 [01-02-14-en.md](1-DS/01-02-14-en.md) 📗 [01-02-14-cz.md](1-DS/01-02-14-cz.md)
-15. Merging, joining, and concatenating DataFrames
+15. Merging, joining, and concatenating DataFrames 📗 [01-02-15-en.md](1-DS/01-02-15-en.md) 📗 [01-02-15-cz.md](1-DS/01-02-15-cz.md)
 
 ### 3. Advanced Data Science (15 topics)
 1. Big data processing with PySpark
