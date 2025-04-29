@@ -64,7 +64,7 @@
 11. A/B testing 📗 [01-02-11-en.md](1-DS/01-02-11-en.md) 📗 [01-02-11-cz.md](1-DS/01-02-11-cz.md)
 12. Data validation techniques 📗 [01-02-12-en.md](1-DS/01-02-12-en.md) 📗 [01-02-12-cz.md](1-DS/01-02-12-cz.md)
 13. Data wrangling and transformation 📗 [01-02-13-en.md](1-DS/01-02-13-en.md) 📗 [01-02-13-cz.md](1-DS/01-02-13-cz.md)
-14. Working with text data (regex, NLP basics)
+14. Working with text data (regex, NLP basics) 📗 [01-02-14-en.md](1-DS/01-02-14-en.md) 📗 [01-02-14-cz.md](1-DS/01-02-14-cz.md)
 15. Merging, joining, and concatenating DataFrames
 
 ### 3. Advanced Data Science (15 topics)
