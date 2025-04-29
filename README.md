@@ -82,7 +82,7 @@
 12. Advanced SQL for data science 📗 [01-03-12-en.md](1-DS/01-03-12-en.md) 📗 [01-03-12-cz.md](1-DS/01-03-12-cz.md)
 13. Causal inference methods 📗 [01-03-13-en.md](1-DS/01-03-13-en.md) 📗 [01-03-13-cz.md](1-DS/01-03-13-cz.md)
 14. Feature selection (recursive feature elimination) 📗 [01-03-14-en.md](1-DS/01-03-14-en.md) 📗 [01-03-14-cz.md](1-DS/01-03-14-cz.md)
-15. Data versioning and reproducibility
+15. Data versioning and reproducibility 📗 [01-03-15-claude-en.md](1-DS/01-03-15-claude-en.md) 📗 [01-03-15-claude-cz.md](1-DS/01-03-15-claude-cz.md) 📗 [01-03-15-claude-cz-full.md](1-DS/01-03-15-claude-cz-full.md)
 
 ## 2. Machine Learning (ML)
 
