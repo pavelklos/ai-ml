@@ -75,7 +75,7 @@
 5. Bayesian statistics and probabilistic programming 📗 [01-03-05-en.md](1-DS/01-03-05-en.md) 📗 [01-03-05-cz.md](1-DS/01-03-05-cz.md)
 6. Dimensionality reduction techniques (PCA, t-SNE, UMAP) 📗 [01-03-06-en.md](1-DS/01-03-06-en.md) 📗 [01-03-06-cz.md](1-DS/01-03-06-cz.md)
 7. Advanced time series forecasting 📗 [01-03-07-en.md](1-DS/01-03-07-en.md) 📗 [01-03-07-cz.md](1-DS/01-03-07-cz.md)
-8. Large-scale data processing frameworks
+8. Large-scale data processing frameworks 📗 [01-03-08-en.md](1-DS/01-03-08-en.md) 📗 [01-03-08-cz.md](1-DS/01-03-08-cz.md)
 9. Graph analysis (NetworkX, Neo4j)
 10. Geospatial data analysis
 11. Data pipelines (Luigi, Airflow)
