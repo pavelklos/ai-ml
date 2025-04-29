@@ -51,7 +51,7 @@
 20. Introduction to data ethics and privacy [01-01-20.ipynb](1-DS/01-01-20.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-20.md](1-DS/01-01-20.md)
 
 ### 2. Intermediate Data Science (15 topics)
-1. Advanced pandas data manipulation
+1. Advanced pandas data manipulation 📗 [01-02-01-en.md](1-DS/01-02-01-en.md) 📗 [01-02-01-cz.md](1-DS/01-02-01-cz.md)
 2. Pandas advanced indexing (MultiIndex, loc vs iloc)
 3. Data preprocessing and cleaning pipelines
 4. Feature engineering techniques
