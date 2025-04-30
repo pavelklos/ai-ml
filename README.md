@@ -133,7 +133,7 @@
 2. Transfer learning and fine-tuning 📗 [02-03-02-en.md](2-ML/02-03-02-en.md) 📗 [02-03-02-cz.md](2-ML/02-03-02-cz.md)
 3. Generative adversarial networks (GANs) 📗 [02-03-03-en.md](2-ML/02-03-03-en.md) 📗 [02-03-03-cz.md](2-ML/02-03-03-cz.md)
 4. Reinforcement learning 📗 [02-03-04-en.md](2-ML/02-03-04-en.md) 📗 [02-03-04-cz.md](2-ML/02-03-04-cz.md)
-5. Time series forecasting with ML
+5. Time series forecasting with ML 📗 [02-03-05-en.md](2-ML/02-03-05-en.md) 📗 [02-03-05-cz.md](2-ML/02-03-05-cz.md)
 6. Advanced optimization algorithms
 7. AutoML and neural architecture search
 8. Explainable AI techniques
