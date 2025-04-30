@@ -125,7 +125,7 @@
 11. Dimensionality reduction (PCA, LDA) 📗 [02-02-11-en.md](2-ML/02-02-11-en.md) 📗 [02-02-11-cz.md](2-ML/02-02-11-cz.md)
 12. Model selection techniques 📗 [02-02-12-en.md](2-ML/02-02-12-en.md) 📗 [02-02-12-cz.md](2-ML/02-02-12-cz.md)
 13. Introduction to deep learning with Keras/TensorFlow 📗 [02-02-13-en.md](2-ML/02-02-13-en.md) 📗 [02-02-13-cz.md](2-ML/02-02-13-cz.md)
-14. Feature engineering for machine learning
+14. Feature engineering for machine learning 📗 [02-02-14-en.md](2-ML/02-02-14-en.md) 📗 [02-02-14-cz.md](2-ML/02-02-14-cz.md)
 15. Model interpretability (SHAP, LIME)
 
 ### 3. Advanced Machine Learning (15 topics)
