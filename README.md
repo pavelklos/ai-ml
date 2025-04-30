@@ -114,7 +114,7 @@
 ### 2. Intermediate Machine Learning (15 topics)
 1. Support vector machines (SVM) 📗 [02-02-01-en.md](2-ML/02-02-01-en.md) 📗 [02-02-01-cz.md](2-ML/02-02-01-cz.md)
 2. Decision trees and random forests 📗 [02-02-02-en.md](2-ML/02-02-02-en.md) 📗 [02-02-02-cz.md](2-ML/02-02-02-cz.md)
-3. Gradient boosting algorithms
+3. Gradient boosting algorithms 📗 [02-02-03-en.md](2-ML/02-02-03-en.md) 📗 [02-02-03-cz.md](2-ML/02-02-03-cz.md)
 4. Cross-validation strategies
 5. Ensemble methods (bagging, boosting, stacking)
 6. Model evaluation metrics (precision, recall, F1-score)
