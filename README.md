@@ -139,7 +139,7 @@
 8. Explainable AI techniques 📗 [02-03-08-en.md](2-ML/02-03-08-en.md) 📗 [02-03-08-cz.md](2-ML/02-03-08-cz.md)
 9. Semi-supervised and self-supervised learning 📗 [02-03-09-en.md](2-ML/02-03-09-en.md) 📗 [02-03-09-cz.md](2-ML/02-03-09-cz.md)
 10. Federated learning and privacy-preserving ML 📗 [02-03-10-en.md](2-ML/02-03-10-en.md) 📗 [02-03-10-cz.md](2-ML/02-03-10-cz.md)
-11. Model deployment and MLOps
+11. Model deployment and MLOps 📗 [02-03-11-en.md](2-ML/02-03-11-en.md) 📗 [02-03-11-cz.md](2-ML/02-03-11-cz.md)
 12. Bayesian optimization for hyperparameter tuning
 13. Advanced ensemble techniques
 14. Graph neural networks
