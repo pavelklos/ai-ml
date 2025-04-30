@@ -137,7 +137,7 @@
 6. Advanced optimization algorithms 📗 [02-03-06-en.md](2-ML/02-03-06-en.md) 📗 [02-03-06-cz.md](2-ML/02-03-06-cz.md)
 7. AutoML and neural architecture search 📗 [02-03-07-en.md](2-ML/02-03-07-en.md) 📗 [02-03-07-cz.md](2-ML/02-03-07-cz.md)
 8. Explainable AI techniques 📗 [02-03-08-en.md](2-ML/02-03-08-en.md) 📗 [02-03-08-cz.md](2-ML/02-03-08-cz.md)
-9. Semi-supervised and self-supervised learning
+9. Semi-supervised and self-supervised learning 📗 [02-03-09-en.md](2-ML/02-03-09-en.md) 📗 [02-03-09-cz.md](2-ML/02-03-09-cz.md)
 10. Federated learning and privacy-preserving ML
 11. Model deployment and MLOps
 12. Bayesian optimization for hyperparameter tuning
