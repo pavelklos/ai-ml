@@ -119,7 +119,7 @@
 5. Ensemble methods (bagging, boosting, stacking) 📗 [02-02-05-en.md](2-ML/02-02-05-en.md) 📗 [02-02-05-cz.md](2-ML/02-02-05-cz.md)
 6. Model evaluation metrics (precision, recall, F1-score) 📗 [02-02-06-en.md](2-ML/02-02-06-en.md) 📗 [02-02-06-cz.md](2-ML/02-02-06-cz.md)
 7. Hyperparameter tuning 📗 [02-02-07-en.md](2-ML/02-02-07-en.md) 📗 [02-02-07-cz.md](2-ML/02-02-07-cz.md)
-8. Regularization techniques
+8. Regularization techniques 📗 [02-02-08-en.md](2-ML/02-02-08-en.md) 📗 [02-02-08-cz.md](2-ML/02-02-08-cz.md)
 9. Handling imbalanced datasets (SMOTE, ADASYN)
 10. Clustering techniques (K-means, hierarchical, DBSCAN)
 11. Dimensionality reduction (PCA, LDA)
