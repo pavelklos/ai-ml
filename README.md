@@ -135,7 +135,7 @@
 4. Reinforcement learning 📗 [02-03-04-en.md](2-ML/02-03-04-en.md) 📗 [02-03-04-cz.md](2-ML/02-03-04-cz.md)
 5. Time series forecasting with ML 📗 [02-03-05-en.md](2-ML/02-03-05-en.md) 📗 [02-03-05-cz.md](2-ML/02-03-05-cz.md)
 6. Advanced optimization algorithms 📗 [02-03-06-en.md](2-ML/02-03-06-en.md) 📗 [02-03-06-cz.md](2-ML/02-03-06-cz.md)
-7. AutoML and neural architecture search
+7. AutoML and neural architecture search 📗 [02-03-07-en.md](2-ML/02-03-07-en.md) 📗 [02-03-07-cz.md](2-ML/02-03-07-cz.md)
 8. Explainable AI techniques
 9. Semi-supervised and self-supervised learning
 10. Federated learning and privacy-preserving ML
