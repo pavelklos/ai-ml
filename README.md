@@ -117,7 +117,7 @@
 3. Gradient boosting algorithms 📗 [02-02-03-en.md](2-ML/02-02-03-en.md) 📗 [02-02-03-cz.md](2-ML/02-02-03-cz.md)
 4. Cross-validation strategies 📗 [02-02-04-en.md](2-ML/02-02-04-en.md) 📗 [02-02-04-cz.md](2-ML/02-02-04-cz.md)
 5. Ensemble methods (bagging, boosting, stacking) 📗 [02-02-05-en.md](2-ML/02-02-05-en.md) 📗 [02-02-05-cz.md](2-ML/02-02-05-cz.md)
-6. Model evaluation metrics (precision, recall, F1-score)
+6. Model evaluation metrics (precision, recall, F1-score) 📗 [02-02-06-en.md](2-ML/02-02-06-en.md) 📗 [02-02-06-cz.md](2-ML/02-02-06-cz.md)
 7. Hyperparameter tuning
 8. Regularization techniques
 9. Handling imbalanced datasets (SMOTE, ADASYN)
