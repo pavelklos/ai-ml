@@ -121,7 +121,7 @@
 7. Hyperparameter tuning 📗 [02-02-07-en.md](2-ML/02-02-07-en.md) 📗 [02-02-07-cz.md](2-ML/02-02-07-cz.md)
 8. Regularization techniques 📗 [02-02-08-en.md](2-ML/02-02-08-en.md) 📗 [02-02-08-cz.md](2-ML/02-02-08-cz.md)
 9. Handling imbalanced datasets (SMOTE, ADASYN) 📗 [02-02-09-en.md](2-ML/02-02-09-en.md) 📗 [02-02-09-cz.md](2-ML/02-02-09-cz.md)
-10. Clustering techniques (K-means, hierarchical, DBSCAN)
+10. Clustering techniques (K-means, hierarchical, DBSCAN) 📗 [02-02-10-en.md](2-ML/02-02-10-en.md) 📗 [02-02-10-cz.md](2-ML/02-02-10-cz.md)
 11. Dimensionality reduction (PCA, LDA)
 12. Model selection techniques
 13. Introduction to deep learning with Keras/TensorFlow
