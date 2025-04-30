@@ -141,7 +141,7 @@
 10. Federated learning and privacy-preserving ML 📗 [02-03-10-en.md](2-ML/02-03-10-en.md) 📗 [02-03-10-cz.md](2-ML/02-03-10-cz.md)
 11. Model deployment and MLOps 📗 [02-03-11-en.md](2-ML/02-03-11-en.md) 📗 [02-03-11-cz.md](2-ML/02-03-11-cz.md)
 12. Bayesian optimization for hyperparameter tuning 📗 [02-03-12-en.md](2-ML/02-03-12-en.md) 📗 [02-03-12-cz.md](2-ML/02-03-12-cz.md)
-13. Advanced ensemble techniques
+13. Advanced ensemble techniques 📗 [02-03-13-en.md](2-ML/02-03-13-en.md) 📗 [02-03-13-cz.md](2-ML/02-03-13-cz.md)
 14. Graph neural networks
 15. Anomaly detection methods
 
