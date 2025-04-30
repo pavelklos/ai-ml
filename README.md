@@ -131,7 +131,7 @@
 ### 3. Advanced Machine Learning (15 topics)
 1. Deep learning architectures (CNNs, RNNs, Transformers) 📗 [02-03-01-en.md](2-ML/02-03-01-en.md) 📗 [02-03-01-cz.md](2-ML/02-03-01-cz.md)
 2. Transfer learning and fine-tuning 📗 [02-03-02-en.md](2-ML/02-03-02-en.md) 📗 [02-03-02-cz.md](2-ML/02-03-02-cz.md)
-3. Generative adversarial networks (GANs)
+3. Generative adversarial networks (GANs) 📗 [02-03-03-en.md](2-ML/02-03-03-en.md) 📗 [02-03-03-cz.md](2-ML/02-03-03-cz.md)
 4. Reinforcement learning
 5. Time series forecasting with ML
 6. Advanced optimization algorithms
