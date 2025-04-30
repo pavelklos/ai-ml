@@ -129,7 +129,7 @@
 15. Model interpretability (SHAP, LIME) 📗 [02-02-15-en.md](2-ML/02-02-15-en.md) 📗 [02-02-15-cz.md](2-ML/02-02-15-cz.md)
 
 ### 3. Advanced Machine Learning (15 topics)
-1. Deep learning architectures (CNNs, RNNs, Transformers)
+1. Deep learning architectures (CNNs, RNNs, Transformers) 📗 [02-03-01-en.md](2-ML/02-03-01-en.md) 📗 [02-03-01-cz.md](2-ML/02-03-01-cz.md)
 2. Transfer learning and fine-tuning
 3. Generative adversarial networks (GANs)
 4. Reinforcement learning
