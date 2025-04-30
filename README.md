@@ -126,7 +126,7 @@
 12. Model selection techniques 📗 [02-02-12-en.md](2-ML/02-02-12-en.md) 📗 [02-02-12-cz.md](2-ML/02-02-12-cz.md)
 13. Introduction to deep learning with Keras/TensorFlow 📗 [02-02-13-en.md](2-ML/02-02-13-en.md) 📗 [02-02-13-cz.md](2-ML/02-02-13-cz.md)
 14. Feature engineering for machine learning 📗 [02-02-14-en.md](2-ML/02-02-14-en.md) 📗 [02-02-14-cz.md](2-ML/02-02-14-cz.md)
-15. Model interpretability (SHAP, LIME)
+15. Model interpretability (SHAP, LIME) 📗 [02-02-15-en.md](2-ML/02-02-15-en.md) 📗 [02-02-15-cz.md](2-ML/02-02-15-cz.md)
 
 ### 3. Advanced Machine Learning (15 topics)
 1. Deep learning architectures (CNNs, RNNs, Transformers)
