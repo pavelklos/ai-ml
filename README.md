@@ -143,7 +143,7 @@
 12. Bayesian optimization for hyperparameter tuning 📗 [02-03-12-en.md](2-ML/02-03-12-en.md) 📗 [02-03-12-cz.md](2-ML/02-03-12-cz.md)
 13. Advanced ensemble techniques 📗 [02-03-13-en.md](2-ML/02-03-13-en.md) 📗 [02-03-13-cz.md](2-ML/02-03-13-cz.md)
 14. Graph neural networks 📗 [02-03-14-en.md](2-ML/02-03-14-en.md) 📗 [02-03-14-cz.md](2-ML/02-03-14-cz.md)
-15. Anomaly detection methods
+15. Anomaly detection methods 📗 [02-03-15-en.md](2-ML/02-03-15-en.md) 📗 [02-03-15-cz.md](2-ML/02-03-15-cz.md)
 
 ## 3. Data Visualization (DV)
 
