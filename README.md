@@ -112,7 +112,7 @@
 20. Ethical considerations in ML [02-01-20.ipynb](2-ML/02-01-20.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-20.md](2-ML/02-01-20.md) + data (1 file)
 
 ### 2. Intermediate Machine Learning (15 topics)
-1. Support vector machines (SVM)
+1. Support vector machines (SVM) 📗 [02-02-01-en.md](2-ML/02-02-01-en.md) 📗 [02-02-01-cz.md](2-ML/02-02-01-cz.md)
 2. Decision trees and random forests
 3. Gradient boosting algorithms
 4. Cross-validation strategies
