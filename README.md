@@ -232,7 +232,7 @@
 ### 2. Intermediate Deep Learning (15 topics)
 1. Convolutional Neural Networks (CNNs) architecture 📗 [04-02-01-en.md](4-DL/04-02-01-en.md) 📗 [04-02-01-cz.md](4-DL/04-02-01-cz.md) 📗 [04-02-01-cz-other.md](4-DL/04-02-01-cz-other.md)
 2. Recurrent Neural Networks (RNNs) and LSTM networks 📗 [04-02-02-en.md](4-DL/04-02-02-en.md) 📗 [04-02-02-cz.md](4-DL/04-02-02-cz.md) 📗 [04-02-02-cz-other.md](4-DL/04-02-02-cz-other.md)
-3. GRU and bidirectional RNNs
+3. GRU and bidirectional RNNs 📗 [04-02-03-en.md](4-DL/04-02-03-en.md) 📗 [04-02-03-cz.md](4-DL/04-02-03-cz.md) 📗 [04-02-03-cz-other.md](4-DL/04-02-03-cz-other.md)
 4. Word embeddings and language models
 5. Autoencoders and their applications
 6. Generative adversarial networks (GANs) basics
