@@ -240,7 +240,7 @@
 8. Attention mechanisms 📗 [04-02-08-en.md](4-DL/04-02-08-en.md) 📗 [04-02-08-cz.md](4-DL/04-02-08-cz.md)
 9. Advanced optimization algorithms (Adam, RMSprop) 📗 [04-02-09-en.md](4-DL/04-02-09-en.md) 📗 [04-02-09-cz.md](4-DL/04-02-09-cz.md)
 10. Learning rate scheduling techniques 📗 [04-02-10-en.md](4-DL/04-02-10-en.md) 📗 [04-02-10-cz.md](4-DL/04-02-10-cz.md)
-11. Data augmentation strategies
+11. Data augmentation strategies 📗 [04-02-11-en.md](4-DL/04-02-11-en.md) 📗 [04-02-11-cz.md](4-DL/04-02-11-cz.md)
 12. Custom loss functions
 13. Model fine-tuning and adaptation
 14. Distributed training basics
