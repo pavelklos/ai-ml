@@ -237,7 +237,7 @@
 5. Autoencoders and their applications 📗 [04-02-05-en.md](4-DL/04-02-05-en.md) 📗 [04-02-05-cz.md](4-DL/04-02-05-cz.md) 📗 [04-02-05-cz-other.md](4-DL/04-02-05-cz-other.md)
 6. Generative adversarial networks (GANs) basics 📗 [04-02-06-en.md](4-DL/04-02-06-en.md) 📗 [04-02-06-cz.md](4-DL/04-02-06-cz.md)
 7. Introduction to transformers architecture 📗 [04-02-07-en.md](4-DL/04-02-07-en.md) 📗 [04-02-07-cz.md](4-DL/04-02-07-cz.md)
-8. Attention mechanisms
+8. Attention mechanisms 📗 [04-02-08-en.md](4-DL/04-02-08-en.md) 📗 [04-02-08-cz.md](4-DL/04-02-08-cz.md)
 9. Advanced optimization algorithms (Adam, RMSprop)
 10. Learning rate scheduling techniques
 11. Data augmentation strategies
