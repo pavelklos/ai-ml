@@ -199,7 +199,7 @@
 8. High-dimensional data visualization (t-SNE, UMAP) 📗 [03-03-08-en.md](3-DV/03-03-08-en.md) 📗 [03-03-08-cz.md](3-DV/03-03-08-cz.md)
 9. Visualization for complex networks 📗 [03-03-09-en.md](3-DV/03-03-09-en.md) 📗 [03-03-09-cz.md](3-DV/03-03-09-cz.md)
 10. GPU-accelerated visualization 📗 [03-03-10-en.md](3-DV/03-03-10-en.md) 📗 [03-03-10-cz.md](3-DV/03-03-10-cz.md)
-11. Advanced animation techniques
+11. Advanced animation techniques 📗 [03-03-11-en.md](3-DV/03-03-11-en.md) 📗 [03-03-11-cz.md](3-DV/03-03-11-cz.md)
 12. Accessibility in data visualization
 13. AR/VR data visualization
 14. Custom visualization libraries
