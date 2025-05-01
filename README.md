@@ -197,7 +197,7 @@
 6. Advanced geospatial visualization 📗 [03-03-06-en.md](3-DV/03-03-06-en.md) 📗 [03-03-06-cz.md](3-DV/03-03-06-cz.md)
 7. Large dataset visualization strategies 📗 [03-03-07-en.md](3-DV/03-03-07-en.md) 📗 [03-03-07-cz.md](3-DV/03-03-07-cz.md)
 8. High-dimensional data visualization (t-SNE, UMAP) 📗 [03-03-08-en.md](3-DV/03-03-08-en.md) 📗 [03-03-08-cz.md](3-DV/03-03-08-cz.md)
-9. Visualization for complex networks
+9. Visualization for complex networks 📗 [03-03-09-en.md](3-DV/03-03-09-en.md) 📗 [03-03-09-cz.md](3-DV/03-03-09-cz.md)
 10. GPU-accelerated visualization
 11. Advanced animation techniques
 12. Accessibility in data visualization
