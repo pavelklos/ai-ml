@@ -235,7 +235,7 @@
 3. GRU and bidirectional RNNs 📗 [04-02-03-en.md](4-DL/04-02-03-en.md) 📗 [04-02-03-cz.md](4-DL/04-02-03-cz.md) 📗 [04-02-03-cz-other.md](4-DL/04-02-03-cz-other.md)
 4. Word embeddings and language models 📗 [04-02-04-en.md](4-DL/04-02-04-en.md) 📗 [04-02-04-cz.md](4-DL/04-02-04-cz.md) 📗 [04-02-04a-cz-other.md](4-DL/04-02-04a-cz-other.md) 📗 [04-02-04b-cz-other.md](4-DL/04-02-04b-cz-other.md)
 5. Autoencoders and their applications 📗 [04-02-05-en.md](4-DL/04-02-05-en.md) 📗 [04-02-05-cz.md](4-DL/04-02-05-cz.md) 📗 [04-02-05-cz-other.md](4-DL/04-02-05-cz-other.md)
-6. Generative adversarial networks (GANs) basics
+6. Generative adversarial networks (GANs) basics 📗 [04-02-06-en.md](4-DL/04-02-06-en.md) 📗 [04-02-06-cz.md](4-DL/04-02-06-cz.md)
 7. Introduction to transformers architecture
 8. Attention mechanisms
 9. Advanced optimization algorithms (Adam, RMSprop)
