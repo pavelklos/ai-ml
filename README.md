@@ -239,7 +239,7 @@
 7. Introduction to transformers architecture 📗 [04-02-07-en.md](4-DL/04-02-07-en.md) 📗 [04-02-07-cz.md](4-DL/04-02-07-cz.md)
 8. Attention mechanisms 📗 [04-02-08-en.md](4-DL/04-02-08-en.md) 📗 [04-02-08-cz.md](4-DL/04-02-08-cz.md)
 9. Advanced optimization algorithms (Adam, RMSprop) 📗 [04-02-09-en.md](4-DL/04-02-09-en.md) 📗 [04-02-09-cz.md](4-DL/04-02-09-cz.md)
-10. Learning rate scheduling techniques
+10. Learning rate scheduling techniques 📗 [04-02-10-en.md](4-DL/04-02-10-en.md) 📗 [04-02-10-cz.md](4-DL/04-02-10-cz.md)
 11. Data augmentation strategies
 12. Custom loss functions
 13. Model fine-tuning and adaptation
