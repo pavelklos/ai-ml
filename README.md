@@ -244,7 +244,7 @@
 12. Custom loss functions 📗 [04-02-12-en.md](4-DL/04-02-12-en.md) 📗 [04-02-12-cz.md](4-DL/04-02-12-cz.md)
 13. Model fine-tuning and adaptation 📗 [04-02-13-en.md](4-DL/04-02-13-en.md) 📗 [04-02-13-cz.md](4-DL/04-02-13-cz.md)
 14. Distributed training basics 📗 [04-02-14-en.md](4-DL/04-02-14-en.md) 📗 [04-02-14-cz.md](4-DL/04-02-14-cz.md)
-15. Sequence-to-sequence models
+15. Sequence-to-sequence models 📗 [04-02-15-en.md](4-DL/04-02-15-en.md) 📗 [04-02-15-cz.md](4-DL/04-02-15-cz.md)
 
 ### 3. Advanced Deep Learning (15 topics)
 1. Advanced transformer architectures (BERT, GPT, T5)
