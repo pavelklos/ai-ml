@@ -201,7 +201,7 @@
 10. GPU-accelerated visualization 📗 [03-03-10-en.md](3-DV/03-03-10-en.md) 📗 [03-03-10-cz.md](3-DV/03-03-10-cz.md)
 11. Advanced animation techniques 📗 [03-03-11-en.md](3-DV/03-03-11-en.md) 📗 [03-03-11-cz.md](3-DV/03-03-11-cz.md)
 12. Accessibility in data visualization 📗 [03-03-12-en.md](3-DV/03-03-12-en.md) 📗 [03-03-12-cz.md](3-DV/03-03-12-cz.md)
-13. AR/VR data visualization
+13. AR/VR data visualization 📗 [03-03-13-en.md](3-DV/03-03-13-en.md) 📗 [03-03-13-cz.md](3-DV/03-03-13-cz.md)
 14. Custom visualization libraries
 15. Perceptual color theory for data viz
 
