@@ -193,7 +193,7 @@
 2. Advanced Plotly charts and customization 📗 [03-03-02-en.md](3-DV/03-03-02-en.md) 📗 [03-03-02-cz.md](3-DV/03-03-02-cz.md)
 3. Web-based dashboards (Streamlit, Dash) 📗 [03-03-03-en.md](3-DV/03-03-03-en.md) 📗 [03-03-03-cz.md](3-DV/03-03-03-cz.md)
 4. D3.js integration with Python 📗 [03-03-04-en.md](3-DV/03-03-04-en.md) 📗 [03-03-04-cz.md](3-DV/03-03-04-cz.md)
-5. Real-time data visualization
+5. Real-time data visualization 📗 [03-03-05-en.md](3-DV/03-03-05-en.md) 📗 [03-03-05-cz.md](3-DV/03-03-05-cz.md)
 6. Advanced geospatial visualization
 7. Large dataset visualization strategies
 8. High-dimensional data visualization (t-SNE, UMAP)
