@@ -242,7 +242,7 @@
 10. Learning rate scheduling techniques 📗 [04-02-10-en.md](4-DL/04-02-10-en.md) 📗 [04-02-10-cz.md](4-DL/04-02-10-cz.md)
 11. Data augmentation strategies 📗 [04-02-11-en.md](4-DL/04-02-11-en.md) 📗 [04-02-11-cz.md](4-DL/04-02-11-cz.md)
 12. Custom loss functions 📗 [04-02-12-en.md](4-DL/04-02-12-en.md) 📗 [04-02-12-cz.md](4-DL/04-02-12-cz.md)
-13. Model fine-tuning and adaptation
+13. Model fine-tuning and adaptation 📗 [04-02-13-en.md](4-DL/04-02-13-en.md) 📗 [04-02-13-cz.md](4-DL/04-02-13-cz.md)
 14. Distributed training basics
 15. Sequence-to-sequence models
 
