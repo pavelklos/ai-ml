@@ -195,7 +195,7 @@
 4. D3.js integration with Python 📗 [03-03-04-en.md](3-DV/03-03-04-en.md) 📗 [03-03-04-cz.md](3-DV/03-03-04-cz.md)
 5. Real-time data visualization 📗 [03-03-05-en.md](3-DV/03-03-05-en.md) 📗 [03-03-05-cz.md](3-DV/03-03-05-cz.md)
 6. Advanced geospatial visualization 📗 [03-03-06-en.md](3-DV/03-03-06-en.md) 📗 [03-03-06-cz.md](3-DV/03-03-06-cz.md)
-7. Large dataset visualization strategies
+7. Large dataset visualization strategies 📗 [03-03-07-en.md](3-DV/03-03-07-en.md) 📗 [03-03-07-cz.md](3-DV/03-03-07-cz.md)
 8. High-dimensional data visualization (t-SNE, UMAP)
 9. Visualization for complex networks
 10. GPU-accelerated visualization
