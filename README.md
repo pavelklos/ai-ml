@@ -190,7 +190,7 @@
 
 ### 3. Advanced Data Visualization (15 topics)
 1. 3D visualizations with Plotly and matplotlib 📗 [03-03-01-en.md](3-DV/03-03-01-en.md) 📗 [03-03-01-cz.md](3-DV/03-03-01-cz.md)
-2. Advanced Plotly charts and customization
+2. Advanced Plotly charts and customization 📗 [03-03-02-en.md](3-DV/03-03-02-en.md) 📗 [03-03-02-cz.md](3-DV/03-03-02-cz.md)
 3. Web-based dashboards (Streamlit, Dash)
 4. D3.js integration with Python
 5. Real-time data visualization
