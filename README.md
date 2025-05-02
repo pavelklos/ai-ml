@@ -19,7 +19,7 @@
 
 ### 1. Beginner Data Science (20 topics)
 1. Introduction to data science concepts [01-01-01.ipynb](1-DS/01-01-01.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-01.md](1-DS/01-01-01.md) 📗 [01-01-01-en.md](1-DS/01-01-01-en.md) 📗 [01-01-01-cz.md](1-DS/01-01-01-cz.md)
-2. Setting up a data science environment [01-01-02.ipynb](1-DS/01-01-02.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-02.md](1-DS/01-01-02.md)
+2. Setting up a data science environment [01-01-02.ipynb](1-DS/01-01-02.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-02.md](1-DS/01-01-02.md) 📗 [01-01-02-en.md](1-DS/01-01-02-en.md) 📗 [01-01-02-cz.md](1-DS/01-01-02-cz.md)
 3. Introduction to NumPy arrays
    - [01-01-03a.ipynb](1-DS/01-01-03a.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-03a.md](1-DS/01-01-03a.md)
    - [01-01-03b.ipynb](1-DS/01-01-03b.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-03b.md](1-DS/01-01-03b.md)
