@@ -46,7 +46,7 @@
       - Example 2: Interactive Data Exploration ⚠️Could not render content for 'application/vnd.jupyter.widget-view+json'
     - 📗 [01-01-12-en.md](1-DS/01-01-12-en.md) 📗 [01-01-12-cz.md](1-DS/01-01-12-cz.md)
 13. Working with categorical data [01-01-13.ipynb](1-DS/01-01-13.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-13.md](1-DS/01-01-13.md) 📗 [01-01-13-en.md](1-DS/01-01-13-en.md) 📗 [01-01-13-cz.md](1-DS/01-01-13-cz.md)
-14. Simple data transformation [01-01-14.ipynb](1-DS/01-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-14.md](1-DS/01-01-14.md)
+14. Simple data transformation [01-01-14.ipynb](1-DS/01-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-14.md](1-DS/01-01-14.md) 📗 [01-01-14-en.md](1-DS/01-01-14-en.md) 📗 [01-01-14-cz.md](1-DS/01-01-14-cz.md)
 15. Understanding data distributions [01-01-15.ipynb](1-DS/01-01-15.ipynb) ✅NICE GRAPHS <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-15.md](1-DS/01-01-15.md)
 16. Introduction to probability concepts [01-01-16.ipynb](1-DS/01-01-16.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-16.md](1-DS/01-01-16.md)
 17. Data types and conversions [01-01-17.ipynb](1-DS/01-01-17.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-17.md](1-DS/01-01-17.md), [01-01-17-short.md](1-DS/01-01-17-short.md), [01-01-17-cz.ipynb](1-DS/01-01-17-cz.ipynb) ✅NICE EXPLANATION
