@@ -38,7 +38,7 @@
 7. Descriptive statistics [01-01-07.ipynb](1-DS/01-01-07.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-07.md](1-DS/01-01-07.md) 📗 [01-01-07-en.md](1-DS/01-01-07-en.md) 📗 [01-01-07-cz.md](1-DS/01-01-07-cz.md)
 8. Data filtering and selection [01-01-08.ipynb](1-DS/01-01-08.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-08.md](1-DS/01-01-08.md) 📗 [01-01-08-en.md](1-DS/01-01-08-en.md) 📗 [01-01-08-cz.md](1-DS/01-01-08-cz.md)
 9. Handling missing values [01-01-09.ipynb](1-DS/01-01-09.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-09.md](1-DS/01-01-09.md) 📗 [01-01-09-en.md](1-DS/01-01-09-en.md) 📗 [01-01-09-cz.md](1-DS/01-01-09-cz.md)
-10. Data aggregation and grouping [01-01-10.ipynb](1-DS/01-01-10.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-10.md](1-DS/01-01-10.md)
+10. Data aggregation and grouping [01-01-10.ipynb](1-DS/01-01-10.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-10.md](1-DS/01-01-10.md) 📗 [01-01-10-en.md](1-DS/01-01-10-en.md) 📗 [01-01-10-cz.md](1-DS/01-01-10-cz.md)
 11. Basic visualization with matplotlib [01-01-11.ipynb](1-DS/01-01-11.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-11.md](1-DS/01-01-11.md) + data (8 files)
 12. Introduction to Jupyter notebooks
     - [01-01-12a.ipynb](1-DS/01-01-12a.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-12a.md](1-DS/01-01-12a.md)
