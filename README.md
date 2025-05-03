@@ -169,7 +169,7 @@
 15. Adding annotations to plots [03-01-15.ipynb](3-DV/03-01-15.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-15.md](3-DV/03-01-15.md) 📗 [03-01-15-en.md](3-DV/03-01-15-en.md) 📗 [03-01-15-cz.md](3-DV/03-01-15-cz.md)
 16. Figure size and resolution [03-01-16.ipynb](3-DV/03-01-16.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-16.md](3-DV/03-01-16.md) + data (22 files) 📗 [03-01-16-en.md](3-DV/03-01-16-en.md) 📗 [03-01-16-cz.md](3-DV/03-01-16-cz.md)
 17. Introduction to visualization ethics [03-01-17.ipynb](3-DV/03-01-17.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-17.md](3-DV/03-01-17.md) 📗 [03-01-17-en.md](3-DV/03-01-17-en.md) 📗 [03-01-17-cz.md](3-DV/03-01-17-cz.md)
-18. Basic boxplots and violin plots [03-01-18.ipynb](3-DV/03-01-18.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-18.md](3-DV/03-01-18.md)
+18. Basic boxplots and violin plots [03-01-18.ipynb](3-DV/03-01-18.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-18.md](3-DV/03-01-18.md) 📗 [03-01-18-en.md](3-DV/03-01-18-en.md) 📗 [03-01-18-cz.md](3-DV/03-01-18-cz.md)
 19. Creating simple dashboards [03-01-19.ipynb](3-DV/03-01-19.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-19.md](3-DV/03-01-19.md) ⚠️(TRY DASHBOARDS) ✅ipywidgets
 20. Designing effective visualizations for your audience [03-01-20.ipynb](3-DV/03-01-20.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-20.md](3-DV/03-01-20.md)
 ---
