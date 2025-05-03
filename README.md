@@ -99,7 +99,7 @@
 6. Introduction to scikit-learn [02-01-06.ipynb](2-ML/02-01-06.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-06.md](2-ML/02-01-06.md) 📗 [02-01-06-en.md](2-ML/02-01-06-en.md) 📗 [02-01-06-cz.md](2-ML/02-01-06-cz.md)
 7. K-nearest neighbors algorithm [02-01-07.ipynb](2-ML/02-01-07.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-07.md](2-ML/02-01-07.md) 📗 [02-01-07-en.md](2-ML/02-01-07-en.md) 📗 [02-01-07-cz.md](2-ML/02-01-07-cz.md)
 8. Decision trees introduction [02-01-08.ipynb](2-ML/02-01-08.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-08.md](2-ML/02-01-08.md) 📗 [02-01-08-en.md](2-ML/02-01-08-en.md) 📗 [02-01-08-cz.md](2-ML/02-01-08-cz.md)
-9. Simple logistic regression [02-01-09.ipynb](2-ML/02-01-09.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-09.md](2-ML/02-01-09.md)
+9. Simple logistic regression [02-01-09.ipynb](2-ML/02-01-09.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-09.md](2-ML/02-01-09.md) 📗 [02-01-09-en.md](2-ML/02-01-09-en.md) 📗 [02-01-09-cz.md](2-ML/02-01-09-cz.md)
 10. Model evaluation basics (accuracy, confusion matrix) [02-01-10.ipynb](2-ML/02-01-10.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-10.md](2-ML/02-01-10.md)
 11. Overfitting and underfitting [02-01-11.ipynb](2-ML/02-01-11.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-11.md](2-ML/02-01-11.md)
 12. Feature scaling and normalization [02-01-12.ipynb](2-ML/02-01-12.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-12.md](2-ML/02-01-12.md) ⚠️(RUN ON MAC: 2x cells)
