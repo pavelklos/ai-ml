@@ -112,7 +112,7 @@
 18. Saving and loading models [02-01-18.ipynb](2-ML/02-01-18.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-18.md](2-ML/02-01-18.md) + data (8 files) 📗 [02-01-18-en.md](2-ML/02-01-18-en.md) 📗 [02-01-18-cz.md](2-ML/02-01-18-cz.md)
     - pip install skl2onnx onnxruntime ⚠️(RESOLVE ONNX)
     - pip install tensorflow ⚠️(RESOLVE TENSORFLOW)
-19. Simple end-to-end ML projects [02-01-19.ipynb](2-ML/02-01-19.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-19.md](2-ML/02-01-19.md) ⚠️(RUN ON MAC: 5x cells)
+19. Simple end-to-end ML projects [02-01-19.ipynb](2-ML/02-01-19.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-19.md](2-ML/02-01-19.md) ⚠️(RUN ON MAC: 5x cells) 📗 [02-01-19-en.md](2-ML/02-01-19-en.md) 📗 [02-01-19-cz.md](2-ML/02-01-19-cz.md)
 20. Ethical considerations in ML [02-01-20.ipynb](2-ML/02-01-20.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-20.md](2-ML/02-01-20.md) + data (1 file)
 
 ### 2. Intermediate Machine Learning (15 topics)
