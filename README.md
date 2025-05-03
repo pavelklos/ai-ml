@@ -107,7 +107,7 @@
 14. Basic clustering with K-means [02-01-14.ipynb](2-ML/02-01-14.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-14.md](2-ML/02-01-14.md) 📗 [02-01-14-en.md](2-ML/02-01-14-en.md) 📗 [02-01-14-cz.md](2-ML/02-01-14-cz.md)
 15. Bias-variance tradeoff [02-01-15.ipynb](2-ML/02-01-15.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-15.md](2-ML/02-01-15.md) 📗 [02-01-15-en.md](2-ML/02-01-15-en.md) 📗 [02-01-15-cz.md](2-ML/02-01-15-cz.md)
 16. Basic feature selection [02-01-16.ipynb](2-ML/02-01-16.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-16.md](2-ML/02-01-16.md) 📗 [02-01-16-en.md](2-ML/02-01-16-en.md) 📗 [02-01-16-cz.md](2-ML/02-01-16-cz.md)
-17. Introduction to neural networks [02-01-17.ipynb](2-ML/02-01-17.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-17.md](2-ML/02-01-17.md)
+17. Introduction to neural networks [02-01-17.ipynb](2-ML/02-01-17.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-17.md](2-ML/02-01-17.md) 📗 [02-01-17-en.md](2-ML/02-01-17-en.md) 📗 [02-01-17-cz.md](2-ML/02-01-17-cz.md)
     - pip install tensorflow ⚠️(RESOLVE TENSORFLOW)
 18. Saving and loading models [02-01-18.ipynb](2-ML/02-01-18.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-18.md](2-ML/02-01-18.md) + data (8 files)
     - pip install skl2onnx onnxruntime ⚠️(RESOLVE ONNX)
