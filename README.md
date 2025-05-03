@@ -94,7 +94,7 @@
 1. Introduction to machine learning concepts [02-01-01.ipynb](2-ML/02-01-01.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-01.md](2-ML/02-01-01.md) 📗 [02-01-01-en.md](2-ML/02-01-01-en.md) 📗 [02-01-01-cz.md](2-ML/02-01-01-cz.md)
 2. Supervised vs unsupervised learning [02-01-02.ipynb](2-ML/02-01-02.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-02.md](2-ML/02-01-02.md) 📗 [02-01-02-en.md](2-ML/02-01-02-en.md) 📗 [02-01-02-cz.md](2-ML/02-01-02-cz.md)
 3. Training and test data splits [02-01-03.ipynb](2-ML/02-01-03.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-03.md](2-ML/02-01-03.md) 📗 [02-01-03-en.md](2-ML/02-01-03-en.md) 📗 [02-01-03-cz.md](2-ML/02-01-03-cz.md)
-4. Linear regression fundamentals [02-01-04.ipynb](2-ML/02-01-04.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-04.md](2-ML/02-01-04.md)
+4. Linear regression fundamentals [02-01-04.ipynb](2-ML/02-01-04.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-04.md](2-ML/02-01-04.md) 📗 [02-01-04-en.md](2-ML/02-01-04-en.md) 📗 [02-01-04-cz.md](2-ML/02-01-04-cz.md)
 5. Classification basics [02-01-05.ipynb](2-ML/02-01-05.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-05.md](2-ML/02-01-05.md)
 6. Introduction to scikit-learn [02-01-06.ipynb](2-ML/02-01-06.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-06.md](2-ML/02-01-06.md)
 7. K-nearest neighbors algorithm [02-01-07.ipynb](2-ML/02-01-07.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-07.md](2-ML/02-01-07.md)
