@@ -171,7 +171,7 @@
 17. Introduction to visualization ethics [03-01-17.ipynb](3-DV/03-01-17.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-17.md](3-DV/03-01-17.md) 📗 [03-01-17-en.md](3-DV/03-01-17-en.md) 📗 [03-01-17-cz.md](3-DV/03-01-17-cz.md)
 18. Basic boxplots and violin plots [03-01-18.ipynb](3-DV/03-01-18.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-18.md](3-DV/03-01-18.md) 📗 [03-01-18-en.md](3-DV/03-01-18-en.md) 📗 [03-01-18-cz.md](3-DV/03-01-18-cz.md)
 19. Creating simple dashboards [03-01-19.ipynb](3-DV/03-01-19.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-19.md](3-DV/03-01-19.md) ⚠️(TRY DASHBOARDS) ✅ipywidgets 📗 [03-01-19-en.md](3-DV/03-01-19-en.md) 📗 [03-01-19-cz.md](3-DV/03-01-19-cz.md)
-20. Designing effective visualizations for your audience [03-01-20.ipynb](3-DV/03-01-20.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-20.md](3-DV/03-01-20.md)
+20. Designing effective visualizations for your audience [03-01-20.ipynb](3-DV/03-01-20.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-20.md](3-DV/03-01-20.md) 📗 [03-01-20-en.md](3-DV/03-01-20-en.md) 📗 [03-01-20-cz.md](3-DV/03-01-20-cz.md)
 ---
 21. Python Data Visualization Guide (plots) [03-01-21.ipynb](3-DV/03-01-21.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-21.md](3-DV/03-01-21.md) ✅PLOTS
 
