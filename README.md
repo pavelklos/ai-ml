@@ -259,7 +259,7 @@
 6. Self-supervised learning techniques 📗 [04-03-06-en.md](4-DL/04-03-06-en.md) 📗 [04-03-06-cz.md](4-DL/04-03-06-cz.md)
 7. Neural architecture search 📗 [04-03-07-en.md](4-DL/04-03-07-en.md) 📗 [04-03-07-cz.md](4-DL/04-03-07-cz.md)
 8. Quantization and model compression 📗 [04-03-08-en.md](4-DL/04-03-08-en.md) 📗 [04-03-08-cz.md](4-DL/04-03-08-cz.md)
-9. Adversarial attacks and defenses
+9. Adversarial attacks and defenses 📗 [04-03-09-en.md](4-DL/04-03-09-en.md) 📗 [04-03-09-cz.md](4-DL/04-03-09-cz.md)
 10. Explainable AI for deep learning
 11. Multi-modal deep learning
 12. Deep learning for time series forecasting
