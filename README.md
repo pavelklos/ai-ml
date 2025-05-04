@@ -265,7 +265,7 @@
 12. Deep learning for time series forecasting 📗 [04-03-12-en.md](4-DL/04-03-12-en.md) 📗 [04-03-12-cz.md](4-DL/04-03-12-cz.md)
 13. Deep reinforcement learning algorithms (PPO, SAC) 📗 [04-03-13-en.md](4-DL/04-03-13-en.md) 📗 [04-03-13-cz.md](4-DL/04-03-13-cz.md)
 14. Neuro-symbolic AI and integration with knowledge graphs 📗 [04-03-14-en.md](4-DL/04-03-14-en.md) 📗 [04-03-14-cz.md](4-DL/04-03-14-cz.md)
-15. Advanced deployment techniques for deep learning models
+15. Advanced deployment techniques for deep learning models 📗 [04-03-15-en.md](4-DL/04-03-15-en.md) 📗 [04-03-15-cz.md](4-DL/04-03-15-cz.md)
 
 ## 5. Python Programming (PY)
 
