@@ -256,7 +256,7 @@
 3. Reinforcement learning with deep neural networks 📗 [04-03-03-en.md](4-DL/04-03-03-en.md) 📗 [04-03-03-cz.md](4-DL/04-03-03-cz.md)
 4. Graph neural networks 📗 [04-03-04-en.md](4-DL/04-03-04-en.md) 📗 [04-03-04-cz.md](4-DL/04-03-04-cz.md)
 5. Zero-shot and few-shot learning 📗 [04-03-05-en.md](4-DL/04-03-05-en.md) 📗 [04-03-05-cz.md](4-DL/04-03-05-cz.md)
-6. Self-supervised learning techniques
+6. Self-supervised learning techniques 📗 [04-03-06-en.md](4-DL/04-03-06-en.md) 📗 [04-03-06-cz.md](4-DL/04-03-06-cz.md)
 7. Neural architecture search
 8. Quantization and model compression
 9. Adversarial attacks and defenses
