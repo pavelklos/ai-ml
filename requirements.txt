@@ -39,3 +39,8 @@ click
 pytest-shutil
 cookiecutter
 pytest
+cython
+tensorflow
+torch
+torchvision
+torchaudio
