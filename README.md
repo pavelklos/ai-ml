@@ -251,7 +251,7 @@
 15. Sequence-to-sequence models 📗 [04-02-15-en.md](4-DL/04-02-15-en.md) 📗 [04-02-15-cz.md](4-DL/04-02-15-cz.md)
 
 ### 3. Advanced Deep Learning (15 topics)
-1. Advanced transformer architectures (BERT, GPT, T5)
+1. Advanced transformer architectures (BERT, GPT, T5) 📗 [04-03-01-en.md](4-DL/04-03-01-en.md) 📗 [04-03-01-cz.md](4-DL/04-03-01-cz.md)
 2. Diffusion models and stable diffusion
 3. Reinforcement learning with deep neural networks
 4. Graph neural networks
