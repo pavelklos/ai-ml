@@ -18,7 +18,6 @@ colorspacious
 category_encoders
 matplotlib-venn
 googletrans
-pandas-profiling[notebook]
 ydata-profiling[notebook]
 sweetviz
 dtale
