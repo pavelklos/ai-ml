@@ -263,7 +263,7 @@
 10. Explainable AI for deep learning 📗 [04-03-10-en.md](4-DL/04-03-10-en.md) 📗 [04-03-10-cz.md](4-DL/04-03-10-cz.md)
 11. Multi-modal deep learning 📗 [04-03-11-en.md](4-DL/04-03-11-en.md) 📗 [04-03-11-cz.md](4-DL/04-03-11-cz.md)
 12. Deep learning for time series forecasting 📗 [04-03-12-en.md](4-DL/04-03-12-en.md) 📗 [04-03-12-cz.md](4-DL/04-03-12-cz.md)
-13. Deep reinforcement learning algorithms (PPO, SAC)
+13. Deep reinforcement learning algorithms (PPO, SAC) 📗 [04-03-13-en.md](4-DL/04-03-13-en.md) 📗 [04-03-13-cz.md](4-DL/04-03-13-cz.md)
 14. Neuro-symbolic AI and integration with knowledge graphs
 15. Advanced deployment techniques for deep learning models
 
