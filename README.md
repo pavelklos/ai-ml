@@ -275,7 +275,7 @@
 3. Strings and string manipulation [05-01-03.ipynb](5-PY/05-01-03.ipynb) 📗 [05-01-03-en.md](5-PY/05-01-03-en.md) 📗 [05-01-03-cz.md](5-PY/05-01-03-cz.md)
 4. Control flow (if, elif, else statements) [05-01-04.ipynb](5-PY/05-01-04.ipynb) 📗 [05-01-04-en.md](5-PY/05-01-04-en.md) 📗 [05-01-04-cz.md](5-PY/05-01-04-cz.md)
 5. Loops (for and while) [05-01-05.ipynb](5-PY/05-01-05.ipynb) + data (1 file) 📗 [05-01-05-en.md](5-PY/05-01-05-en.md) 📗 [05-01-05-cz.md](5-PY/05-01-05-cz.md)
-6. Lists and list operations [05-01-06.ipynb](5-PY/05-01-06.ipynb)
+6. Lists and list operations [05-01-06.ipynb](5-PY/05-01-06.ipynb) 📗 [05-01-06-en.md](5-PY/05-01-06-en.md) 📗 [05-01-06-cz.md](5-PY/05-01-06-cz.md)
 7. Dictionaries and sets [05-01-07.ipynb](5-PY/05-01-07.ipynb)
 8. Tuples and their uses [05-01-08.ipynb](5-PY/05-01-08.ipynb)
 9. Functions and parameters [05-01-09.ipynb](5-PY/05-01-09.ipynb)
