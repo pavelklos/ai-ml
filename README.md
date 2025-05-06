@@ -286,7 +286,7 @@
 14. Using pip and package management [05-01-14.ipynb](5-PY/05-01-14.ipynb) + data (4 files) 📗 [05-01-14-en.md](5-PY/05-01-14-en.md) 📗 [05-01-14-cz.md](5-PY/05-01-14-cz.md)
 15. Virtual environments setup [05-01-15.ipynb](5-PY/05-01-15.ipynb) + data (2 files) 📗 [05-01-15-en.md](5-PY/05-01-15-en.md) 📗 [05-01-15-cz.md](5-PY/05-01-15-cz.md)
 16. Working with dates and times [05-01-16.ipynb](5-PY/05-01-16.ipynb) 📗 [05-01-16-en.md](5-PY/05-01-16-en.md) 📗 [05-01-16-cz.md](5-PY/05-01-16-cz.md)
-17. Basic debugging techniques [05-01-17.ipynb](5-PY/05-01-17.ipynb)
+17. Basic debugging techniques [05-01-17.ipynb](5-PY/05-01-17.ipynb) 📗 [05-01-17-en.md](5-PY/05-01-17-en.md) 📗 [05-01-17-cz.md](5-PY/05-01-17-cz.md)
 18. Python coding style (PEP 8) [05-01-18.ipynb](5-PY/05-01-18.ipynb) + data (1 file)
 19. Command line arguments and input [05-01-19.ipynb](5-PY/05-01-19.ipynb)
 20. Simple project organization [05-01-20.ipynb](5-PY/05-01-20.ipynb)
