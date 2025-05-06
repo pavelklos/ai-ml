@@ -272,7 +272,7 @@
 ### 1. Beginner Python (20 topics)
 1. Installing Python and setting up the environment [05-01-01.ipynb](5-PY/05-01-01.ipynb) 📗 [05-01-01-en.md](5-PY/05-01-01-en.md) 📗 [05-01-01-cz.md](5-PY/05-01-01-cz.md)
 2. Variables, data types, and basic operations [05-01-02.ipynb](5-PY/05-01-02.ipynb) 📗 [05-01-02-en.md](5-PY/05-01-02-en.md) 📗 [05-01-02-cz.md](5-PY/05-01-02-cz.md)
-3. Strings and string manipulation [05-01-03.ipynb](5-PY/05-01-03.ipynb)
+3. Strings and string manipulation [05-01-03.ipynb](5-PY/05-01-03.ipynb) 📗 [05-01-03-en.md](5-PY/05-01-03-en.md) 📗 [05-01-03-cz.md](5-PY/05-01-03-cz.md)
 4. Control flow (if, elif, else statements) [05-01-04.ipynb](5-PY/05-01-04.ipynb)
 5. Loops (for and while) [05-01-05.ipynb](5-PY/05-01-05.ipynb) + data (1 file)
 6. Lists and list operations [05-01-06.ipynb](5-PY/05-01-06.ipynb)
