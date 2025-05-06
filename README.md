@@ -289,7 +289,7 @@
 17. Basic debugging techniques [05-01-17.ipynb](5-PY/05-01-17.ipynb) 📗 [05-01-17-en.md](5-PY/05-01-17-en.md) 📗 [05-01-17-cz.md](5-PY/05-01-17-cz.md)
 18. Python coding style (PEP 8) [05-01-18.ipynb](5-PY/05-01-18.ipynb) + data (1 file) 📗 [05-01-18-en.md](5-PY/05-01-18-en.md) 📗 [05-01-18-cz.md](5-PY/05-01-18-cz.md)
 19. Command line arguments and input [05-01-19.ipynb](5-PY/05-01-19.ipynb) 📗 [05-01-19-en.md](5-PY/05-01-19-en.md) 📗 [05-01-19-cz.md](5-PY/05-01-19-cz.md)
-20. Simple project organization [05-01-20.ipynb](5-PY/05-01-20.ipynb)
+20. Simple project organization [05-01-20.ipynb](5-PY/05-01-20.ipynb) 📗 [05-01-20-en.md](5-PY/05-01-20-en.md) 📗 [05-01-20-cz.md](5-PY/05-01-20-cz.md)
 
 ### 2. Intermediate Python (15 topics)
 1. List comprehensions and generator expressions ⚠️(1x temp)
