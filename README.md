@@ -300,7 +300,7 @@
 6. Lambda functions and functional programming basics [05-02-06.ipynb](5-PY/05-02-06.ipynb)
 7. Object-oriented programming (inheritance, polymorphism) [05-02-07.ipynb](5-PY/05-02-07.ipynb)
 8. Working with `*args` and `**kwargs` [05-02-08.ipynb](5-PY/05-02-08.ipynb)
-9. Modules and packages management ⚠️(1x temp)
+9. Modules and packages management [05-02-09.ipynb](5-PY/05-02-09.ipynb)
 10. Iterators and generators ⚠️(1x temp)
 11. File handling (CSV, JSON, Pickle) ⚠️(1x temp)
 12. Working with collections module (defaultdict, Counter, namedtuple) ⚠️(1x temp)
