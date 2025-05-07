@@ -302,7 +302,7 @@
 8. Working with `*args` and `**kwargs` [05-02-08.ipynb](5-PY/05-02-08.ipynb) 📗 [05-02-08-en.md](5-PY/05-02-08-en.md) 📗 [05-02-08-cz.md](5-PY/05-02-08-cz.md)
 9. Modules and packages management [05-02-09.ipynb](5-PY/05-02-09.ipynb) 📗 [05-02-09-en.md](5-PY/05-02-09-en.md) 📗 [05-02-09-cz.md](5-PY/05-02-09-cz.md)
 10. Iterators and generators [05-02-10.ipynb](5-PY/05-02-10.ipynb) 📗 [05-02-10-en.md](5-PY/05-02-10-en.md) 📗 [05-02-10-cz.md](5-PY/05-02-10-cz.md)
-11. File handling (CSV, JSON, Pickle) [05-02-11.ipynb](5-PY/05-02-11.ipynb)
+11. File handling (CSV, JSON, Pickle) [05-02-11.ipynb](5-PY/05-02-11.ipynb) 📗 [05-02-11-en.md](5-PY/05-02-11-en.md) 📗 [05-02-11-cz.md](5-PY/05-02-11-cz.md)
 12. Working with collections module (defaultdict, Counter, namedtuple) [05-02-12.ipynb](5-PY/05-02-12.ipynb)
 13. Unit testing with unittest and pytest [05-02-13a.ipynb](5-PY/05-02-13a.ipynb), [05-02-13b.ipynb](5-PY/05-02-13b.ipynb) 📗 [05-02-13-claude.md](5-PY/05-02-13-claude.md)
 14. Logging and debugging techniques [05-02-14.ipynb](5-PY/05-02-14.ipynb) 📗 [05-02-14-claude.md](5-PY/05-02-14-claude.md)
