@@ -310,7 +310,7 @@
 
 ### 3. Advanced Python (15 topics)
 1. Metaclasses and dynamic class creation 📗 [05-03-01-claude.md](5-PY/05-03-01-claude.md)
-2. Concurrency with threading and multiprocessing ⚠️(1x CLAUDE)
+2. Concurrency with threading and multiprocessing 📗 [05-03-02-claude.md](5-PY/05-03-02-claude.md)
 3. Asynchronous programming with asyncio ⚠️(1x CLAUDE)
 4. Memory management and optimization
 5. Design patterns in Python
