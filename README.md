@@ -305,7 +305,7 @@
 11. File handling (CSV, JSON, Pickle) [05-02-11.ipynb](5-PY/05-02-11.ipynb)
 12. Working with collections module (defaultdict, Counter, namedtuple) [05-02-12.ipynb](5-PY/05-02-12.ipynb)
 13. Unit testing with unittest and pytest [05-02-13a.ipynb](5-PY/05-02-13a.ipynb), [05-02-13b.ipynb](5-PY/05-02-13b.ipynb) 📗 [05-02-13-claude.md](5-PY/05-02-13-claude.md)
-14. Logging and debugging techniques ⚠️(1x temp) + ⚠️(1x CLAUDE)
+14. Logging and debugging techniques [05-02-14.ipynb](5-PY/05-02-14.ipynb) 📗 [05-02-14-claude.md](5-PY/05-02-14-claude.md)
 15. Closures and scopes ⚠️(1x temp) + ⚠️(1x CLAUDE)
 
 ### 3. Advanced Python (15 topics)
