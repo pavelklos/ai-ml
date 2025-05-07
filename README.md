@@ -301,7 +301,7 @@
 7. Object-oriented programming (inheritance, polymorphism) [05-02-07.ipynb](5-PY/05-02-07.ipynb)
 8. Working with `*args` and `**kwargs` [05-02-08.ipynb](5-PY/05-02-08.ipynb)
 9. Modules and packages management [05-02-09.ipynb](5-PY/05-02-09.ipynb)
-10. Iterators and generators ⚠️(1x temp)
+10. Iterators and generators [05-02-109.ipynb](5-PY/05-02-10.ipynb)
 11. File handling (CSV, JSON, Pickle) ⚠️(1x temp)
 12. Working with collections module (defaultdict, Counter, namedtuple) ⚠️(1x temp)
 13. Unit testing with unittest and pytest ⚠️(2x temp) + ⚠️(1x CLAUDE)
