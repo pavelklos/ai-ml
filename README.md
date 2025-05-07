@@ -309,7 +309,7 @@
 15. Closures and scopes [05-02-15.ipynb](5-PY/05-02-15.ipynb) 📗 [05-02-15-claude.md](5-PY/05-02-15-claude.md)
 
 ### 3. Advanced Python (15 topics)
-1. Metaclasses and dynamic class creation ⚠️(1x CLAUDE)
+1. Metaclasses and dynamic class creation 📗 [05-03-01-claude.md](5-PY/05-03-01-claude.md)
 2. Concurrency with threading and multiprocessing ⚠️(1x CLAUDE)
 3. Asynchronous programming with asyncio ⚠️(1x CLAUDE)
 4. Memory management and optimization
