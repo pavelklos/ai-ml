@@ -306,7 +306,7 @@
 12. Working with collections module (defaultdict, Counter, namedtuple) [05-02-12.ipynb](5-PY/05-02-12.ipynb) 📗 [05-02-12-en.md](5-PY/05-02-12-en.md) 📗 [05-02-12-cz.md](5-PY/05-02-12-cz.md)
 13. Unit testing with unittest and pytest [05-02-13a.ipynb](5-PY/05-02-13a.ipynb), [05-02-13b.ipynb](5-PY/05-02-13b.ipynb) 📗 [05-02-13-claude.md](5-PY/05-02-13-claude.md) 📗 [05-02-13-en.md](5-PY/05-02-13-en.md) 📗 [05-02-13-cz.md](5-PY/05-02-13-cz.md)
 14. Logging and debugging techniques [05-02-14.ipynb](5-PY/05-02-14.ipynb) 📗 [05-02-14-claude.md](5-PY/05-02-14-claude.md) 📗 [05-02-14-en.md](5-PY/05-02-14-en.md) 📗 [05-02-14-cz.md](5-PY/05-02-14-cz.md)
-15. Closures and scopes [05-02-15.ipynb](5-PY/05-02-15.ipynb) 📗 [05-02-15-claude.md](5-PY/05-02-15-claude.md)
+15. Closures and scopes [05-02-15.ipynb](5-PY/05-02-15.ipynb) 📗 [05-02-15-claude.md](5-PY/05-02-15-claude.md) 📗 [05-02-15-en.md](5-PY/05-02-15-en.md) 📗 [05-02-15-cz.md](5-PY/05-02-15-cz.md)
 
 ### 3. Advanced Python (15 topics)
 1. Metaclasses and dynamic class creation 📗 [05-03-01-claude.md](5-PY/05-03-01-claude.md)
