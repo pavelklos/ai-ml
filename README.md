@@ -303,7 +303,7 @@
 9. Modules and packages management [05-02-09.ipynb](5-PY/05-02-09.ipynb)
 10. Iterators and generators [05-02-10.ipynb](5-PY/05-02-10.ipynb)
 11. File handling (CSV, JSON, Pickle) [05-02-11.ipynb](5-PY/05-02-11.ipynb)
-12. Working with collections module (defaultdict, Counter, namedtuple) ⚠️(1x temp)
+12. Working with collections module (defaultdict, Counter, namedtuple) [05-02-12.ipynb](5-PY/05-02-12.ipynb)
 13. Unit testing with unittest and pytest ⚠️(2x temp) + ⚠️(1x CLAUDE)
 14. Logging and debugging techniques ⚠️(1x temp) + ⚠️(1x CLAUDE)
 15. Closures and scopes ⚠️(1x temp) + ⚠️(1x CLAUDE)
