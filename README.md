@@ -297,7 +297,7 @@
 3. Context managers and the `with` statement [05-02-03.ipynb](5-PY/05-02-03.ipynb)
 4. Advanced exception handling and custom exceptions [05-02-04.ipynb](5-PY/05-02-04.ipynb)
 5. Regular expressions with the `re` module [05-02-05a.ipynb](5-PY/05-02-05a.ipynb), [05-02-05b.ipynb](5-PY/05-02-05b.ipynb) ADVANCED [05-02-05c.ipynb](5-PY/05-02-05c.ipynb)
-6. Lambda functions and functional programming basics ⚠️(1x temp)
+6. Lambda functions and functional programming basics [05-02-06.ipynb](5-PY/05-02-06.ipynb)
 7. Object-oriented programming (inheritance, polymorphism) ⚠️(1x temp)
 8. Working with `*args` and `**kwargs` ⚠️(1x temp)
 9. Modules and packages management ⚠️(1x temp)
