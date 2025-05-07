@@ -294,7 +294,7 @@
 ### 2. Intermediate Python (15 topics)
 1. List comprehensions and generator expressions [05-02-01.ipynb](5-PY/05-02-01.ipynb) 📗 [05-02-01-en.md](5-PY/05-02-01-en.md) 📗 [05-02-01-cz.md](5-PY/05-02-01-cz.md)
 2. Decorators and function wrappers [05-02-02.ipynb](5-PY/05-02-02.ipynb) 📗 [05-02-02-en.md](5-PY/05-02-02-en.md) 📗 [05-02-02-cz.md](5-PY/05-02-02-cz.md)
-3. Context managers and the `with` statement [05-02-03.ipynb](5-PY/05-02-03.ipynb)
+3. Context managers and the `with` statement [05-02-03.ipynb](5-PY/05-02-03.ipynb) 📗 [05-02-03-en.md](5-PY/05-02-03-en.md) 📗 [05-02-03-cz.md](5-PY/05-02-03-cz.md)
 4. Advanced exception handling and custom exceptions [05-02-04.ipynb](5-PY/05-02-04.ipynb)
 5. Regular expressions with the `re` module [05-02-05a.ipynb](5-PY/05-02-05a.ipynb), [05-02-05b.ipynb](5-PY/05-02-05b.ipynb) ADVANCED [05-02-05c.ipynb](5-PY/05-02-05c.ipynb)
 6. Lambda functions and functional programming basics [05-02-06.ipynb](5-PY/05-02-06.ipynb)
