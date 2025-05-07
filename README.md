@@ -299,7 +299,7 @@
 5. Regular expressions with the `re` module [05-02-05a.ipynb](5-PY/05-02-05a.ipynb), [05-02-05b.ipynb](5-PY/05-02-05b.ipynb) ADVANCED [05-02-05c.ipynb](5-PY/05-02-05c.ipynb)
 6. Lambda functions and functional programming basics [05-02-06.ipynb](5-PY/05-02-06.ipynb)
 7. Object-oriented programming (inheritance, polymorphism) [05-02-07.ipynb](5-PY/05-02-07.ipynb)
-8. Working with `*args` and `**kwargs` ⚠️(1x temp)
+8. Working with `*args` and `**kwargs` [05-02-08.ipynb](5-PY/05-02-08.ipynb)
 9. Modules and packages management ⚠️(1x temp)
 10. Iterators and generators ⚠️(1x temp)
 11. File handling (CSV, JSON, Pickle) ⚠️(1x temp)
