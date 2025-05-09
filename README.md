@@ -316,7 +316,7 @@
 5. Design patterns in Python 📗 [05-03-05-en.md](5-PY/05-03-05-en.md) 📗 [05-03-05-cz.md](5-PY/05-03-05-cz.md)
 6. Type hinting and static type checking 📗 [05-03-06-en.md](5-PY/05-03-06-en.md) 📗 [05-03-06-cz.md](5-PY/05-03-06-cz.md)
 7. Metaprogramming techniques 📗 [05-03-07-en.md](5-PY/05-03-07-en.md) 📗 [05-03-07-cz.md](5-PY/05-03-07-cz.md)
-8. Python's internals (sys, inspect, dis)
+8. Python's internals (sys, inspect, dis) 📗 [05-03-08-en.md](5-PY/05-03-08-en.md) 📗 [05-03-08-cz.md](5-PY/05-03-08-cz.md)
 9. Descriptors and property decorators
 10. Advanced decorators (parameterized, class-based)
 11. Python C extensions and FFI
