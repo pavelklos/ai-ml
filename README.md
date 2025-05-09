@@ -337,7 +337,7 @@
   - SGD Classifier <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.01-Classification-SGD-Classifier.ipynb](9-SCIKIT-LEARN/01.01-Classification-SGD-Classifier.ipynb)
   - Kernel Approximation <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.02-Classification-Kernel-Approximation.ipynb](9-SCIKIT-LEARN/01.02-Classification-Kernel-Approximation.ipynb)
   - Linear SVC <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.03-Classification-Linear-SVC.ipynb](9-SCIKIT-LEARN/01.03-Classification-Linear-SVC.ipynb)
-  - KNeighbors Classifier
+  - KNeighbors Classifier <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.04-Classification-KNeighbors-Classifier.ipynb](9-SCIKIT-LEARN/01.04-Classification-KNeighbors-Classifier.ipynb)
   - Ensemble Classifiers
   - SVC
   - Naive Bayes
