@@ -313,7 +313,7 @@
 2. Concurrency with threading and multiprocessing 📗 [05-03-02-claude.md](5-PY/05-03-02-claude.md) 📗 [05-03-02-en.md](5-PY/05-03-02-en.md) 📗 [05-03-02-cz.md](5-PY/05-03-02-cz.md)
 3. Asynchronous programming with asyncio 📗 [05-03-03-claude.md](5-PY/05-03-03-claude.md) 📗 [05-03-03-en.md](5-PY/05-03-03-en.md) 📗 [05-03-03-cz.md](5-PY/05-03-03-cz.md)
 4. Memory management and optimization 📗 [05-03-04-en.md](5-PY/05-03-04-en.md) 📗 [05-03-04-cz.md](5-PY/05-03-04-cz.md)
-5. Design patterns in Python
+5. Design patterns in Python 📗 [05-03-05-en.md](5-PY/05-03-05-en.md) 📗 [05-03-05-cz.md](5-PY/05-03-05-cz.md)
 6. Type hinting and static type checking
 7. Metaprogramming techniques
 8. Python's internals (sys, inspect, dis)
