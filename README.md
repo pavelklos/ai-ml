@@ -33,7 +33,6 @@
    - 📗 [01-01-05-en.md](1-DS/01-01-05-en.md) 📗 [01-01-05-cz.md](1-DS/01-01-05-cz.md)
 6. Basic data cleaning techniques
    - [01-01-06a.ipynb](1-DS/01-01-06a.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-06a.md](1-DS/01-01-06a.md)
-   - ⚠️ADVANCED (*2x temp*)
    - 📗 [01-01-06-en.md](1-DS/01-01-06-en.md) 📗 [01-01-06-cz.md](1-DS/01-01-06-cz.md)
 7. Descriptive statistics [01-01-07.ipynb](1-DS/01-01-07.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-07.md](1-DS/01-01-07.md) 📗 [01-01-07-en.md](1-DS/01-01-07-en.md) 📗 [01-01-07-cz.md](1-DS/01-01-07-cz.md)
 8. Data filtering and selection [01-01-08.ipynb](1-DS/01-01-08.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-08.md](1-DS/01-01-08.md) 📗 [01-01-08-en.md](1-DS/01-01-08-en.md) 📗 [01-01-08-cz.md](1-DS/01-01-08-cz.md)
