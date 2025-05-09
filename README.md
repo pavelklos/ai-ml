@@ -328,8 +328,6 @@
 
 [scikit-learn](https://scikit-learn.org/stable/index.html) *is a popular open-source machine learning library in Python that provides simple and efficient tools for data mining and data analysis. It includes algorithms for classification, regression, clustering, dimensionality reduction, model selection, and preprocessing. Built on NumPy, SciPy, and matplotlib, it is designed to be easy to use, flexible, and performant.*
 
-[map (algorithm cheat sheet)](https://scikit-learn.org/stable/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg)
-
 ### Estimators (algorithms)
 [Choosing the right estimator](https://scikit-learn.org/stable/machine_learning_map.html), [Algorithm cheat sheet (map))](https://scikit-learn.org/stable/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg)
 
@@ -340,7 +338,7 @@
   - KNeighbors Classifier <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.04-Classification-KNeighbors-Classifier.ipynb](9-SCIKIT-LEARN/01.04-Classification-KNeighbors-Classifier.ipynb)
   - Ensemble Classifiers <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.05-Classification-Ensemble-Classifiers.ipynb](9-SCIKIT-LEARN/01.05-Classification-Ensemble-Classifiers.ipynb)
   - SVC <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.06-Classification-SVC.ipynb](9-SCIKIT-LEARN/01.06-Classification-SVC.ipynb)
-  - Naive Bayes
+  - Naive Bayes <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.07-Classification-Naive-Bayes.ipynb](9-SCIKIT-LEARN/01.07-Classification-Naive-Bayes.ipynb)
 
 - Regression
   - SGD Regressor
