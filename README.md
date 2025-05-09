@@ -319,7 +319,7 @@
 8. Python's internals (sys, inspect, dis) 📗 [05-03-08-en.md](5-PY/05-03-08-en.md) 📗 [05-03-08-cz.md](5-PY/05-03-08-cz.md)
 9. Descriptors and property decorators 📗 [05-03-09-en.md](5-PY/05-03-09-en.md) 📗 [05-03-09-cz.md](5-PY/05-03-09-cz.md)
 10. Advanced decorators (parameterized, class-based) 📗 [05-03-10-en.md](5-PY/05-03-10-en.md) 📗 [05-03-10-cz.md](5-PY/05-03-10-cz.md)
-11. Python C extensions and FFI
+11. Python C extensions and FFI 📗 [05-03-11-en.md](5-PY/05-03-11-en.md) 📗 [05-03-11-cz.md](5-PY/05-03-11-cz.md)
 12. Abstract base classes and protocols
 13. Custom context managers
 14. Advanced performance profiling and optimization
