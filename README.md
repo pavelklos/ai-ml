@@ -323,3 +323,45 @@
 13. Custom context managers 📗 [05-03-13-en.md](5-PY/05-03-13-en.md) 📗 [05-03-13-cz.md](5-PY/05-03-13-cz.md)
 14. Advanced performance profiling and optimization 📗 [05-03-14-en.md](5-PY/05-03-14-en.md) 📗 [05-03-14-cz.md](5-PY/05-03-14-cz.md)
 15. Working with AST (Abstract Syntax Tree) 📗 [05-03-15-en.md](5-PY/05-03-15-en.md) 📗 [05-03-15-cz.md](5-PY/05-03-15-cz.md)
+
+## 9. scikit-learn
+
+[scikit-learn](https://scikit-learn.org/stable/index.html) *is a popular open-source machine learning library in Python that provides simple and efficient tools for data mining and data analysis. It includes algorithms for classification, regression, clustering, dimensionality reduction, model selection, and preprocessing. Built on NumPy, SciPy, and matplotlib, it is designed to be easy to use, flexible, and performant.*
+
+[map (algorithm cheat sheet)](https://scikit-learn.org/stable/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg)
+
+### Estimators (algorithms)
+[Choosing the right estimator](https://scikit-learn.org/stable/machine_learning_map.html), [Algorithm cheat sheet (map))](https://scikit-learn.org/stable/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg)
+
+- Classification
+  - SGD Classifier
+  - Kernel Approximation
+  - Linear SVC
+  - KNeighbors Classifier
+  - Ensemble Classifiers
+  - SVC
+  - Naive Bayes
+
+- Regression
+  - SGD Regressor
+  - ElasticNet
+  - Lasso
+  - Ridge Regression
+  - SVR (kernel="linear")
+  - Ensemble Regressors
+  - SVR (kernel="rbf")
+
+- Clustering
+  - KMeans
+  - Spectral Clustering
+  - GMM
+  - MiniBatch KMeans
+  - MeanShift
+  - VBGMM
+
+- Dimensionality Reduction
+  - Randomized PCA
+  - Spectral Embedding
+  - IsoMap
+  - LLE
+  - Kernel Approximation
