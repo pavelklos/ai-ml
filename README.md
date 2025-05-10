@@ -331,6 +331,17 @@
 ### Estimators (algorithms)
 [Choosing the right estimator](https://scikit-learn.org/stable/machine_learning_map.html), [Algorithm cheat sheet (map))](https://scikit-learn.org/stable/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg)
 
+
+- **Classification** *(predicting category & we have labeled data)*
+  - *(>100K samples)* **SGD Classifier**
+    - *(try next)* **Kernel Approximation**
+  - *(<100K samples)* **Linear SVC**
+    - *(try next)*
+      - *(text data)* **Naive Bayes**
+      - *(no text data)* **KNeighbors Classifier**
+        - *(try next)* **Ensemble Classifiers**
+        - *(try next)* **SVC**
+
 - Classification
   - SGD Classifier <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.01-Classification-SGD-Classifier.ipynb](9-SCIKIT-LEARN/01.01-Classification-SGD-Classifier.ipynb) ✅
   - Kernel Approximation <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.02-Classification-Kernel-Approximation.ipynb](9-SCIKIT-LEARN/01.02-Classification-Kernel-Approximation.ipynb) ✅
