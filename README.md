@@ -337,10 +337,11 @@
     - *(try next)* **Kernel Approximation**
   - *(<100K samples)* **Linear SVC**
     - *(try next)*
-      - *(text data)* **Naive Bayes**
-      - *(no text data)* **KNeighbors Classifier**
-        - *(try next)* **Ensemble Classifiers**
-        - *(try next)* **SVC**
+      - *(text data: YES)* **Naive Bayes**
+      - *(text data: NO)* **KNeighbors Classifier**
+        - *(try next)*
+          - **Ensemble Classifiers**
+          - **SVC**
 
 - Classification
   - SGD Classifier <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.01-Classification-SGD-Classifier.ipynb](9-SCIKIT-LEARN/01.01-Classification-SGD-Classifier.ipynb) ✅
@@ -350,6 +351,19 @@
   - Ensemble Classifiers <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.05-Classification-Ensemble-Classifiers.ipynb](9-SCIKIT-LEARN/01.05-Classification-Ensemble-Classifiers.ipynb) ✅
   - SVC <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.06-Classification-SVC.ipynb](9-SCIKIT-LEARN/01.06-Classification-SVC.ipynb) ✅
   - Naive Bayes <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.07-Classification-Naive-Bayes.ipynb](9-SCIKIT-LEARN/01.07-Classification-Naive-Bayes.ipynb) ✅ + 2 files (readme, SMSSpamCollection)
+
+- **Regression** *(predicting quantity)*
+  - *(>100K samples)* **SGD Regressor**
+  - *(<100K samples)*
+    - *(few features should be important: YES)*
+      - **ElasticNet**
+      - **Lasso**
+    - *(few features should be important: NO)*
+      - **Ridge Regression**
+      - **SVR (kernel="linear")**
+      - *(try next)*
+        - **Ensemble Regressors**
+        - **SVR (kernel="rbf")**
 
 - Regression
   - SGD Regressor
