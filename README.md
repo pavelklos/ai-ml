@@ -338,7 +338,7 @@
   - KNeighbors Classifier <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.04-Classification-KNeighbors-Classifier.ipynb](9-SCIKIT-LEARN/01.04-Classification-KNeighbors-Classifier.ipynb) ✅
   - Ensemble Classifiers <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.05-Classification-Ensemble-Classifiers.ipynb](9-SCIKIT-LEARN/01.05-Classification-Ensemble-Classifiers.ipynb) ✅
   - SVC <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.06-Classification-SVC.ipynb](9-SCIKIT-LEARN/01.06-Classification-SVC.ipynb) ✅
-  - Naive Bayes <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.07-Classification-Naive-Bayes.ipynb](9-SCIKIT-LEARN/01.07-Classification-Naive-Bayes.ipynb)
+  - Naive Bayes <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.07-Classification-Naive-Bayes.ipynb](9-SCIKIT-LEARN/01.07-Classification-Naive-Bayes.ipynb) ✅ + 2 files (readme, SMSSpamCollection)
 
 - Regression
   - SGD Regressor
