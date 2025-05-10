@@ -367,7 +367,7 @@
 
 - Regression
   - SGD Regressor <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.01-Regression-SGD-Regressor.ipynb](9-SCIKIT-LEARN/02.01-Regression-SGD-Regressor.ipynb)
-  - ElasticNet
+  - ElasticNet <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.02-Regression-ElasticNet.ipynb](9-SCIKIT-LEARN/02.02-Regression-ElasticNet.ipynb)
   - Lasso
   - Ridge Regression
   - SVR (kernel="linear")
