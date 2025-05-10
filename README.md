@@ -366,7 +366,7 @@
         - **SVR (kernel="rbf")**
 
 - Regression
-  - SGD Regressor
+  - SGD Regressor <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.01-Regression-SGD-Regressor.ipynb](9-SCIKIT-LEARN/02.01-Regression-SGD-Regressor.ipynb)
   - ElasticNet
   - Lasso
   - Ridge Regression
