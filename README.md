@@ -366,7 +366,7 @@
         - **SVR (kernel="rbf")**
 
 - Regression
-  - SGD Regressor <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.01-Regression-SGD-Regressor.ipynb](9-SCIKIT-LEARN/02.01-Regression-SGD-Regressor.ipynb)
+  - SGD Regressor <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.01-Regression-SGD-Regressor.ipynb](9-SCIKIT-LEARN/02.01-Regression-SGD-Regressor.ipynb) ✅
   - ElasticNet <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.02-Regression-ElasticNet.ipynb](9-SCIKIT-LEARN/02.02-Regression-ElasticNet.ipynb)
   - Lasso <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.03-Regression-Lasso.ipynb](9-SCIKIT-LEARN/02.03-Regression-Lasso.ipynb)
   - Ridge Regression <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.04-Regression-Ridge-Regression.ipynb](9-SCIKIT-LEARN/02.04-Regression-Ridge-Regression.ipynb)
