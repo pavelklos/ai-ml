@@ -380,7 +380,7 @@
   - GMM <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.03-Clustering-GMM.ipynb](9-SCIKIT-LEARN/03.03-Clustering-GMM.ipynb) ✅
   - MiniBatch KMeans <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.04-Clustering-MiniBatch-KMeans.ipynb](9-SCIKIT-LEARN/03.04-Clustering-MiniBatch-KMeans.ipynb) ✅
   - MeanShift <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.05-Clustering-MeanShift.ipynb](9-SCIKIT-LEARN/03.05-Clustering-MeanShift.ipynb) ✅
-  - VBGMM <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.06-Clustering-VBGMM.ipynb](9-SCIKIT-LEARN/03.06-Clustering-VBGMM.ipynb)
+  - VBGMM <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.06-Clustering-VBGMM.ipynb](9-SCIKIT-LEARN/03.06-Clustering-VBGMM.ipynb) ✅
 
 - Dimensionality Reduction
   - Randomized PCA
