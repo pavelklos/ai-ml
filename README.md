@@ -375,7 +375,7 @@
   - SVR (kernel="rbf") <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.07-Regression-SVR-kernel-rbf.ipynb](9-SCIKIT-LEARN/02.07-Regression-SVR-kernel-rbf.ipynb) ✅
 
 - Clustering
-  - KMeans <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.01-Clustering-KMeans.ipynb](9-SCIKIT-LEARN/03.01-Clustering-KMeans.ipynb)
+  - KMeans <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.01-Clustering-KMeans.ipynb](9-SCIKIT-LEARN/03.01-Clustering-KMeans.ipynb) ✅
   - Spectral Clustering <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.02-Clustering-Spectral-Clustering.ipynb](9-SCIKIT-LEARN/03.02-Clustering-Spectral-Clustering.ipynb)
   - GMM <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.03-Clustering-GMM.ipynb](9-SCIKIT-LEARN/03.03-Clustering-GMM.ipynb)
   - MiniBatch KMeans <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.04-Clustering-MiniBatch-KMeans.ipynb](9-SCIKIT-LEARN/03.04-Clustering-MiniBatch-KMeans.ipynb)
