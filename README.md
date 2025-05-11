@@ -374,6 +374,18 @@
   - Ensemble Regressors <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.06-Regression-Ensemble-Regressors.ipynb](9-SCIKIT-LEARN/02.06-Regression-Ensemble-Regressors.ipynb) ✅ ⚠️ LONG TIME TO EXECUTE (5. Stacking Regressor)
   - SVR (kernel="rbf") <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.07-Regression-SVR-kernel-rbf.ipynb](9-SCIKIT-LEARN/02.07-Regression-SVR-kernel-rbf.ipynb) ✅
 
+- **Clustering** *(predicting category & no labeled data)*
+  - *(number of categories known: NO)*
+    - *(<10K samples)*
+      - **MeanShift**
+      - **VBGMM**
+  - *(number of categories known: YES)*
+    - *(<10K samples)* **KMeans**
+      - *(try next)*
+        - **Spectral Clustering**
+        - **GMM**
+    - *(>10K samples)* **MiniBatch KMeans**
+
 - Clustering
   - KMeans <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.01-Clustering-KMeans.ipynb](9-SCIKIT-LEARN/03.01-Clustering-KMeans.ipynb) ✅
   - Spectral Clustering <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.02-Clustering-Spectral-Clustering.ipynb](9-SCIKIT-LEARN/03.02-Clustering-Spectral-Clustering.ipynb) ✅
