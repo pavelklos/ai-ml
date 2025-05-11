@@ -377,7 +377,7 @@
 - Clustering
   - KMeans <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.01-Clustering-KMeans.ipynb](9-SCIKIT-LEARN/03.01-Clustering-KMeans.ipynb)
   - Spectral Clustering <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.02-Clustering-Spectral-Clustering.ipynb](9-SCIKIT-LEARN/03.02-Clustering-Spectral-Clustering.ipynb)
-  - GMM
+  - GMM <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.03-Clustering-GMM.ipynb](9-SCIKIT-LEARN/03.03-Clustering-GMM.ipynb)
   - MiniBatch KMeans
   - MeanShift
   - VBGMM
