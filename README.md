@@ -372,7 +372,7 @@
   - Ridge Regression <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.04-Regression-Ridge-Regression.ipynb](9-SCIKIT-LEARN/02.04-Regression-Ridge-Regression.ipynb) ✅
   - SVR (kernel="linear") <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.05-Regression-SVR-kernel-linear.ipynb](9-SCIKIT-LEARN/02.05-Regression-SVR-kernel-linear.ipynb) ✅
   - Ensemble Regressors <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.06-Regression-Ensemble-Regressors.ipynb](9-SCIKIT-LEARN/02.06-Regression-Ensemble-Regressors.ipynb) ✅
-  - SVR (kernel="rbf") <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.07-Regression-SVR-kernel-rbf.ipynb](9-SCIKIT-LEARN/02.07-Regression-SVR-kernel-rbf.ipynb)
+  - SVR (kernel="rbf") <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.07-Regression-SVR-kernel-rbf.ipynb](9-SCIKIT-LEARN/02.07-Regression-SVR-kernel-rbf.ipynb) ✅
 
 - Clustering
   - KMeans
