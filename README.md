@@ -331,6 +331,7 @@
 ### Estimators (algorithms)
 [Choosing the right estimator](https://scikit-learn.org/stable/machine_learning_map.html), [Algorithm cheat sheet (map))](https://scikit-learn.org/stable/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg)
 
+---
 
 - **Classification** *(predicting category & we have labeled data)*
   - *(>100K samples)* **SGD Classifier**
@@ -351,6 +352,8 @@
   - Ensemble Classifiers <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.05-Classification-Ensemble-Classifiers.ipynb](9-SCIKIT-LEARN/01.05-Classification-Ensemble-Classifiers.ipynb) ✅
   - SVC <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.06-Classification-SVC.ipynb](9-SCIKIT-LEARN/01.06-Classification-SVC.ipynb) ✅
   - Naive Bayes <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01.07-Classification-Naive-Bayes.ipynb](9-SCIKIT-LEARN/01.07-Classification-Naive-Bayes.ipynb) ✅ + 2 files (readme, SMSSpamCollection)
+
+---
 
 - **Regression** *(predicting quantity)*
   - *(>100K samples)* **SGD Regressor**
@@ -374,6 +377,8 @@
   - Ensemble Regressors <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.06-Regression-Ensemble-Regressors.ipynb](9-SCIKIT-LEARN/02.06-Regression-Ensemble-Regressors.ipynb) ✅ ⚠️ LONG TIME TO EXECUTE (5. Stacking Regressor)
   - SVR (kernel="rbf") <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02.07-Regression-SVR-kernel-rbf.ipynb](9-SCIKIT-LEARN/02.07-Regression-SVR-kernel-rbf.ipynb) ✅
 
+---
+
 - **Clustering** *(predicting category & no labeled data)*
   - *(number of categories known: NO)*
     - *(<10K samples)*
@@ -394,9 +399,24 @@
   - MeanShift <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.05-Clustering-MeanShift.ipynb](9-SCIKIT-LEARN/03.05-Clustering-MeanShift.ipynb) ✅
   - VBGMM <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.06-Clustering-VBGMM.ipynb](9-SCIKIT-LEARN/03.06-Clustering-VBGMM.ipynb) ✅
 
+---
+
+- **Dimensionality Reduction** *(just looking)*
+  - **Randomized PCA**
+  - *(try next)*
+    - *(<10K samples)*
+      - **Spectral Embedding**
+      - **IsoMap**
+      - *(try next)*
+        - **LLE**
+    - *(>10K samples)*
+      - **Kernel Approximation**
+
 - Dimensionality Reduction
   - Randomized PCA <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.01-Dimensionality-Reduction-Randomized-PCA.ipynb](9-SCIKIT-LEARN/04.01-Dimensionality-Reduction-Randomized-PCA.ipynb) ✅
   - Spectral Embedding <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.02-Dimensionality-Reduction-Spectral-Embedding.ipynb](9-SCIKIT-LEARN/04.02-Dimensionality-Reduction-Spectral-Embedding.ipynb) ✅
   - IsoMap <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.03-Dimensionality-Reduction-IsoMap.ipynb](9-SCIKIT-LEARN/04.03-Dimensionality-Reduction-IsoMap.ipynb) ✅
   - LLE <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.04-Dimensionality-Reduction-LLE.ipynb](9-SCIKIT-LEARN/04.04-Dimensionality-Reduction-LLE.ipynb) ✅
   - Kernel Approximation <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.05-Dimensionality-Reduction-Kernel-Approximation.ipynb](9-SCIKIT-LEARN/04.05-Dimensionality-Reduction-Kernel-Approximation.ipynb) ✅
+
+---
