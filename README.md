@@ -395,7 +395,7 @@
   - VBGMM <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03.06-Clustering-VBGMM.ipynb](9-SCIKIT-LEARN/03.06-Clustering-VBGMM.ipynb) ✅
 
 - Dimensionality Reduction
-  - Randomized PCA
+  - Randomized PCA <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.01-Dimensionality-Reduction-Randomized-PCA.ipynb](9-SCIKIT-LEARN/04.01-Dimensionality-Reduction-Randomized-PCA.ipynb)
   - Spectral Embedding
   - IsoMap
   - LLE
