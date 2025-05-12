@@ -396,7 +396,7 @@
 
 - Dimensionality Reduction
   - Randomized PCA <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.01-Dimensionality-Reduction-Randomized-PCA.ipynb](9-SCIKIT-LEARN/04.01-Dimensionality-Reduction-Randomized-PCA.ipynb) ✅
-  - Spectral Embedding <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.02-Dimensionality-Reduction-Spectral-Embedding.ipynb](9-SCIKIT-LEARN/04.02-Dimensionality-Reduction-Spectral-Embedding.ipynb)
+  - Spectral Embedding <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.02-Dimensionality-Reduction-Spectral-Embedding.ipynb](9-SCIKIT-LEARN/04.02-Dimensionality-Reduction-Spectral-Embedding.ipynb) ✅
   - IsoMap <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.03-Dimensionality-Reduction-IsoMap.ipynb](9-SCIKIT-LEARN/04.03-Dimensionality-Reduction-IsoMap.ipynb)
   - LLE <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.04-Dimensionality-Reduction-LLE.ipynb](9-SCIKIT-LEARN/04.04-Dimensionality-Reduction-LLE.ipynb)
   - Kernel Approximation <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.05-Dimensionality-Reduction-Kernel-Approximation.ipynb](9-SCIKIT-LEARN/04.05-Dimensionality-Reduction-Kernel-Approximation.ipynb)
