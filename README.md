@@ -335,6 +335,7 @@
 - **TOP 5 Estimators by category**
   - <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [Classification](9-SCIKIT-LEARN/Top5-01-Classification-cz.md)
   - <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [Regression](9-SCIKIT-LEARN/Top5-02-Regression-cz.md)
+  - <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [Clustering](9-SCIKIT-LEARN/Top5-03-Clustering-cz.md)
 
 ---
 
