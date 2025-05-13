@@ -331,6 +331,8 @@
 ### Estimators (algorithms)
 [Choosing the right estimator](https://scikit-learn.org/stable/machine_learning_map.html), [Algorithm cheat sheet (map))](https://scikit-learn.org/stable/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg)
 
+- **Estimators summary** 📗 [estimators-en.md](9-SCIKIT-LEARN/estimators-en.md)
+
 ---
 
 - **Classification** *(predicting category & we have labeled data)*
