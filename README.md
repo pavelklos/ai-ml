@@ -332,6 +332,8 @@
 [Choosing the right estimator](https://scikit-learn.org/stable/machine_learning_map.html), [Algorithm cheat sheet (map))](https://scikit-learn.org/stable/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg)
 
 - **Estimators summary** 📗 [estimators-en.md](9-SCIKIT-LEARN/estimators-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [estimators-cz.md](9-SCIKIT-LEARN/estimators-cz.md)
+- **TOP 5 Estimators by category**
+  - <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [Classification](9-SCIKIT-LEARN/Top5-01-Classification-cz.md)
 
 ---
 
