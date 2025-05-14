@@ -331,7 +331,47 @@
 ### Estimators (algorithms)
 [Choosing the right estimator](https://scikit-learn.org/stable/machine_learning_map.html), [Algorithm cheat sheet (map))](https://scikit-learn.org/stable/_downloads/b82bf6cd7438a351f19fac60fbc0d927/ml_map.svg)
 
-- **Estimators summary** 📗 [estimators-en.md](9-SCIKIT-LEARN/estimators-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [estimators-cz.md](9-SCIKIT-LEARN/estimators-cz.md)
+- **Estimators summary**
+  - 📗 [estimators-en.md](9-SCIKIT-LEARN/estimators-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [estimators-cz.md](9-SCIKIT-LEARN/estimators-cz.md)
+  - *Estimators with (test data, visualization)*
+
+    ````markdown
+    # Synthetic test data using scikit-learn's data generation functions
+
+    ## Classification Estimators
+    1. **SGD Classifier**: Large dataset (10,000 samples) with 20 features - ideal for its online learning capabilities
+    2. **Kernel Approximation**: Non-linear dataset with 5,000 samples and clear non-linear separation
+    3. **Linear SVC**: High-dimensional dataset (100 features) with clear linear separation between classes
+    4. **KNeighbors Classifier**: Lower-dimensional dataset (5 features) with complex local structure
+    5. **Ensemble Classifiers**: Complex dataset with multiple informative features and patterns
+    6. **SVC**: Smaller dataset (800 samples) with non-linear decision boundaries
+    7. **Naive Bayes**: Dataset with independent features, plus note about text classification
+
+    ## Regression Estimators
+    1. **SGD Regressor**: Large regression dataset with 10,000 samples
+    2. **ElasticNet**: Dataset with many correlated features (50 features, effective rank of 5)
+    3. **Lasso**: High-dimensional sparse dataset (100 features with only 10 informative ones)
+    4. **Ridge Regression**: Dataset with correlated features
+    5. **SVR (kernel="linear")**: Regression dataset with outliers
+    6. **Ensemble Regressors**: Complex regression dataset with non-linear components
+    7. **SVR (kernel="rbf")**: Non-linear regression dataset with multiple transformations
+
+    ## Clustering Estimators
+    1. **KMeans**: Well-separated, spherical clusters
+    2. **Spectral Clustering**: Moon-shaped clusters (non-globular)
+    3. **GMM**: Overlapping clusters with different sizes and shapes
+    4. **MiniBatch KMeans**: Large dataset (100,000 samples) with well-separated clusters
+    5. **MeanShift**: Clusters with different densities
+    6. **VBGMM**: Data with an unknown number of clusters
+
+    ## Dimensionality Reduction Estimators
+    1. **Randomized PCA**: High-dimensional dataset (100 features)
+    2. **Spectral Embedding**: Swiss roll dataset (manifold data)
+    3. **IsoMap**: Swiss roll dataset (for preserving geodesic distances)
+    4. **LLE**: Swiss roll dataset (for preserving local structure)
+    5. **Kernel Approximation**: Large dataset with non-linear patterns
+    ````
+
 - **TOP 5 Estimators by category**
   - **Classification** <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [Top5-01-Classification-cz.md](9-SCIKIT-LEARN/Top5-01-Classification-cz.md)
   - **Regression** <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [Top5-02-Regression-cz.md](9-SCIKIT-LEARN/Top5-02-Regression-cz.md)
