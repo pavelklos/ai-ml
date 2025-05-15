@@ -333,8 +333,8 @@
 
 - **Estimators summary**
   - 📗 [estimators-en.md](9-SCIKIT-LEARN/estimators-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [estimators-cz.md](9-SCIKIT-LEARN/estimators-cz.md)
-  - *Estimators with (test data, visualization)*
-    - 📗 [estimators-test-data-en.md](9-SCIKIT-LEARN/estimators-test-data-en.md)
+  - **Estimators with (test data, visualization)**
+    - 📗 [estimators-test-data-en.md](9-SCIKIT-LEARN/estimators-test-data-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [estimators-test-data-cz.md](9-SCIKIT-LEARN/estimators-test-data-cz.md)
 
     ````markdown
     # Synthetic test data using scikit-learn's data generation functions
