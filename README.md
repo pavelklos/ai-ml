@@ -336,6 +336,7 @@
   - **TOP 5 Estimators by category**
     - **Classification** <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [Top5-01-Classification-cz.ipynb](9-SCIKIT-LEARN/Top5-01-Classification-cz.ipynb)
     - **Regression** <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [Top5-02-Regression-cz.ipynb](9-SCIKIT-LEARN/Top5-02-Regression-cz.ipynb)
+    - **Clustering** <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [Top5-03-Clustering-cz.ipynb](9-SCIKIT-LEARN/Top5-03-Clustering-cz.ipynb)
   - **Estimators with (test data, visualization)** [estimators-en.ipynb](9-SCIKIT-LEARN/estimators-en.ipynb)
     - 📗 [estimators-test-data-en.md](9-SCIKIT-LEARN/estimators-test-data-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [estimators-test-data-cz.md](9-SCIKIT-LEARN/estimators-test-data-cz.md)
 
