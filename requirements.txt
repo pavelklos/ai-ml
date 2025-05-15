@@ -45,3 +45,5 @@ torch
 torchvision
 torchaudio
 pydot
+yellowbrick
+umap-learn
