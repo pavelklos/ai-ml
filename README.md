@@ -1,6 +1,12 @@
 # AI-ML (Artificial Intelligence and Machine Learning)
 
-*Generated Topics (5 main Categories)*
+*Generated Topics (5 main Categories) + scikit-learn*
+- [1. Data Science (DS)](#1-data-science-ds)
+- [2. Machine Learning (ML)](#2-machine-learning-ml)
+- [3. Data Visualization (DV)](#3-data-visualization-dv)
+- [4. Deep Learning (DL)](#4-deep-learning-dl)
+- [5. Python (PY)](#5-python-py)
+- [9. scikit-learn](#9-scikit-learn)
 
 ## 0. INTRODUCTION
 
@@ -212,9 +218,9 @@
 14. Custom visualization libraries 📗 [03-03-14-en.md](3-DV/03-03-14-en.md) 📗 [03-03-14-cz.md](3-DV/03-03-14-cz.md)
 15. Perceptual color theory for data viz 📗 [03-03-15-en.md](3-DV/03-03-15-en.md) 📗 [03-03-15-cz.md](3-DV/03-03-15-cz.md)
 
-## 4. Deep Learning (DL) ⚠️ (RUN ON GPU)
+## 4. Deep Learning (DL)
 
-### 1. Beginner Deep Learning (20 topics)
+### 1. Beginner Deep Learning (20 topics) ⚠️ (RUN ON GPU)
 1. Introduction to deep learning concepts and terminology ✅[04-01-01.ipynb](4-DL/04-01-01.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-01.md](4-DL/04-01-01.md) + data (1 file) 📗 [04-01-01-en.md](4-DL/04-01-01-en.md) 📗 [04-01-01-cz.md](4-DL/04-01-01-cz.md)
 2. Neural network fundamentals (neurons, activation functions) [04-01-02.ipynb](4-DL/04-01-02.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-02.md](4-DL/04-01-02.md) 📗 [04-01-02-en.md](4-DL/04-01-02-en.md) 📗 [04-01-02-cz.md](4-DL/04-01-02-cz.md)
 3. Setting up deep learning environments (TensorFlow, PyTorch) [04-01-03.ipynb](4-DL/04-01-03.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-03.md](4-DL/04-01-03.md) 📗 [04-01-03-en.md](4-DL/04-01-03-en.md) 📗 [04-01-03-cz.md](4-DL/04-01-03-cz.md)
@@ -236,7 +242,7 @@
 19. Visualizing neural networks [04-01-19.ipynb](4-DL/04-01-19.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-19.md](4-DL/04-01-19.md) 📗 [04-01-19-en.md](4-DL/04-01-19-en.md) 📗 [04-01-19-cz.md](4-DL/04-01-19-cz.md)
 20. Ethics and limitations of deep learning [04-01-20.ipynb](4-DL/04-01-20.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04-01-20.md](4-DL/04-01-20.md) 📗 [04-01-20-en.md](4-DL/04-01-20-en.md) 📗 [04-01-20-cz.md](4-DL/04-01-20-cz.md)
 
-### 2. Intermediate Deep Learning (15 topics)
+### 2. Intermediate Deep Learning (15 topics) ⚠️ (RUN ON GPU)
 1. Convolutional Neural Networks (CNNs) architecture 📗 [04-02-01-en.md](4-DL/04-02-01-en.md) 📗 [04-02-01-cz.md](4-DL/04-02-01-cz.md) 📗 [04-02-01-cz-other.md](4-DL/04-02-01-cz-other.md)
 2. Recurrent Neural Networks (RNNs) and LSTM networks 📗 [04-02-02-en.md](4-DL/04-02-02-en.md) 📗 [04-02-02-cz.md](4-DL/04-02-02-cz.md) 📗 [04-02-02-cz-other.md](4-DL/04-02-02-cz-other.md)
 3. GRU and bidirectional RNNs 📗 [04-02-03-en.md](4-DL/04-02-03-en.md) 📗 [04-02-03-cz.md](4-DL/04-02-03-cz.md) 📗 [04-02-03-cz-other.md](4-DL/04-02-03-cz-other.md)
@@ -253,7 +259,7 @@
 14. Distributed training basics 📗 [04-02-14-en.md](4-DL/04-02-14-en.md) 📗 [04-02-14-cz.md](4-DL/04-02-14-cz.md)
 15. Sequence-to-sequence models 📗 [04-02-15-en.md](4-DL/04-02-15-en.md) 📗 [04-02-15-cz.md](4-DL/04-02-15-cz.md)
 
-### 3. Advanced Deep Learning (15 topics)
+### 3. Advanced Deep Learning (15 topics) ⚠️ (RUN ON GPU)
 1. Advanced transformer architectures (BERT, GPT, T5) 📗 [04-03-01-en.md](4-DL/04-03-01-en.md) 📗 [04-03-01-cz.md](4-DL/04-03-01-cz.md)
 2. Diffusion models and stable diffusion 📗 [04-03-02-en.md](4-DL/04-03-02-en.md) 📗 [04-03-02-cz.md](4-DL/04-03-02-cz.md)
 3. Reinforcement learning with deep neural networks 📗 [04-03-03-en.md](4-DL/04-03-03-en.md) 📗 [04-03-03-cz.md](4-DL/04-03-03-cz.md)
@@ -270,7 +276,7 @@
 14. Neuro-symbolic AI and integration with knowledge graphs 📗 [04-03-14-en.md](4-DL/04-03-14-en.md) 📗 [04-03-14-cz.md](4-DL/04-03-14-cz.md)
 15. Advanced deployment techniques for deep learning models 📗 [04-03-15-en.md](4-DL/04-03-15-en.md) 📗 [04-03-15-cz.md](4-DL/04-03-15-cz.md)
 
-## 5. Python Programming (PY)
+## 5. Python (PY)
 
 ### 1. Beginner Python (20 topics)
 1. Installing Python and setting up the environment [05-01-01.ipynb](5-PY/05-01-01.ipynb) 📗 [05-01-01-en.md](5-PY/05-01-01-en.md) 📗 [05-01-01-cz.md](5-PY/05-01-01-cz.md)
