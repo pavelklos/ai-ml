@@ -2,6 +2,10 @@
 
 *Generated Topics (5 main Categories)*
 
+## 0. INTRODUCTION
+
+- **Guide to AI & DS** (Artificial Intelligence & Data Science) 📗 [guide-ai-ds-en.md](0-INTRO/guide-ai-ds-en.md)
+
 ## 0. SAMPLES
 
 - Titanic Dataset Analysis
