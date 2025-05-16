@@ -4,7 +4,7 @@
 
 ## 0. INTRODUCTION
 
-- **Guide to AI & DS** (Artificial Intelligence & Data Science) 📗 [guide-ai-ds-en.md](0-INTRO/guide-ai-ds-en.md)
+- **Guide to AI & DS** (Artificial Intelligence & Data Science) 📗 [guide-ai-ds-en.md](0-INTRO/guide-ai-ds-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [guide-ai-ds-cz.md](0-INTRO/guide-ai-ds-cz.md)
 
 ## 0. SAMPLES
 
