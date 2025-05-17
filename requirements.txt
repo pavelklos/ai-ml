@@ -47,3 +47,5 @@ torchaudio
 pydot
 yellowbrick
 umap-learn
+mlflow
+autogluon
