@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pavel/projects/ai-ml/0-INTRO/mlruns/606192800237098058/577bbb9c81604424b1ee75136911d75d/artifacts
+end_time: 1747492442477
+entry_point_name: ''
+experiment_id: '606192800237098058'
+lifecycle_stage: active
+run_id: 577bbb9c81604424b1ee75136911d75d
+run_name: likeable-wolf-356
+run_uuid: 577bbb9c81604424b1ee75136911d75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747492431099
+status: 3
+tags: []
+user_id: pavel
