@@ -16,7 +16,7 @@
 - **AI-ML Process: A Comprehensive Guide** 📗 [ai-ml-en.md](0-INTRO/ai-ml-en.md) *(Jupyter Notebook)* [ai-ml-en.ipynb](0-INTRO/ai-ml-en.ipynb) ✅ + data (27 files)
   - ⚠️(AUTOGLUON MODELS LOCALLY 809 MB) AutogluonModels folder (36 files)
 - **Machine Learning Paradigms by Usage** 📗 [paradigms-list-en.md](0-INTRO/paradigms-list-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [paradigms-list-cz.md](0-INTRO/paradigms-list-cz.md)
-- **Machine Learning Paradigms: 8 Simple Examples** [paradigms-en.ipynb](0-INTRO/paradigms-en.ipynb)
+- **Machine Learning Paradigms: 8 Simple Examples** [paradigms-en.ipynb](0-INTRO/paradigms-en.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [paradigms-cz.ipynb](0-INTRO/paradigms-cz.ipynb)
 
 ## 0. SAMPLES
 
