@@ -15,6 +15,7 @@
 - **Machine Learning Frameworks and Libraries** 📗 [ml-frameworks-and-libraries-en.md](0-INTRO/ml-frameworks-and-libraries-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [ml-frameworks-and-libraries-cz.md](0-INTRO/ml-frameworks-and-libraries-cz.md)
 - **AI-ML Process: A Comprehensive Guide** 📗 [ai-ml-en.md](0-INTRO/ai-ml-en.md) *(Jupyter Notebook)* [ai-ml-en.ipynb](0-INTRO/ai-ml-en.ipynb) ✅ + data (27 files)
   - ⚠️(AUTOGLUON MODELS LOCALLY 809 MB) AutogluonModels folder (36 files)
+- **Machine Learning Paradigms by Usage** 📗 [paradigms-list-en.md](0-INTRO/paradigms-list-en.md)
 
 ## 0. SAMPLES
 
