@@ -13,7 +13,8 @@
 - **Guide to AI & DS** (Artificial Intelligence & Data Science) 📗 [guide-ai-ds-en.md](0-INTRO/guide-ai-ds-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [guide-ai-ds-cz.md](0-INTRO/guide-ai-ds-cz.md)
 - **Datasets for Machine Learning** 📗 [datasets-en.md](0-INTRO/datasets-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [datasets-cz.md](0-INTRO/datasets-cz.md)
 - **Machine Learning Frameworks and Libraries** 📗 [ml-frameworks-and-libraries-en.md](0-INTRO/ml-frameworks-and-libraries-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [ml-frameworks-and-libraries-cz.md](0-INTRO/ml-frameworks-and-libraries-cz.md)
-- **AI-ML Process: A Comprehensive Guide** 📗 [ai-ml-en.md](0-INTRO/ai-ml-en.md) *(Jupyter Notebook)* [ai-ml-en.ipynb](0-INTRO/ai-ml-en.ipynb)
+- **AI-ML Process: A Comprehensive Guide** 📗 [ai-ml-en.md](0-INTRO/ai-ml-en.md) *(Jupyter Notebook)* [ai-ml-en.ipynb](0-INTRO/ai-ml-en.ipynb) ✅ + data (27 files)
+  - ⚠️(AUTOGLUON MODELS LOCALLY 809 MB) AutogluonModels folder (36 files)
 
 ## 0. SAMPLES
 
