@@ -19,6 +19,27 @@
 - **Machine Learning Paradigms: 8 Simple Examples** [paradigms-en.ipynb](0-INTRO/paradigms-en.ipynb) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [paradigms-cz.ipynb](0-INTRO/paradigms-cz.ipynb)
 - **9 Fundamental Machine Learning Paradigms with Examples** [9-ML-Paradigms.ipynb](0-INTRO/9-ML-Paradigms.ipynb)
 
+## 0. CASE STUDIES
+
+- **Case Studies: End-to-End ML Projects**
+  - **Customer Churn Prediction Project** (001)
+  - **Sentiment Analysis for Movie Reviews** (002)
+  - **Energy Consumption Forecasting** (003)
+  - **Retail Sales Prediction** (004)
+  - **Diabetes Progression Prediction** (005)
+  - **Movie Recommendation System** (006)
+  - **Bird Species Classification** (007)
+  - **Medical Image Classification for Disease Detection** (008)
+  - **3 Small Case Studies** (009)
+    - (Regression, Classification, Clustering)
+  - **3 Advanced Case Studies** (010)
+    - (Regression, Classification, Clustering)
+  ---
+  - **ML Case Studies** (3 main categories)
+    - (Regression, Classification, Clustering)
+  - **ML Case Studies** (5 other categories)
+    - (Dimensionality Reduction, Ensemble Learning, Anomaly Detection, Time Series Analysis, Semi-Supervised Learning)
+
 ## 0. SAMPLES
 
 - Titanic Dataset Analysis
