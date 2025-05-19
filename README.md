@@ -26,7 +26,7 @@
   - **Sentiment Analysis for Movie Reviews** (002) 📗 [case-study-002-en.md](0-CASE-STUDIES/case-study-002-en.md)
   - **Energy Consumption Forecasting** (003) 📗 [case-study-003-en.md](0-CASE-STUDIES/case-study-003-en.md)
   - **Retail Sales Prediction** (004) 📗 [case-study-004-en.md](0-CASE-STUDIES/case-study-004-en.md)
-  - **Diabetes Progression Prediction** (005)
+  - **Diabetes Progression Prediction** (005) 📗 [case-study-005-en.md](0-CASE-STUDIES/case-study-005-en.md)
   - **Movie Recommendation System** (006)
   - **Bird Species Classification** (007)
   - **Medical Image Classification for Disease Detection** (008)
