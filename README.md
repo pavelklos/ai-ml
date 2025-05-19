@@ -24,7 +24,7 @@
 - **Case Studies: End-to-End ML Projects**
   - **Customer Churn Prediction Project** (001) 📗 [case-study-001-en.md](0-CASE-STUDIES/case-study-001-en.md)
   - **Sentiment Analysis for Movie Reviews** (002) 📗 [case-study-002-en.md](0-CASE-STUDIES/case-study-002-en.md)
-  - **Energy Consumption Forecasting** (003)
+  - **Energy Consumption Forecasting** (003) 📗 [case-study-003-en.md](0-CASE-STUDIES/case-study-003-en.md)
   - **Retail Sales Prediction** (004)
   - **Diabetes Progression Prediction** (005)
   - **Movie Recommendation System** (006)
