@@ -29,7 +29,7 @@
   - **Diabetes Progression Prediction** (005) 📗 [case-study-005-en.md](0-CASE-STUDIES/case-study-005-en.md)
   - **Movie Recommendation System** (006) 📗 [case-study-006-en.md](0-CASE-STUDIES/case-study-006-en.md)
   - **Bird Species Classification** (007) 📗 [case-study-007-en.md](0-CASE-STUDIES/case-study-007-en.md)
-  - **Medical Image Classification for Disease Detection** (008)
+  - **Medical Image Classification for Disease Detection** (008) 📗 [case-study-008-en.md](0-CASE-STUDIES/case-study-008-en.md)
   - **3 Small Case Studies** (009)
     - (Regression, Classification, Clustering)
   - **3 Advanced Case Studies** (010)
