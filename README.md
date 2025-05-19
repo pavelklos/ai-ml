@@ -32,7 +32,7 @@
   - **Medical Image Classification for Disease Detection** (008) 📗 [case-study-008-en.md](0-CASE-STUDIES/case-study-008-en.md)
   - **3 Small Case Studies** (009) 📗 [case-study-009-3-case-studies-en.md](0-CASE-STUDIES/case-study-009-3-case-studies-en.md)
     - (Regression, Classification, Clustering)
-  - **3 Advanced Case Studies** (010)
+  - **3 Advanced Case Studies** (010) 📗 [case-study-010-3-case-studies-en.md](0-CASE-STUDIES/case-study-010-3-case-studies-en.md)
     - (Regression, Classification, Clustering)
   ---
   - **ML Case Studies** (3 main categories)
