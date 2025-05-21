@@ -37,7 +37,7 @@
   ---
   - **ML Case Studies** (3 main categories) 📗 [case-study-summary-3-techniques-en.md](0-CASE-STUDIES/case-study-summary-3-techniques-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [case-study-summary-3-techniques-cz.md](0-CASE-STUDIES/case-study-summary-3-techniques-cz.md)
     - (Regression, Classification, Clustering)
-  - **ML Case Studies** (5 other categories) 📗 [case-study-summary-other-techniques-en.md](0-CASE-STUDIES/case-study-summary-other-techniques-en.md)
+  - **ML Case Studies** (5 other categories) 📗 [case-study-summary-other-techniques-en.md](0-CASE-STUDIES/case-study-summary-other-techniques-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [case-study-summary-other-techniques-cz.md](0-CASE-STUDIES/case-study-summary-other-techniques-cz.md)
     - (Dimensionality Reduction, Ensemble Learning, Anomaly Detection, Time Series Analysis, Semi-Supervised Learning)
 
 ## 0. SAMPLES
