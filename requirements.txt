@@ -49,3 +49,7 @@ yellowbrick
 umap-learn
 mlflow
 autogluon
+prophet
+holidays
+Faker
+gradio
