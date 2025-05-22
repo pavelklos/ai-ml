@@ -26,7 +26,7 @@
   - **Sentiment Analysis for Movie Reviews** (002) 📗 [case-study-002-en.md](0-CASE-STUDIES/case-study-002-en.md) (get data) [002-en-data.md](0-CASE-STUDIES/002-en-data.md)
   - **Energy Consumption Forecasting** (003) 📗 [case-study-003-en.md](0-CASE-STUDIES/case-study-003-en.md) (get data) [003-en-data.md](0-CASE-STUDIES/003-en-data.md)
   - **Retail Sales Prediction** (004) 📗 [case-study-004-en.md](0-CASE-STUDIES/case-study-004-en.md) (get data) [004-en-data.md](0-CASE-STUDIES/004-en-data.md)
-  - **Diabetes Progression Prediction** (005) 📗 [case-study-005-en.md](0-CASE-STUDIES/case-study-005-en.md)
+  - **Diabetes Progression Prediction** (005) 📗 [case-study-005-en.md](0-CASE-STUDIES/case-study-005-en.md) (get data) [005-en-data.md](0-CASE-STUDIES/005-en-data.md)
   - **Movie Recommendation System** (006) 📗 [case-study-006-en.md](0-CASE-STUDIES/case-study-006-en.md)
   - **Bird Species Classification** (007) 📗 [case-study-007-en.md](0-CASE-STUDIES/case-study-007-en.md)
   - **Medical Image Classification for Disease Detection** (008) 📗 [case-study-008-en.md](0-CASE-STUDIES/case-study-008-en.md)
