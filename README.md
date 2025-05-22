@@ -24,7 +24,7 @@
 - **Case Studies** (End-to-End ML Projects) ⚠️(convert to Jupyter Notebooks)
   - **Customer Churn Prediction Project** (001) 📗 [case-study-001-en.md](0-CASE-STUDIES/case-study-001-en.md) (get data) [001a-en-data.md](0-CASE-STUDIES/001a-en-data.md), [001b-en-data.md](0-CASE-STUDIES/001b-en-data.md)
   - **Sentiment Analysis for Movie Reviews** (002) 📗 [case-study-002-en.md](0-CASE-STUDIES/case-study-002-en.md) (get data) [002-en-data.md](0-CASE-STUDIES/002-en-data.md)
-  - **Energy Consumption Forecasting** (003) 📗 [case-study-003-en.md](0-CASE-STUDIES/case-study-003-en.md)
+  - **Energy Consumption Forecasting** (003) 📗 [case-study-003-en.md](0-CASE-STUDIES/case-study-003-en.md) (get data) [003-en-data.md](0-CASE-STUDIES/003-en-data.md)
   - **Retail Sales Prediction** (004) 📗 [case-study-004-en.md](0-CASE-STUDIES/case-study-004-en.md)
   - **Diabetes Progression Prediction** (005) 📗 [case-study-005-en.md](0-CASE-STUDIES/case-study-005-en.md)
   - **Movie Recommendation System** (006) 📗 [case-study-006-en.md](0-CASE-STUDIES/case-study-006-en.md)
