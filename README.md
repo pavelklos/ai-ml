@@ -32,7 +32,7 @@
   - **Medical Image Classification for Disease Detection** (008) 📗 [case-study-008-en.md](0-CASE-STUDIES/case-study-008-en.md) (get data) [008a-en-data.md](0-CASE-STUDIES/008a-en-data.md), [008b-en-data.md](0-CASE-STUDIES/008b-en-data.md)
   - **3 Small Case Studies** (009) 📗 [case-study-009-3-case-studies-en.md](0-CASE-STUDIES/case-study-009-3-case-studies-en.md) (get data) [009-en-data.md](0-CASE-STUDIES/009-en-data.md)
     - (Regression, Classification, Clustering)
-    - (Jupyter Notebook) [case-study-009-3-case-studies-en.ipynb](0-CASE-STUDIES/case-study-009-3-case-studies-en.ipynb) ✅
+    - (Jupyter Notebook) [case-study-009-3-case-studies-en.ipynb](0-CASE-STUDIES/case-study-009-3-case-studies-en.ipynb) ✅ + data (4 files)
   - **3 Advanced Case Studies** (010) 📗 [case-study-010-3-case-studies-en.md](0-CASE-STUDIES/case-study-010-3-case-studies-en.md) (get data) [010-en-data.md](0-CASE-STUDIES/010-en-data.md)
     - (Regression, Classification, Clustering)
   ---
