@@ -36,7 +36,7 @@
   - **3 Advanced Case Studies** (010) 📗 [case-study-010-3-case-studies-en.md](0-CASE-STUDIES/case-study-010-3-case-studies-en.md) (get data) [010-en-data.md](0-CASE-STUDIES/010-en-data.md)
     - (Regression, Classification, Clustering)
     - (Jupyter Notebook) [case-study-010-3-case-studies-en.ipynb](0-CASE-STUDIES/case-study-010-3-case-studies-en.ipynb) ✅ + data (3 files)
-    - (get data) [010-1-data.ipynb](0-CASE-STUDIES/010-1-data.ipynb)
+    - (get data) [010-1-data.ipynb](0-CASE-STUDIES/010-1-data.ipynb), [010-2-data.ipynb](0-CASE-STUDIES/010-2-data.ipynb)
   ---
   - **ML Case Studies** (3 main categories) Summary
     - (Regression, Classification, Clustering)
