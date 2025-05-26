@@ -39,6 +39,9 @@
     - (Regression, Classification, Clustering)
     - (Jupyter Notebook) [case-study-010-3-case-studies-en.ipynb](0-CASE-STUDIES/case-study-010-3-case-studies-en.ipynb) ✅ + data (3 files)
     - (get data) [010-en-data.md](0-CASE-STUDIES/010-en-data.md), [010-1-data.ipynb](0-CASE-STUDIES/010-1-data.ipynb), [010-2-data.ipynb](0-CASE-STUDIES/010-2-data.ipynb)
+  - **Energy Consumption Forecasting** (011)
+    - (Jupyter Notebook) [case-study-011-1-case-study-en.ipynb](0-CASE-STUDIES/case-study-011-1-case-study-en/case-study-011-1-case-study-en.ipynb)
+
   ---
   - **ML Case Studies** (3 main categories) Summary
     - (Regression, Classification, Clustering)
