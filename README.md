@@ -53,7 +53,7 @@
 
 ## 0. GUIDE
 
-- **Machine Learning & AI Course Guide** 📗 [04.ai-ml-en.md](0-GUIDE/04.ai-ml-en.md)
+- **Machine Learning & AI Course Guide** 📗 [04.ai-ml-en.md](0-GUIDE/04.ai-ml-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.ai-ml-cz.md](0-GUIDE/04.ai-ml-cz.md)
   01. **Introduction to AI: From Theory to Practice**
   02. **Linear Regression Model: Teaching Computers to Predict**
   03. **Classification: Teaching Computers to Recognize**
