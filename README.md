@@ -51,6 +51,24 @@
     - (Dimensionality Reduction, Ensemble Learning, Anomaly Detection, Time Series Analysis, Semi-Supervised Learning)
     - 📗 [case-study-summary-other-techniques-en.md](0-CASE-STUDIES/case-study-summary-other-techniques-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [case-study-summary-other-techniques-cz.md](0-CASE-STUDIES/case-study-summary-other-techniques-cz.md)
 
+## 0. GUIDE
+
+- **Machine Learning & AI Course Guide**
+  01. **Introduction to AI: From Theory to Practice**
+  02. **Linear Regression Model: Teaching Computers to Predict**
+  03. **Classification: Teaching Computers to Recognize**
+  04. **Decision Trees: Foundation of Many Efficient Algorithms**
+  05. **Data Pipelines and Feature Engineering Art**
+  06. **Data Transformers: Creating Effective Models**
+  07. **Data Quality: Foundation of Successful AI**
+  08. **Cross-Validation and Model Selection Art**
+  09. **Ensemble Models: Power of Diversity**
+  10. **Time Series: Predicting the Future**
+  11. **Neural Networks: The Brain of AI**
+  12. **Dimensionality Reduction and Embedding Techniques**
+  13. **ChatGPT and Language Models: Conversing with AI**
+  14. **Conclusion, Q&A Session, Job Market Discussion**
+
 ## 0. SAMPLES
 
 - Titanic Dataset Analysis
