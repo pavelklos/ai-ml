@@ -67,7 +67,7 @@
   11. **Neural Networks: The Brain of AI** 📗 [04-11a.md](0-GUIDE/04-11a.md)
   12. **Dimensionality Reduction and Embedding Techniques** 📗 [04-12a.md](0-GUIDE/04-12a.md)
   13. **ChatGPT and Language Models: Conversing with AI** 📗 [04-13a.md](0-GUIDE/04-13a.md)
-  14. **Conclusion, Q&A Session, Job Market Discussion**
+  14. **Conclusion, Q&A Session, Job Market Discussion** 📗 [04-14a.md](0-GUIDE/04-14a.md)
 
 ## 0. SAMPLES
 
