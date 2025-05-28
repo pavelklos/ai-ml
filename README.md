@@ -64,7 +64,7 @@
   08. **Cross-Validation and Model Selection Art** 📗 [04-08a.md](0-GUIDE/04-08a.md)
   09. **Ensemble Models: Power of Diversity** 📗 [04-09a.md](0-GUIDE/04-09a.md)
   10. **Time Series: Predicting the Future** 📗 [04-10a.md](0-GUIDE/04-10a.md)
-  11. **Neural Networks: The Brain of AI**
+  11. **Neural Networks: The Brain of AI** 📗 [04-11a.md](0-GUIDE/04-11a.md)
   12. **Dimensionality Reduction and Embedding Techniques**
   13. **ChatGPT and Language Models: Conversing with AI**
   14. **Conclusion, Q&A Session, Job Market Discussion**
