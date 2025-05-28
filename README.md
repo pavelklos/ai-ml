@@ -57,7 +57,7 @@
   01. **Introduction to AI: From Theory to Practice** 📗 [04-01a.md](0-GUIDE/04-01a.md), [04-01b.md](0-GUIDE/04-01b.md), [04-01c.md](0-GUIDE/04-01c.md), [04-01d.md](0-GUIDE/04-01d.md)
   02. **Linear Regression Model: Teaching Computers to Predict** 📗 [04-02a.md](0-GUIDE/04-02a.md)
   03. **Classification: Teaching Computers to Recognize** 📗 [04-03a.md](0-GUIDE/04-03a.md)
-  04. **Decision Trees: Foundation of Many Efficient Algorithms**
+  04. **Decision Trees: Foundation of Many Efficient Algorithms** 📗 [04-04a.md](0-GUIDE/04-04a.md)
   05. **Data Pipelines and Feature Engineering Art**
   06. **Data Transformers: Creating Effective Models**
   07. **Data Quality: Foundation of Successful AI**
