@@ -61,7 +61,7 @@
   05. **Data Pipelines and Feature Engineering Art** 📗 [04-05a.md](0-GUIDE/04-05a.md)
   06. **Data Transformers: Creating Effective Models** 📗 [04-06a.md](0-GUIDE/04-06a.md)
   07. **Data Quality: Foundation of Successful AI** 📗 [04-07a.md](0-GUIDE/04-07a.md)
-  08. **Cross-Validation and Model Selection Art**
+  08. **Cross-Validation and Model Selection Art** 📗 [04-08a.md](0-GUIDE/04-08a.md)
   09. **Ensemble Models: Power of Diversity**
   10. **Time Series: Predicting the Future**
   11. **Neural Networks: The Brain of AI**
