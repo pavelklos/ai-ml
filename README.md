@@ -59,7 +59,7 @@
   02. **Linear Regression Model: Teaching Computers to Predict** 📗 [04-02-cs4a.md](0-GUIDE/04-02-cs4a.md) 📗 [04-02a.md](0-GUIDE/04-02a.md)
   03. **Classification: Teaching Computers to Recognize** 📗 [04-03-cs4a.md](0-GUIDE/04-03-cs4a.md) 📗 [04-03a.md](0-GUIDE/04-03a.md)
   04. **Decision Trees: Foundation of Many Efficient Algorithms** 📗 [04-04-cs4a.md](0-GUIDE/04-04-cs4a.md) 📗 [04-04a.md](0-GUIDE/04-04a.md)
-  05. **Data Pipelines and Feature Engineering Art** 📗 [04-05a.md](0-GUIDE/04-05a.md)
+  05. **Data Pipelines and Feature Engineering Art** 📗 [04-05-cs4a.md](0-GUIDE/04-05-cs4a.md) 📗 [04-05a.md](0-GUIDE/04-05a.md)
   06. **Data Transformers: Creating Effective Models** 📗 [04-06a.md](0-GUIDE/04-06a.md)
   07. **Data Quality: Foundation of Successful AI** 📗 [04-07a.md](0-GUIDE/04-07a.md)
   08. **Cross-Validation and Model Selection Art** 📗 [04-08a.md](0-GUIDE/04-08a.md)
