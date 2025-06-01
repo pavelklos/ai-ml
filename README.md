@@ -55,7 +55,7 @@
 *<small>Claude Sonnet 4, Claude 3.7 Sonnet Thinking</small>*
 
 - **Machine Learning & AI Course Guide** 📗 [04.ai-ml-en.md](0-GUIDE/04.ai-ml-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [04.ai-ml-cz.md](0-GUIDE/04.ai-ml-cz.md)
-  01. **Introduction to AI: From Theory to Practice** 📗 [04-01a.md](0-GUIDE/04-01a.md), [04-01b.md](0-GUIDE/04-01b.md), [04-01c.md](0-GUIDE/04-01c.md), [04-01d.md](0-GUIDE/04-01d.md)
+  01. **Introduction to AI: From Theory to Practice** 📗 [04-01-cs4a.md](0-GUIDE/04-01-cs4a.md) 📗 [04-01a.md](0-GUIDE/04-01a.md), [04-01b.md](0-GUIDE/04-01b.md), [04-01c.md](0-GUIDE/04-01c.md), [04-01d.md](0-GUIDE/04-01d.md)
   02. **Linear Regression Model: Teaching Computers to Predict** 📗 [04-02a.md](0-GUIDE/04-02a.md)
   03. **Classification: Teaching Computers to Recognize** 📗 [04-03a.md](0-GUIDE/04-03a.md)
   04. **Decision Trees: Foundation of Many Efficient Algorithms** 📗 [04-04a.md](0-GUIDE/04-04a.md)
