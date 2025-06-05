@@ -68,7 +68,7 @@
   11. **Neural Networks: The Brain of AI** 📗 [04-11-cs4a.md](0-GUIDE/04-11-cs4a.md) 📗 [04-11a.md](0-GUIDE/04-11a.md) 📗 [04-11-cwa.md](0-GUIDE/04-11-cwa.md)
   12. **Dimensionality Reduction and Embedding Techniques** 📗 [04-12-cs4a.md](0-GUIDE/04-12-cs4a.md) 📗 [04-12a.md](0-GUIDE/04-12a.md) 📗 [04-12-cwa.md](0-GUIDE/04-12-cwa.md)
   13. **ChatGPT and Language Models: Conversing with AI** 📗 [04-13-cs4a.md](0-GUIDE/04-13-cs4a.md) 📗 [04-13a.md](0-GUIDE/04-13a.md) 📗 [04-13-cwa.md](0-GUIDE/04-13-cwa.md)
-  14. **Conclusion, Q&A Session, Job Market Discussion** 📗 [04-14-cs4a.md](0-GUIDE/04-14-cs4a.md) 📗 [04-14a.md](0-GUIDE/04-14a.md)
+  14. **Conclusion, Q&A Session, Job Market Discussion** 📗 [04-14-cs4a.md](0-GUIDE/04-14-cs4a.md) 📗 [04-14a.md](0-GUIDE/04-14a.md) 📗 [04-14-cwa.md](0-GUIDE/04-14-cwa.md)
 
 ## 0. SAMPLES
 
