@@ -53,3 +53,4 @@ prophet
 holidays
 Faker
 gradio
+memory-profiler
