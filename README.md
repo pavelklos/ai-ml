@@ -59,7 +59,7 @@
   02. **Linear Regression Model: Teaching Computers to Predict** 📗 [04-02-cs4a.md](0-GUIDE/04-02-cs4a.md) 📗 [04-02a.md](0-GUIDE/04-02a.md) 📗 [04-02-cwa.md](0-GUIDE/04-02-cwa.md)
   03. **Classification: Teaching Computers to Recognize** 📗 [04-03-cs4a.md](0-GUIDE/04-03-cs4a.md) 📗 [04-03a.md](0-GUIDE/04-03a.md) 📗 [04-03-cwa.md](0-GUIDE/04-03-cwa.md)
   04. **Decision Trees: Foundation of Many Efficient Algorithms** 📗 [04-04-cs4a.md](0-GUIDE/04-04-cs4a.md), *(updated)* [04-04-cs4b.md](0-GUIDE/04-04-cs4b.md) 📗 [04-04a.md](0-GUIDE/04-04a.md) 📗 [04-04-cwa.md](0-GUIDE/04-04-cwa.md)
-  05. **Data Pipelines and Feature Engineering Art** 📗 [04-05-cs4a.md](0-GUIDE/04-05-cs4a.md) 📗 [04-05a.md](0-GUIDE/04-05a.md) 📗 [04-05-cwa.md](0-GUIDE/04-05-cwa.md)
+  05. **Data Pipelines and Feature Engineering Art** 📗 [04-05-cs4a.md](0-GUIDE/04-05-cs4a.md), *(updated)* [04-05-cs4b.md](0-GUIDE/04-05-cs4b.md) 📗 [04-05a.md](0-GUIDE/04-05a.md) 📗 [04-05-cwa.md](0-GUIDE/04-05-cwa.md)
   06. **Data Transformers: Creating Effective Models** 📗 [04-06-cs4a.md](0-GUIDE/04-06-cs4a.md) 📗 [04-06a.md](0-GUIDE/04-06a.md) 📗 [04-06-cwa.md](0-GUIDE/04-06-cwa.md)
   07. **Data Quality: Foundation of Successful AI** 📗 [04-07-cs4a.md](0-GUIDE/04-07-cs4a.md) 📗 [04-07a.md](0-GUIDE/04-07a.md) 📗 [04-07-cwa.md](0-GUIDE/04-07-cwa.md)
   08. **Cross-Validation and Model Selection Art** 📗 [04-08-cs4a.md](0-GUIDE/04-08-cs4a.md) 📗 [04-08a.md](0-GUIDE/04-08a.md) 📗 [04-08-cwa.md](0-GUIDE/04-08-cwa.md)
