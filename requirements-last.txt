@@ -99,6 +99,7 @@ fastjsonschema==2.21.1
 fastparquet==2024.11.0
 fastprogress==1.0.3
 fasttransform==0.0.2
+feature-engine==1.8.3
 ffmpy==0.5.0
 filelock==3.18.0
 flake8==7.2.0

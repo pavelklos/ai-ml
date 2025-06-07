@@ -54,3 +54,4 @@ holidays
 Faker
 gradio
 memory-profiler
+feature-engine
