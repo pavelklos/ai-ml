@@ -55,3 +55,4 @@ Faker
 gradio
 memory-profiler
 feature-engine
+pyod
